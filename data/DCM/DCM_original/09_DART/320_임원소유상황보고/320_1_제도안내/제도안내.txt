@@ -1,0 +1,220 @@
+<div class="content-box tab-pane active" id="content-tab-1">
+ <h3>
+  1. 개요
+  <em class="small">
+   (법 §173①)
+  </em>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     임원•주요주주는
+     <strong class="font-red">
+      임원•주요주주가 된 날
+     </strong>
+     부터 5일 이내에 자기의 계산으로 소유하는 해당법인의 특정증권의
+     <strong class="font-red">
+      소유상황을 보고
+     </strong>
+     하고 소유증권의
+     <strong class="font-red">
+      수의 변동
+     </strong>
+     이 있는 경우에는 그 변동이 있는 날부터 5일 이내에
+     <strong class="font-red">
+      변동내용을 보고
+     </strong>
+     해야 합니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  2. 보고대상증권
+  <em class="small">
+   (법 §172①, 영 §196)
+  </em>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     <strong class="font-red">
+      지분증권
+     </strong>
+     (의결권 없는 우선주 포함)
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     전환사채, 신주인수권부사채, 이익참가부사채, 교환사채 등(
+     <strong class="font-red">
+      순수채무증권 제외
+     </strong>
+     )
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     위 증권과
+     <strong class="font-red">
+      관련된 증권예탁증권, 교환사채권
+     </strong>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     위 증권만을
+     <strong class="font-red">
+      기초자산
+     </strong>
+     으로 하는
+     <strong class="font-red">
+      금융투자상품
+     </strong>
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  3. 보고의무자
+  <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('3201');">
+   다운로드
+  </a>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="number">
+     ①
+    </i>
+    <p>
+     임원
+     <em class="small">
+      (법 §172①, 영 §200②)
+     </em>
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i class="square">
+       ■
+      </i>
+      <p>
+       <strong class="font-red">
+        이사
+       </strong>
+       (사외이사 포함),
+       <strong class="font-red">
+        감사
+       </strong>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i class="square">
+       ■
+      </i>
+      <p>
+       <strong class="font-red">
+        사실상 임원
+       </strong>
+       (상법상 업무집행지시자 및 집행임원 포함)
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="number">
+     ②
+    </i>
+    <p>
+     주요주주
+     <em class="small">
+      (법 §9①, 금융회사의 지배구조에 관한 법률 §2)
+     </em>
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i class="square">
+       ■
+      </i>
+      <p>
+       의결권 있는 발행주식 총수의
+       <strong class="font-red">
+        10% 이상의 주식을 소유
+       </strong>
+       한 자
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i class="square">
+       ■
+      </i>
+      <p>
+       <strong class="font-red">
+        주요 경영사항에 대하여 사실상 영향력을 행사
+       </strong>
+       하는 주주
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+ <h3>
+  4. 보고기한
+  <em class="small">
+   (법 §172, 영 §200⑥⑦⑧⑨)
+  </em>
+  <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('3202');">
+   다운로드
+  </a>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     최초로 임원•주요주주가 된 날 혹은 변동이 있는 날부터
+     <strong class="font-red">
+      5영업일 이내
+     </strong>
+     이고 특정한 경우에는 예외가 인정됩니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+</div>

@@ -1,0 +1,232 @@
+<div class="content-box tab-pane" id="content-tab-2-3">
+ <h3>
+  1. 신고서식 및 기재요령
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     유형자산 양수•양도결정 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2234');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     타법인주식 및 출자증권 양수•양도결정 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2235');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주권관련사채권 양수•양도결정 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2236');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     중요한 자산양수도(기타) :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2237');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  2. 중요한 자산양수도 제출 예외 사유
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i>
+     -
+    </i>
+    <p>
+     <strong>
+      일상적인거래 영업활동
+     </strong>
+     으로 인한 거래 등은 기존자산의 소유권 이전이라는 양수도의 개념에 해당되지 않아 주요사항보고서 제출대상이 아닙니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <div class="info-table">
+  <table summary="중요한 자산양수도 예외사유 안내 표">
+   <colgroup>
+    <col style="width:100%;"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th>
+      중요한 자산양수도 예외사유
+     </th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td>
+      1. 상품•원재료•저장품 또는 그 밖에 재고자산의 매입•매출 등 일상적인 영업활동으로 인한 자산의 양수•양도
+     </td>
+    </tr>
+    <tr>
+     <td>
+      2. 영업활동에 사용되는 기계, 설비, 장치 등의 주기적 교체를 위한 자산의 취득 또는 처분. 다만, 그 교체주기가 1년 미만인 경우에 한한다.
+     </td>
+    </tr>
+    <tr>
+     <td>
+      3. 자본시장법 및 「상법」에 따른 자기주식의 취득 또는 처분
+     </td>
+    </tr>
+    <tr>
+     <td>
+      4. 「금융위원회의 설치 등에 관한 법률」 제38조에 따른 검사대상기관과의 거래로서 약관에 따른 정형화된 거래
+     </td>
+    </tr>
+    <tr>
+     <td>
+      5. 「자산유동화에 관한 법률」에 따른 자산유동화
+     </td>
+    </tr>
+    <tr>
+     <td>
+      6. 공개매수에 의한 주식등의 취득, 공개매수청약에 의한 주식등의 처분
+     </td>
+    </tr>
+    <tr>
+     <td>
+      7. 자본시장법 제4조 제3항에서 정한 국채증권•지방채증권•특수채증권 또는 법률에 의하여 직접 설립된 법인이 발행한 출자증권의 양수•양도
+     </td>
+    </tr>
+    <tr>
+     <td>
+      8. 제1호부터 제7호까지에 준하는 자산의 양수•양도로서 투자자 보호의 필요성이 낮은 자산의 양수 또는 양도
+     </td>
+    </tr>
+   </tbody>
+  </table>
+ </div>
+ <br/>
+ <ul>
+  <li>
+   <div>
+    <i>
+     -
+    </i>
+    <p>
+     또한, 유상증자를 통한 신주 취득, 공장 등 자산을 건축하는 행위 등은 자산양수도 개념에 포함되지 않아 자산 양수도 관련 주요사항보고서 제출의무가 없습니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <div class="info-box border">
+  <div>
+   &lt;참고사항&gt;
+  </div>
+  <ul>
+   <li>
+    <div>
+     <i class="number">
+      ①
+     </i>
+     <p>
+      유상증자시 청약을 통해 신주를 취득하는 경우는 기존 자산의 소유권 이전이라는 양수•양도의 개념에 포함되기 어려워 주요사항보고서 제출대상이 아님
+     </p>
+    </div>
+   </li>
+   <li>
+    <div>
+     <i class="number">
+      ②
+     </i>
+     <p>
+      증여의 경우 거래금액이 없으나, 증여대상인 자산의 장부가액이 최근 사업연도말 현재 자산총액의 10%이상인 경우 주요사항보고서 제출대상에 해당함
+     </p>
+    </div>
+   </li>
+   <li>
+    <div>
+     <i class="number">
+      ③
+     </i>
+     <p>
+      원시취득의 경우 거래의 상대방이 없어 양수•양도의 개념에 포함되기 어려우므로 주요사항보고서 제출대상이 아님
+     </p>
+    </div>
+   </li>
+   <li>
+    <div>
+     <i class="number">
+      ④
+     </i>
+     <p>
+      공장 등 자산을 건축하는 행위는 원시취득이므로 자산양수도가 아니며, 자산의 건축을 위한 원재료 취득행위도 그 실질은 자산의 건축으로 판단할 수 있으므로 주요사항보고서 제출대상이 아님
+     </p>
+    </div>
+   </li>
+  </ul>
+ </div>
+ <h3>
+  3. 작성시 유의사항
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     중요한 자산의 양수•양도 거래 체결에도 불구하고 주요사항보고서를
+     <strong class="font-red">
+      제출하지 않는 경우 과징금 부과대상
+     </strong>
+     이 될 수 있습니다.
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       주권상장법인의 경우 외부평가의견서를
+       <strong class="font-red">
+        첨부 누락
+       </strong>
+       하는 경우
+       <strong class="font-red">
+        과징금 부과대상
+       </strong>
+       이 될수 있습니다.
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+</div>

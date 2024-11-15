@@ -1,0 +1,82 @@
+<div class="content-box tab-pane" id="content-tab-2">
+ <h3>
+  1. 작성요령
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="number">
+     ①
+    </i>
+    <p>
+     확인서 서식에 대표이사 및 신고담당 이사의 성명을 기재하여 출력합니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="number">
+     ②
+    </i>
+    <p>
+     확인서에 대표이사 및 신고담당이사가
+     <strong class="font-red">
+      직접 자필로 서명
+     </strong>
+     합니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="number">
+     ③
+    </i>
+    <p>
+     확인서
+     <strong>
+      내용 전체를 스캔
+     </strong>
+     하여 그림파일로 만들어서 전자공시서식에 삽입합니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  2. 서명 대상 공시 서류
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     대표이사와 신고담당 이사가
+     <strong class="font-red">
+      각각 서명
+     </strong>
+     해야합니다.
+     <br/>
+     (주의) 신고담당 이사가 없는 경우에는 이사의 업무를 집행하는 실무 책임자가 서명을 해야합니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     반드시
+     <strong class="font-red">
+      자필로 직접 서명
+     </strong>
+     해야하며 날인(도장)으로 대체하여서는 안됩니다.
+     <br/>
+     (주의) 서명한 확인서 내용 전체를 스캔해서 첨부해야하며, 서명 등 일부만을 스캔해서 첨부해서는 안됩니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+</div>

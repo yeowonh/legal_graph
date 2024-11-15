@@ -1,0 +1,301 @@
+<div class="content-box tab-pane active" id="content-tab-1-1">
+ <h3>
+  1. 제도의 의의
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주요사항보고서는 법인의 경영•재산 등에 중대한 영향을 미치는 사항이 발생한 경우에 그 사실을 공시토록 함으로써 분기마다 제출되는 정기보고서를 보완하는 공시제도입니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  2. 주요사항보고서 제출대상법인
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     사업보고서 제출대상법인과 동일합니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  3. 주요사항보고서 제출사유 및 기한
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     제출 사유 및 첨부서류
+     <em class="small">
+      (법 §161)
+     </em>
+     :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2201');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     제출 기한
+     <em class="small">
+      (법 §161)
+     </em>
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       주요사항보고서 제출사유가 발생한 날의
+       <strong class="font-red">
+        다음날
+       </strong>
+       까지 주요사항보고서를 제출하여야 합니다.
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       다만, 합병, 분할, 분할합병, 주식의 포괄적 교환•이전은
+       <strong class="font-red">
+        3일 이내
+       </strong>
+       <strong>
+        에 제출
+       </strong>
+       해야 합니다.
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+ <div class="info-box border">
+  <ul>
+   <li>
+    <div>
+     <p>
+      ※
+      <strong>
+       (참고) 주권상장법인의 주요사항보고서 제출의무
+      </strong>
+     </p>
+    </div>
+    <ul>
+     <li>
+      <div>
+       <i>
+        -
+       </i>
+       <p>
+        주요사항보고 중 거래소의 수시공시와 동일서식을 사용하는 항목은 하나의 서식으로 작성하여 금융감독원 전자공시시스템에 한번에 제출
+        <sup>
+         *
+        </sup>
+        함으로써 주요사항보고 및 수시공시의무를 동시에 이행하게 됨
+       </p>
+      </div>
+      <ul>
+       <li>
+        <div>
+         <i>
+          <sup>
+           *
+          </sup>
+         </i>
+         <p>
+          DART에 제출하면 실시간으로 거래소 상장공시시스템(KIND)으로 전송
+         </p>
+        </div>
+       </li>
+       <li>
+        <div>
+         <i>
+          →
+         </i>
+         <p>
+          상장법인은 거래소 수시공시 기한(사유 발생일 당일)과 주요사항보고서 기한 중 빠른 날을 준수하여야 함
+         </p>
+        </div>
+       </li>
+      </ul>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </div>
+ <h3>
+  4. 외국법인의 주요사항보고서 제출의무
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     제출 사유 및 제출기한
+     <em class="small">
+      (법 §161)
+     </em>
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       사업보고서 제출대상 외국법인도 국내법인과 동일하게 해당 사실이 발생한 날의 다음날까지 주요사항보고서를 제출해야 합니다.
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       단, 주요사항보고서에 상당하는 서류를 해당 국가에 제출한 경우에는 그 날부터 5일 이내에 주요사항보고서를 제출하거나 해당 국가에서 제출한 주요사항보고서에 상당하는 서류에 요약 한글번역본을 첨부하여 제출할 수 있습니다.
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       또한, 외국법인은 아래의 경우에도 해당 사실 발생일 이후 2영업일까지 주요사항보고서를 제출해야 합니다.
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2202');">
+        다운로드
+       </a>
+      </p>
+     </div>
+     <ul>
+      <li>
+       <div>
+        <i class="number">
+         ①
+        </i>
+        <p>
+         지분증권의 양도제한, 외국법인등의 국유화 등 외국법인등이나 그 출자자에게 중대한 영향을 미치는 외국 법령 등의 변경된 때
+        </p>
+       </div>
+      </li>
+      <li>
+       <div>
+        <i class="number">
+         ②
+        </i>
+        <p>
+         외국법인등의 주식 등에 대하여 외국에서 공개매수 또는 안정조작•시장조성이 행하여지는 때
+        </p>
+       </div>
+      </li>
+      <li>
+       <div>
+        <i class="number">
+         ③
+        </i>
+        <p>
+         외국금융투자감독기관 또는 외국 거래소로부터 관계법규 위반으로 조치를 받은 때
+        </p>
+       </div>
+      </li>
+      <li>
+       <div>
+        <i class="number">
+         ④
+        </i>
+        <p>
+         외국 거래소로부터 매매거래 정지•해제, 상장폐지 조치를 받은 때
+        </p>
+       </div>
+      </li>
+     </ul>
+    </li>
+   </ul>
+  </li>
+ </ul>
+ <h3>
+  5. 주권상장법인의 특례
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주요사항보고서 제출법인 중
+     <strong class="font-red">
+      주권상장법인은
+     </strong>
+     자본시장법
+     <strong class="font-red">
+      특례규정에 따라
+     </strong>
+     자기주식의 취득•처분, 합병 등의 사유 발생 시에도
+     <strong class="font-red">
+      기타공시 서류를 제출
+     </strong>
+     하여야 합니다.
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       특히 사외이사 선•해임 및 퇴임한 날의 다음날까지 주식매수선택권 부여신고는 부여하기로 결의한 경우 지체없이 신고하여야 합니다.
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       기타공시 제출사유 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2203');">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+</div>

@@ -1,0 +1,434 @@
+<div class="content-box tab-pane active" id="content-tab-1">
+ <h3>
+  1. 개요
+  <em class="small">
+   (법 §147 ① ,④, 영§142)
+  </em>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주식등을
+     <strong class="font-red">
+      5% 이상 보유
+     </strong>
+     하게 되거나 이후 보유비율이
+     <strong class="font-red">
+      1% 이상 변동
+     </strong>
+     된 경우 또는 보유목적등
+     <strong class="font-red">
+      중요한 사항이 변경
+     </strong>
+     된 경우에는
+     <strong class="font-red">
+      5영업일 이내
+     </strong>
+     에 그 보유상황 및 변동•변경내용을
+     <strong class="font-red">
+      보고
+     </strong>
+     해야 합니다.
+    </p>
+   </div>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주식등을
+     <strong class="font-deco-underline font-red">
+      소유한 자
+     </strong>
+     뿐만 아니라 계약 체결 등으로 주식등에 관해 일정한 권리를 가진 자
+     <strong class="font-deco-underline font-red">
+      (소유에 준하는 보유자)
+     </strong>
+     도 보고하여야 함을 유의하시기 바랍니다.
+    </p>
+   </div>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     소유에 준하는 보유자
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('3103');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  2. 보고대상인 주식등
+  <em class="small">
+   (영 §139)
+  </em>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <p>
+     <strong class="font-red">
+      의결권 행사 가능 여부
+     </strong>
+     를 기준으로 보통주 외
+     <strong class="font-red">
+      일정범위의 증권
+     </strong>
+     으로 보고대상인 주식등의
+     <strong class="font-red">
+      범위가 확대
+     </strong>
+     됩니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주권(보통주, 의결권 있는 우선주 등)
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     신주인수권이 표시된 것(워런트, 신주인수권증서)
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     전환사채권(전환대상이 위의 주권인 전환사채)
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     신주인수권부사채(인수대상이 위의 주권인 신주인수권부사채. 단, 워런트 분리 이후의 BW는 제외)
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     위 증권과 관련된 교환사채권, 파생결합증권 등
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  3. 보고의무자
+  <em class="small">
+   (법 §147①, 영 §153④)
+  </em>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     본인과 특별관계자의 합산 보유비율이 5% 이상인 경우
+     <strong class="font-red">
+      그 본인
+     </strong>
+     에게
+     <strong class="font-red">
+      보고의무
+     </strong>
+     가 있습니다(보유 주식등의 수가 가장 많은 자를
+     <strong class="font-red">
+      대표보고자로 선정
+     </strong>
+     하여
+     <strong class="font-red">
+      연명보고 가능
+     </strong>
+     ).
+    </p>
+   </div>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     특별관계자의 범위
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('3104');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  4. 보고 종류
+  <em class="small">
+   (법 §147, 영 §155)
+  </em>
+  <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('3105');">
+   다운로드
+  </a>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     본인과 특별관계자가 보유하는 주식등의 합계가 발행주식등의 총수의
+     <strong class="font-deco-underline font-red">
+      5%이상
+     </strong>
+     이 되면
+     <strong class="font-deco-underline font-red">
+      신규보고
+     </strong>
+     하여야 하고,
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     <strong class="font-deco-underline font-red">
+      보유비율
+     </strong>
+     이 발행 주식등의 총수의
+     <strong class="font-deco-underline font-red">
+      1%이상 변동
+     </strong>
+     시
+     <strong class="font-deco-underline font-red">
+      변동보고
+     </strong>
+     를 하여야 합니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     또한,
+     <strong class="font-red">
+      보유목적 변경
+     </strong>
+     (단순투자목적, 일반투자목적, 경영참가목적) 및
+     <strong class="font-red">
+      보유형태 변경
+     </strong>
+     (소유 ↔ 보유)을 비롯하여 보유주식등(1% 이상의 경우에만)에 대한
+     <strong class="font-red">
+      주요계약
+     </strong>
+     (신탁•담보•대차•장외 주식양수도•콜옵션 계약 등)
+     <strong class="font-red">
+      체결•변경
+     </strong>
+     의 경우 변경 보고의무가 있음에 유의해야 합니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  5. 보고의무 면제
+  <em class="small">
+   (영 §153⑤)
+  </em>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     (변 동)
+     <strong class="font-red">
+      주주배정 유상증자
+     </strong>
+     및
+     <strong class="font-red">
+      자본감소 등
+     </strong>
+     보고의무자의 취득•처분 외
+     <strong class="font-red">
+      주식등 발행회사측 사유
+     </strong>
+     로 인한 비율 변동은
+     <strong class="font-red">
+      일정한 경우
+     </strong>
+     변동 보고의무에서
+     <strong class="font-red">
+      제외
+     </strong>
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('3106');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     (변 경)
+     <strong class="font-red">
+      단순투자목적
+     </strong>
+     의 경우
+     <strong class="font-red">
+      보유형태 변경
+     </strong>
+     및
+     <strong class="font-red">
+      주요계약 체결•변경
+     </strong>
+     에 따른 변경 보고의무가
+     <strong class="font-red">
+      면제
+     </strong>
+     <br/>
+     <strong class="font-red">
+      일반투자목적
+     </strong>
+     의 경우
+     <strong class="font-red">
+      보유형태 변경
+     </strong>
+     에 따른 변경 보고의무가
+     <strong class="font-red">
+      면제
+     </strong>
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  6. 보고기한
+  <em class="small">
+   (영 §153①•§154③④⑤)
+  </em>
+  <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('3107');">
+   다운로드
+  </a>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     (원 칙)
+     <strong class="font-red">
+      보고의무 발생일
+     </strong>
+     (의무발생일을 제외한 그 다음날)로부터
+     <strong class="font-red">
+      5영업일
+     </strong>
+     (공휴일•토요일•근로자의 날 제외) 이내
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     (예 외)
+     <strong class="font-red">
+      단순투자 목적
+     </strong>
+     의
+     <strong class="font-red">
+      변동보고
+     </strong>
+     시 해당 월
+     <strong class="font-red">
+      다음달 10일
+     </strong>
+     까지,
+     <strong class="font-red">
+      일반투자 목적
+     </strong>
+     의
+     <strong class="font-red">
+      변동보고
+     </strong>
+     시
+     <strong class="font-red">
+      10영업일 이내
+     </strong>
+     <br/>
+     ※ 일정범위
+     <strong class="font-red">
+      전문투자자 보고기한 특례
+     </strong>
+     는
+     <strong class="font-red">
+      다운로드
+     </strong>
+     참조
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  7. 냉각기간
+  <em class="small">
+   (법 §150②③)
+  </em>
+  <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('3108');">
+   다운로드
+  </a>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     경영참가 목적으로 주식등을 5% 이상 취득(신규보고)하거나 단순투자 목적으로 보고한 5% 이상 보유자가 보유목적을 경영참가로 바꾸는 경우에는 보고사유 발생일로부터 보고한 날 이후 5일까지 당해 주식등의 추가취득이나 의결권 행사가 금지됩니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+</div>

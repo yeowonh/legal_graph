@@ -1,0 +1,388 @@
+<div class="content-box tab-pane" id="content-tab-4">
+ <h3>
+  CASE 1 : 내부정보 이용 의사가 없어도 단기매매차익 발생할 수 있어 유의
+ </h3>
+ <div class="math-box2 border">
+  <ul>
+   <li>
+    <div>
+     <i>
+      <strong>
+       (사례)
+      </strong>
+     </i>
+     <p>
+      코스닥
+      <strong>
+       상장법인 A社 대표이사 甲
+      </strong>
+      은
+      <strong>
+       ‘16.10월
+      </strong>
+      A社
+								주식을
+      <strong>
+       매도
+      </strong>
+      한 후 주가가 낮은 상태로 지속되자
+      <strong>
+       책임경영
+      </strong>
+      차원에서
+      <strong>
+       ’17.3월
+      </strong>
+      주식
+      <strong>
+       양수
+      </strong>
+      계약을 체결하여 이익이
+								발생
+      <br/>
+      ⇒
+      <strong>
+       甲
+      </strong>
+      은
+      <strong>
+       내부정보 이용 의사 없이
+									양수 계약을 체결
+      </strong>
+      하였으므로 단기매매차익 반환대상에 해당되지 않는다고 오인하였으나, 내부정보를 이용하지 않았더라도
+								특정증권등을 매도한 후 6개월 이내에 매수하였기 때문에 단기매매차익 규정이 적용
+     </p>
+    </div>
+   </li>
+  </ul>
+ </div>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주권상장법인의 임•직원 또는 주요주주에게 특정증권 등을 매수한 후 6개월 이내에 매도하거나 매도한 후
+							6개월 이내에 매수하여 이익이 발생하였다면, 법령에서 정한 예외사유가 아닌 한 단기매매차익 반환 규정이 적용
+    </p>
+   </div>
+   <br/>
+  </li>
+  <li>
+   <ul>
+    <li>
+     <div>
+      <i>
+       ㅇ
+      </i>
+      <p>
+       주권상장법인의 임•직원
+       <sup>
+        *
+       </sup>
+       또는 주요주주는 내부자로서 미공개 내부정보를 이용할 개연성이 크기 때문에 단기매매차익
+									반환제도는
+       <strong class="font-red">
+        미공개 내부정보 이용 여부
+       </strong>
+       를
+       <strong class="font-red">
+        불문
+       </strong>
+       하고 적용
+       <sup>
+        **
+       </sup>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <p class="font13">
+       * 직원의 경우 공시•재무•회계 등 일정업무에 종사하는 자로 한정(단기매매차익 반환 및 불공정거래 조사•신고등에 관한 규정 §5)
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <p class="font13">
+       ** 대법원 2008.3.13. 선고 2006다73218 판결 참조
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+ <h3>
+  CASE 2 : 단기매매차익 반환 규정은 이종증권간에도 적용됨을 유의
+ </h3>
+ <div class="math-box2 border">
+  <ul>
+   <li>
+    <div>
+     <i>
+      <strong>
+       (사례)
+      </strong>
+     </i>
+     <p>
+      상장법인 A社
+      <strong>
+       주요주주 甲
+      </strong>
+      은
+      <strong>
+       ‘15.9월
+      </strong>
+      A社
+      <strong>
+       신주인수권부사채
+      </strong>
+      를
+      <strong>
+       매수
+      </strong>
+      하고,
+      <strong>
+       ’15.12월 A
+      </strong>
+      社
+      <strong>
+       보통주
+      </strong>
+      를
+      <strong>
+       매도
+      </strong>
+      하여 이익이 발생
+      <br/>
+      ⇒ 甲은 신주인수권사채 매수 및 보통주 매도로
+								증권의 종류가 달라 단기매매차익 산정이 되지 않는다고 오인하였으나, 이종증권의 경우에도 적용
+     </p>
+    </div>
+   </li>
+  </ul>
+ </div>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     6개월이내 대응되는 매수•매도증권이 종목•종류가 다른 경우
+     <sup>
+      *
+     </sup>
+     에도 단기매매차익 반환규정이 적용됨
+    </p>
+   </div>
+  </li>
+  <li>
+   <ul>
+    <li>
+     <div>
+      <p class="font13">
+       * 매수•매도증권이 종류는 같으나 종목이 다른 경우
+       <strong class="font-red">
+        (이종종목)
+       </strong>
+       :ex)보통주 매수•우선주 매도
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <p class="font13">
+       매수•매도증권의 종류가 다른 경우
+       <strong class="font-red">
+        (이종증권)
+       </strong>
+       :ex) 보통주 매도•전환사채 매수
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+ <h3>
+  CASE 3 : 제3자배정 유상증자(사모)로 취득한 주식의 보호예수 기간 중에 기존 주식을 매도한 경우에도
+				단기매매차익 반환대상
+ </h3>
+ <div class="math-box2 border">
+  <ul>
+   <li>
+    <div>
+     <i>
+      <strong>
+       (사례)
+      </strong>
+     </i>
+     <p>
+      코스닥 상장법인 A社 주요주주 甲은 ‘15.3월 제3자배정 유상증자(사모)를 통해 A社의 보통주를
+								취득하고(보호예수기간 : 1년), ’15.4월 동 유상증자(사모)에 참여하기 이전부터 소유하고 있던 A社 보통주를
+								매도하여 이익이 발생
+      <br/>
+      ⇒ 甲은 보호예수된 주식이 아닌 기존 보유하고 있던 주식을 매도한 것이므로
+								단기매매차익 규정이 적용되지 않는 것으로 오인하였으나, 이 경우 보호 예수 기간 중에 매매한 경우에도 단기매매차익
+								규정이 적용
+     </p>
+    </div>
+   </li>
+  </ul>
+ </div>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     증권신고서를 제출한 경우(공모
+     <sup>
+      *
+     </sup>
+     )는 단기매매차익 반환의 예외인 ‘모집•매출시 청약하여 취득하는 경우’에 해당되나,
+     <strong class="font-red">
+      증권신고서를 제출하지 않는 제3자배정
+								유상증자(사모)
+     </strong>
+     는
+     <strong class="font-red">
+      예외사유
+     </strong>
+     에
+     <strong class="font-red">
+      미해당
+     </strong>
+    </p>
+   </div>
+  </li>
+  <li>
+   <ul>
+    <li>
+     <div>
+      <p class="font13">
+       * 50명 이상의 자에게 신규발행 또는 기발행된 증권의 취득•매매 청약을 권유하는 행위
+      </p>
+     </div>
+     <br/>
+    </li>
+    <li>
+     <div>
+      <i>
+       ㅇ
+      </i>
+      <p>
+       제3자 배정 유상증자 주식의 취득일(납입기일 다음날)로부터 6개월 전후의 기간내에 매도하여 이익이
+									발생한 경우 단기매매차익 반환대상에 포함
+      </p>
+     </div>
+     <br/>
+    </li>
+    <li>
+     <div>
+      <br/>
+      <i>
+       ㅇ
+      </i>
+      <p>
+       한편,
+       <strong class="font-red">
+        매수한 특정증권이 보호예수
+       </strong>
+       되었더라도 그
+									매수일로부터 6개월 전후의 기간 내에
+       <strong class="font-red">
+        동일한 법인이
+										발행한 다른 증권을 매도
+       </strong>
+       하여 이익이 발생한 경우에도
+       <strong class="font-red">
+        단기매매차익
+										반환대상
+       </strong>
+       이 됨
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+ <h3>
+  CASE 4 : 임원 선임 전에 매수, 선임 후에 매도하여 단기매매차익 발생
+ </h3>
+ <div class="math-box2 border">
+  <ul>
+   <li>
+    <div>
+     <i>
+      <strong>
+       (사례)
+      </strong>
+     </i>
+     <p>
+      코스닥
+      <strong>
+       상장법인 A社 임원 甲
+      </strong>
+      은 임원선임일 이전인
+      <strong>
+       ‘15.11.
+      </strong>
+      A社 주식을
+      <strong>
+       매수
+      </strong>
+      하고, 임원선임일 이후인
+      <strong>
+       ’16.2.
+      </strong>
+      A社 주식을
+      <strong>
+       매도
+      </strong>
+      하여 이익이 발생
+     </p>
+    </div>
+   </li>
+  </ul>
+ </div>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     <strong class="font-red">
+      임•직원이 되기 전에 매수한 주식
+     </strong>
+     을 6개월 이내에
+							임•직원이 된 후 매도하거나, 임•직원일 때 매수한 주식을 6개월 이내에
+     <strong class="font-red">
+      퇴사
+								후 매도
+     </strong>
+     하여 이익이 발생시 단기매매차익 반환대상
+    </p>
+   </div>
+   <br/>
+  </li>
+  <li>
+   <ul>
+    <li>
+     <div>
+      <i>
+       ㅇ
+      </i>
+      <p>
+       다만, 주요주주는 매도 및 매수 모든 시점에 주요주주의 지위에 있어야 단기매매차익 반환대상자임을 유의
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+</div>

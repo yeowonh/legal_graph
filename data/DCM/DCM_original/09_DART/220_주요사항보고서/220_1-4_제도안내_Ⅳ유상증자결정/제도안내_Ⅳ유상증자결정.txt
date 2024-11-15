@@ -1,0 +1,82 @@
+<div class="content-box tab-pane" id="content-tab-1-4">
+ <h3>
+  1. 개요
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     사업보고서 제출대상 법인은
+     <strong class="font-red">
+      유상증자 결정
+     </strong>
+     이 있을 때에 주요사항보고서를 제출해야 합니다.
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       단,
+       <strong class="font-red">
+        증권신고서
+       </strong>
+       제출하거나 주식매수선택권 행사에 의한 경우는 주요사항보고서 제출이
+       <strong class="font-red">
+        면제
+       </strong>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       자산양수도 금액은 장부가액 또는 거래금액 중 큰 금액을 기준으로 합니다.
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     <strong class="font-red">
+      제3자배정 유상증자
+     </strong>
+     는 기존 주주의 권리에 중대한 영향을 주기 때문에, 경영상 필요한 경우
+     <strong class="font-red">
+      예외적으로 인정
+     </strong>
+     되고 있습니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  2. 주권상장법인의 통지•공고의무 면제
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주권상장법인은 제3배정 유상증자시 납입기일 1주일 전까지 금융위원회에 주요사항보고서를 제출한 경우에 한하여 상법상 납입기일 2주전 통지•공고의무가 면제됩니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+</div>

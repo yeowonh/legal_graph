@@ -1,0 +1,172 @@
+<div class="content-box tab-pane" id="content-tab-2-2">
+ <h3>
+  1. 신고서 작성 서식 및 요령
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주요사항보고서 제출
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       자기주식 취득결정 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2225');">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       자기주식 처분결정 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2226');">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       신탁계약 체결결정 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2227');">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       신탁계약 해지결정 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2228');">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     자기주식 취득•처분 결과보고서
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       자기주식 취득결과보고서 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2229');">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       자기주식 처분결과보고서 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2230');">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       신탁계약에 의한 취득상황보고서 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2231');">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       신탁계약해지 결과보고서 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2232');">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+ <h3>
+  2. 유의사항
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주요사항보고서 제출기한은 결의한 날의
+     <strong class="font-red">
+      다음날
+     </strong>
+     (상장기업은
+     <strong class="font-red">
+      당일공시
+     </strong>
+     ) 까지입니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     자기주식 취득•처분 결과보고서는 각 기간의 종료일로부터
+     <strong class="font-red">
+      5일 이내
+     </strong>
+     제출하여야 합니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+</div>

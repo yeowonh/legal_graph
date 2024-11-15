@@ -1,0 +1,820 @@
+<div class="content-box tab-pane" id="content-tab-2">
+ <h3>
+  1. 주요 보고사유별 보고의무 발생일 및 첨부서류
+  <em class="small">
+   (영 §200③④)
+  </em>
+ </h3>
+ <div class="info-table">
+  <table summary="주요 보고사유별 보고의무 발생일 및 증빙서류 안내 표">
+   <colgroup>
+    <col style="width:20%;"/>
+    <col style="width:30%;"/>
+    <col style="width:50%;"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th>
+      보고사유
+     </th>
+     <th>
+      보고의무 발생일
+     </th>
+     <th>
+      증빙서류
+     </th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td>
+      신규상장
+     </td>
+     <td>
+      상장일
+     </td>
+     <td>
+      약식주주명부•등기부등본
+     </td>
+    </tr>
+    <tr>
+     <td>
+      합병
+     </td>
+     <td>
+      합병등기일
+     </td>
+     <td>
+      합병이사회결의•합병주총 의사록•구주권 잔고증명서
+     </td>
+    </tr>
+    <tr>
+     <td>
+      장내매매
+     </td>
+     <td>
+      결제일
+     </td>
+     <td>
+      증권사 매매내역 전산파일(제출 곤란시 지점장 직인 찍힌 매매거래원장)
+     </td>
+    </tr>
+    <tr>
+     <td>
+      장외매매
+     </td>
+     <td>
+      지급일•주권인도일 중 선도래일
+     </td>
+     <td>
+      매매계약서•대금납입•주권인도 관련 증빙
+     </td>
+    </tr>
+    <tr>
+     <td>
+      유상증자
+     </td>
+     <td>
+      주금 납입일 익일
+     </td>
+     <td>
+      이사회의사록•신주배정통지서•청약확인서•납입증명서
+     </td>
+    </tr>
+    <tr>
+     <td>
+      무상증자
+     </td>
+     <td>
+      신주 배정 기준일
+     </td>
+     <td>
+      이사회의사록
+     </td>
+    </tr>
+    <tr>
+     <td>
+      주식배당
+     </td>
+     <td>
+      주주총회일
+     </td>
+     <td>
+      주총(이사회)의사록•기준일 잔고증명서
+     </td>
+    </tr>
+    <tr>
+     <td>
+      증여
+     </td>
+     <td>
+      인도일
+     </td>
+     <td>
+      증여계약서
+     </td>
+    </tr>
+    <tr>
+     <td>
+      상속
+     </td>
+     <td>
+      상속확정일
+      <br/>
+      유산분할 종료일
+     </td>
+     <td>
+      상속재산분할협의서
+     </td>
+    </tr>
+   </tbody>
+  </table>
+ </div>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     보고의무 발생일 및 첨부서류 상세설명
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('3203');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  2. 보고의무 면제
+  <em class="small">
+   (영 §200⑤)
+  </em>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     변동수량이
+     <strong class="font-red">
+      1,000주 미만
+     </strong>
+     이고
+     <strong class="font-red">
+      취득•처분 금액이 1천만원 미만
+     </strong>
+     인 경우 변동보고의무는
+     <strong class="font-red">
+      면제
+     </strong>
+     됩니다. 다만,
+     <font class="font-deco-underline">
+      누적 변동수량
+     </font>
+     이
+     <font class="font-deco-underline">
+      1천주 이상
+     </font>
+     이거나
+     <font class="font-deco-underline">
+      누적 취득(처분)금액
+     </font>
+     이
+     <font class="font-deco-underline">
+      1천만원 이상
+     </font>
+     이 되는 경우
+     <font class="font-deco-underline">
+      보고의무
+     </font>
+     가
+     <font class="font-deco-underline">
+      발생
+     </font>
+     하며, 신규보고의 경우 면제사유 없음에 유의
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3 class="text-center">
+  &lt; 5%보고 및 임원 ·주요주주보고의 차이점 비교표 &gt;
+ </h3>
+ <div class="info-table">
+  <table summary="5%보고 및 임원 ·주요주주보고의 차이점 비교표">
+   <colgroup>
+    <col style="width:10%;"/>
+    <col style="width:auto;"/>
+    <col style="width:auto;"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th>
+      구분
+     </th>
+     <th>
+      주식등의 대량보유상황보고(5%보고)
+     </th>
+     <th>
+      임원•주요주주의 특정증권소유상황 보고
+     </th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <th class="text-center">
+      근거법규
+     </th>
+     <td class="text-left">
+      법 §147
+     </td>
+     <td class="text-left">
+      법 §173
+     </td>
+    </tr>
+    <tr>
+     <th class="text-center">
+      보고목적
+     </th>
+     <td class="text-left">
+      경영권 이전가능성 예측
+     </td>
+     <td class="text-left">
+      내부자거래 방지
+     </td>
+    </tr>
+    <tr>
+     <th class="text-center">
+      보고의무자
+     </th>
+     <td class="text-leftr">
+      주식등을 5% 이상 보유하게 된 자
+     </td>
+     <td class="text-leftr">
+      임원(등기,미등기 포함), 주요주주(10%이상 소유자 또는 사실상의 지배주주)
+     </td>
+    </tr>
+    <tr>
+     <th class="text-center">
+      보고대상
+      <br/>
+      증권
+     </th>
+     <td class="text-left">
+      본인･특수관계인･공동보유자가 보유하는 주식등(의결권있는 주식 및 신주인수권증서, CB, BW, EB)
+     </td>
+     <td class="text-left">
+      누구의 명의로 하든지 자기의  계산으로 소유하고 있는 특정증권등(주식, CB, BW, EB, DR 등)
+     </td>
+    </tr>
+    <tr>
+     <th class="text-center">
+      보고방법
+     </th>
+     <td class="text-left">
+      본인과 특별관계자가 함께 연명보고
+     </td>
+     <td class="text-left">
+      개별 보고
+     </td>
+    </tr>
+    <tr>
+     <th class="text-center">
+      보고사유
+     </th>
+     <td class="text-left">
+      <ul>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          신규보고
+         </p>
+        </div>
+        <ul>
+         <li>
+          <div>
+           <i>
+            ∙
+           </i>
+           <p>
+            주식등을 5%이상 보유하게 된 경우
+           </p>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          변동보고
+         </p>
+        </div>
+        <ul>
+         <li>
+          <div>
+           <i>
+            ∙
+           </i>
+           <p>
+            보유주식 등이 1% 이상 변동된 경우
+           </p>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          변경보고
+         </p>
+        </div>
+        <ul>
+         <li>
+          <div>
+           <i>
+            ∙
+           </i>
+           <p>
+            보유목적･보유형태가 변경되거나 보유주식 등에 관한 주요계약이 체결･변경된 경우
+           </p>
+          </div>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </td>
+     <td class="text-left">
+      <ul>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          신규보고
+         </p>
+        </div>
+        <ul>
+         <li>
+          <div>
+           <i>
+            ∙
+           </i>
+           <p>
+            임원･주요주주가 된 경우
+           </p>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          변동보고
+         </p>
+        </div>
+        <ul>
+         <li>
+          <div>
+           <i>
+            ∙
+           </i>
+           <p>
+            소유특정증권등 수에 변동이 있는 경우
+           </p>
+          </div>
+         </li>
+         <li>
+          <div>
+           <i>
+            ∙
+           </i>
+           <p>
+            소유증권의 종류가 변경되는 경우
+           </p>
+          </div>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th class="text-center">
+      변동보고
+      <br/>
+      면제사유
+     </th>
+     <td class="text-left">
+      <ul>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          주주배정의 유무상신주 취득
+         </p>
+        </div>
+       </li>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          주주배정의 신주인수권증서 취득
+         </p>
+        </div>
+       </li>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          자본감소 등
+         </p>
+        </div>
+       </li>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          CB•BW•EB 등의 행사가액 또는 교환가액
+          <br/>
+          조정만으로 보유주식수 증가
+         </p>
+        </div>
+       </li>
+      </ul>
+     </td>
+     <td class="text-left">
+      <ul>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          변동수량이 1,000주 미만이고 그 취득 또는 처분금액이 1천만원 미만인 경우
+         </p>
+        </div>
+       </li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th class="text-center">
+      보고기한
+     </th>
+     <td class="text-left">
+      5일 이내(토요일, 공휴일 제외)
+      <ul>
+       <li>
+        <div>
+         <i>
+          ∙
+         </i>
+         <p>
+          경영참가목적이 없는 자의 변동보고
+         </p>
+        </div>
+       </li>
+       <li>
+        <div>
+         <i>
+         </i>
+         <p>
+          일반투자:10일, 단순투자:익월 10일
+         </p>
+        </div>
+       </li>
+      </ul>
+      <ul>
+       <li>
+        <div>
+         <i>
+          ∙
+         </i>
+         <p>
+          일정범위 전문투자자의 신규•변동보고
+         </p>
+        </div>
+       </li>
+       <li>
+        <div>
+         <i>
+         </i>
+         <p>
+          국가•한은•지자체:분기의 익월 10일
+         </p>
+        </div>
+       </li>
+       <li>
+        <div>
+         <i>
+         </i>
+         <p>
+          기타:(경영참가) 5일, (일반투자) 익월 10일
+         </p>
+        </div>
+       </li>
+       <li>
+        <div>
+         <i>
+         </i>
+         <p>
+          (단순투자) 분기의 익월 10일
+         </p>
+        </div>
+       </li>
+      </ul>
+     </td>
+     <td class="text-left">
+      5일 이내(토요일, 공휴일 제외)
+      <ul>
+       <li>
+        <div>
+         <i>
+          ∙
+         </i>
+         <p>
+          주식배당 등 대통령령으로 정하는 부득이한 사유에 따른 변동보고
+         </p>
+        </div>
+       </li>
+       <li>
+        <div>
+         <i>
+         </i>
+         <p>
+          익월 10일
+         </p>
+        </div>
+       </li>
+      </ul>
+      <ul>
+       <li>
+        <div>
+         <i>
+          ∙
+         </i>
+         <p>
+          일정범위의 전문투자자의 변동보고
+         </p>
+        </div>
+       </li>
+       <li>
+        <div>
+         <i>
+         </i>
+         <p>
+          (일반투자) 익월 10일
+         </p>
+        </div>
+       </li>
+       <li>
+        <div>
+         <i>
+         </i>
+         <p>
+          (단순투자) 분기의 익월 10일
+         </p>
+        </div>
+       </li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th class="text-center">
+      위반시
+      <br/>
+      제재
+     </th>
+     <td class="text-left">
+      <ul>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          중요사항 허위기재•미기재
+         </p>
+        </div>
+        <ul>
+         <li>
+          <div>
+           <i>
+            ∙
+           </i>
+           <p>
+            5년이하 징역 또는 2억원 이하 벌금
+           </p>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          미보고
+         </p>
+        </div>
+        <ul>
+         <li>
+          <div>
+           <i>
+            ∙
+           </i>
+           <p>
+            3년이하 징역 또는 1억원 이하 벌금
+           </p>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          금융위의 시정•처분명령 위반
+         </p>
+        </div>
+        <ul>
+         <li>
+          <div>
+           <i>
+            ∙
+           </i>
+           <p>
+            1년이하 징역 또는 3천만원 이하 벌금
+           </p>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          조사기피•방해, 발행회사 사본송부 위반
+         </p>
+        </div>
+        <ul>
+         <li>
+          <div>
+           <i>
+            ∙
+           </i>
+           <p>
+            5천만원 이하 과태료
+           </p>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          금융위의 자료제출요구 불응
+         </p>
+        </div>
+        <ul>
+         <li>
+          <div>
+           <i>
+            ∙
+           </i>
+           <p>
+            1천만원 이하 과태료
+           </p>
+          </div>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </td>
+     <td class="text-left">
+      <ul>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          증선위의 조사요구 불응
+         </p>
+        </div>
+        <ul>
+         <li>
+          <div>
+           <i>
+            ∙
+           </i>
+           <p>
+            3년이하 징역 또는 1억원 이하 벌금
+           </p>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <div>
+         <i>
+          -
+         </i>
+         <p>
+          허위보고•미보고
+         </p>
+        </div>
+        <ul>
+         <li>
+          <div>
+           <i>
+            ∙
+           </i>
+           <p>
+            1년이하 징역 또는 3천만원 이하 벌금
+           </p>
+          </div>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <p class="note">
+   * ‘법’은 자본시장과 금융투자에 관한 법률, ‘영’은 자본시장과 금융투자업에 관한 법률 시행령을 의미
+  </p>
+  <br/>
+ </div>
+ <h3>
+  3. 위반시 제재
+  <em class="small">
+   (법 §426•§445•§446, 영 §376)
+  </em>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     <strong class="font-red">
+      조사요구 불응
+     </strong>
+     또는
+     <strong class="font-red">
+      허위보고•미고보시 형사처벌
+     </strong>
+     대상이며,
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     소유상황 보고 위반시
+     <strong class="font-red">
+      시정명령, 고발 및 수사기관에의 통보, 경고•주의
+     </strong>
+     등의 조치를 당할 수 있습니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+</div>

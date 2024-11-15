@@ -1,0 +1,101 @@
+<div class="content-box tab-pane active" id="content-tab-1">
+ <h3>
+  1. 개요
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     대표이사 및 신고담당이사는 주요 공시서류에 대해 반드시
+     <strong class="font-red">
+      기재내용을 확인 및 점검
+     </strong>
+     하고 그 사실에 대하여
+     <strong class="font-red">
+      자필로 서명
+     </strong>
+     을 해야합니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  2. 서명 대상 공시 서류
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     증권신고서, 일괄신고서, 일괄신고추가서류
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     투자설명서
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     사업보고서, 분•반기보고서
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주요사항보고서
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  3. 효과 및 영향
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     공시서류에 서명한 대표이사 등은 거짓 기재가 있거나, 중요사항을 누락하였거나, 이러한 사실을 알고도 서명한 경우 5년이하의 징역 또는 2억원 이하의 벌금이 부과될 수 있습니다.
+     <em class="small">
+      (자본시장법 §144 13호 가목)
+     </em>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     아울러, 발생한 손해에 배상책임의 대상이 될 수 있습니다.
+     <em class="small">
+      (자본시장법 §125)
+     </em>
+    </p>
+   </div>
+  </li>
+ </ul>
+</div>

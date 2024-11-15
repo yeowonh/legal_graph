@@ -1,0 +1,229 @@
+<div class="content-box tab-pane active" id="content-tab-1">
+ <h3>
+  1. 제도의 의의
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     <strong class="font-red">
+      신규로 발행되거나 매도될 증권
+     </strong>
+     에 대하여
+     <strong class="font-red">
+      불특정 다수의 투자자
+     </strong>
+     가 사전에 충분한 정보를 갖고 투자 판단할 수 있도록, 해당 증권의 내용 및 발행회사에 관한 제반 사항을 기재한
+     <strong class="font-red">
+      증권신고서
+     </strong>
+     를 사전에 신고하여 공시하도록 합니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  2. 제도의 대상
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     정보가 부족한 불특정 다수의 일반투자자를 대상으로 이루어지는 신규 발행 증권의 취득청약의 권유(모집) 또는 이미 발행된 증권의 매도청약이나 매수청약의 권유(매출)를 제도의 대상으로 하며, 모집•매출을 공모로 통칭합니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     공모(모집•매출)의 해당 범위는 청약을 권유받는 자를 기준으로 50인* 이상으로 판단합니다.
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       *
+      </i>
+      <p>
+       금번 청약의 권유대상자에 과거 6개월 이내 해당 증권과 "동일 증권"에 대하여 공모에 의하지 아니하고 청약의 권유를 받은 자를 합산합니다.
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       50인 산정시 제외되는 청약의 권유자 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2301')">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       "동일 증권"의 개념 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2302')">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     증권의 발행 당시에는 청약의 권유 대상자가 50인 미만이더라도 발행후 1년 이내에 50인 이상에게 양도될 가능성이 있는 경우로서 전매기준에 해당되는 경우 모집으로 간주됩니다.
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       *
+      </i>
+      <p>
+       전매기준에 해당되지 않도록 하기 위해서는 전매제한 조치를 취하여야 합니다.
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       증권종류별 전매기준 및 전매제한조치 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2303')">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+ <h3>
+  3. 공모(모집•매출)의 판단
+ </h3>
+ <div class="info-table">
+  <table summary="공모(모집•매출)의 판단의 구분, 권유의 대상자, 전매기준, 판단 정리 표">
+   <colgroup>
+    <col style="width:auto;"/>
+    <col style="width:auto;"/>
+    <col style="width:auto;"/>
+    <col style="width:auto;"/>
+    <col style="width:auto;"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th>
+      구분
+     </th>
+     <th>
+      권유의 대상자*
+     </th>
+     <th colspan="2">
+      전매기준
+     </th>
+     <th>
+      판단
+     </th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <th class="text-center" rowspan="4">
+      신규발행증권
+     </th>
+     <td class="text-center">
+      50인 이상
+     </td>
+     <td class="text-center" colspan="2">
+      해당 없음
+     </td>
+     <td class="text-center">
+      모집
+     </td>
+    </tr>
+    <tr>
+     <td class="text-center align-middle" rowspan="3">
+      50인 미만
+     </td>
+     <td class="text-center align-middle" rowspan="2">
+      전매기준에 해당
+     </td>
+     <td class="text-center">
+      전매제한조치 無
+     </td>
+     <td class="text-center">
+      간주모집
+     </td>
+    </tr>
+    <tr>
+     <td class="text-center">
+      전매제한조치 有
+     </td>
+     <td class="text-center">
+      사모
+     </td>
+    </tr>
+    <tr>
+     <td class="text-center" colspan="2">
+      전매기준에 해당되지 않음
+     </td>
+     <td class="text-center">
+      사모
+     </td>
+    </tr>
+    <tr>
+     <th class="text-center" rowspan="2">
+      이미 발행된 증권
+     </th>
+     <td class="text-center">
+      50인 이상
+     </td>
+     <td class="text-center" colspan="2">
+      해당 없음
+     </td>
+     <td class="text-center">
+      매출
+     </td>
+    </tr>
+    <tr>
+     <td class="text-center">
+      50인 미만
+     </td>
+     <td class="text-center" colspan="2">
+      적용 되지 않음
+     </td>
+     <td class="text-center">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <p class="note">
+   * 과거 6개월 합산
+  </p>
+ </div>
+</div>

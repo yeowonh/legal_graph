@@ -1,0 +1,300 @@
+<div class="content-box tab-pane active" id="content-tab-2-1">
+ <h3>
+  1. 주요사항보고 항목별 작성 방법
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     어음 또는 수표의 부도, 은행 당좌 거래의 정지 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2204');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     영업활동의 전부 또는 중요한 일부의 정지  :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2205');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     채무자 회생 및 파산에 관한 법률에 따른 회생절차개시 또는 간이회생절차개시의 신청 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2206');">
+      다운로드
+     </a>
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       회사는 채무자 회생 및 파산에 관한 법률에 의한 회생절차개시의 신청(외국법인등의 경우 기업회생과 유사한 절차개시의 신청을 포함) 또는 결정이 있은 때 주요사항보고 및 주요경영사항 신고를 해야 하며,
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       결정 후 신청 전 주요사항보고•주요경영사항신고를 한 경우, 신청을 한 때 시행령 제171조 제4항제4호의 첨부서류(‘법원에 제출한 회생절차개시신청서 등 해당 사실을 증명할 수 있는 서류’)를 제출해야 합니다.
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     해산사유 발생 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2207');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     자본의 증가 또는 감소(
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2208');">
+      다운로드
+     </a>
+     ), 조건부 자본증권•자본으로 인정되는 채무증권(
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2243');">
+      다운로드
+     </a>
+     )의 발행에 따른 부채의 증가(
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2217');">
+      다운로드
+     </a>
+     )에 관한 이사회 결의
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       단 증권신고서를 제출하는 경우와 주식매수선택권 행사로 인한 경우는 제출 의무가 면제됩니다. (자본의 증가와 관련한 서식 및 자세한 사항은 별도로 ‘유상증자’ 항목에서 설명)
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주채권은행으로부터 「기업구조조정 촉진법」 제5조제2항 각 호의 어느 하나에 해당하는 관리절차가 개시되거나 같은 법 제19조에 따라 공동관리절차가 중단된 때 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2209');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     증권의 관한 중대한 소송 제기 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2210');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     해외 증권시장 상장 또는 상장폐지 결정, 매매거래정지 조치 등 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2211');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     전환사채, 신주인수권부사채, 교환사채의 발행 결정 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2212');">
+      다운로드
+     </a>
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       단, 증권신고서를 제출하는 경우에는 제출의무가 면제됩니다.
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     조건부자본증권이 주식으로 전환되는 사유가 발생하거나 그 조건부자본증권의 상환과 이자지급의무가 감면되는 사유가 발생하였을 때 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2213');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     자기주식 취득(신탁계약 체결) 또는 처분(신탁계약 해지)의 결의 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2242');">
+      다운로드
+     </a>
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       주권상장법인은 주요사항보고서 제출 외의 공시의무 및 자기주식 취득•처분 절차 준수 의무가 있습니다. (서식 및 자세한 사항은 별도로 ‘자기주식 취득•처분 등’에서 설명)
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     합병•주식교환•이전•분할, 분할합병 등의 결정 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2214');">
+      다운로드
+     </a>
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       주권상장법인은 합병, 주식교환시 주요사항보고서 제출 외의 공시의무 및 합병가액 산정기준 등의 준수의무가 있습니다. (자세한 사항은 별도로 ‘합병 등’에서 설명)
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     중요한 영업 또는 자산의 양수도 결정 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2215');">
+      다운로드
+     </a>
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       중요한 영업은 양수•양도하려는 영업부문의 자산액, 매출액, 부채액이 최근 사업연도말 현재 자산총액, 매출총액 부채총액의 10%이상인 경우를 의미하며, 자산, 매출, 부채 기준으로 하나라도 충족하면 공시의무가 발생합니다.
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       중요한 자산양수도는 양수•양도 하려는 자산액이 최근 사업연도말 현재 자산총액의 10%이상인 경우를 의미합니다.
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       또한, 주권상장법인은 주요사항보고서 제출 외의 공시의무, 외부평가 등의 의무가 있습니다. (자산양수도 관련 서식 및 자세한 사항은 별도로 ‘중요한 자산의 양수도 결정’에서 설명)
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     중요한 자산양수•양도를 권리행사의 내용으로 하는 풋백옵션 등의 계약 체결 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2216');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+ </ul>
+</div>

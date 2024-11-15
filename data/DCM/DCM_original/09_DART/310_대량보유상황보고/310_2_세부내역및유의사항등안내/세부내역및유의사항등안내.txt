@@ -1,0 +1,380 @@
+<div class="content-box tab-pane" id="content-tab-2">
+ <h3>
+  1. 보유비율 계산
+  <em class="small">
+   (시행규칙 §17)
+  </em>
+  <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('3109');">
+   다운로드
+  </a>
+ </h3>
+ <div class="math-box border">
+  <dl>
+   <dt>
+    <div class="molecule">
+     <strong class="font-red">
+      본인
+     </strong>
+     보유 주식등의 수
+    </div>
+    <div class="hide">
+     ÷
+    </div>
+    <div class="denominator">
+     발행 주식등의 총수
+    </div>
+   </dt>
+   <dd class="equal font-red">
+    =
+   </dd>
+   <dd>
+    <div class="molecule">
+     본인보유 주식 + 본인보유 주식관련사채 등
+    </div>
+    <div class="hide">
+     ÷
+    </div>
+    <div class="denominator">
+     <strong class="font-red">
+      발행주식총수
+     </strong>
+     + 본인보유
+     <strong class="font-red">
+      주식관련사채등
+     </strong>
+     (
+     <strong class="font-red">
+      교환사채등 제외
+     </strong>
+     )
+    </div>
+   </dd>
+  </dl>
+ </div>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     <strong class="font-red">
+      '본인'은 보고자 본인 및 특별관계자 포함
+     </strong>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     '분모'의 발행주식총수는
+     <strong class="font-red">
+      의결권 있는 주식 모두 합산
+     </strong>
+     (자기주식 포함)
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     '분모'의
+     <strong class="font-red">
+      주식관련사채등은 BW•CB•스톡옵션
+     </strong>
+     (주식교부방식에 한함) 등
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     '분모'의 교환사채•증권예탁증권•자기주식 교부방식의 스톡옵션 등은
+     <strong class="font-red">
+      발행주식총수에 이미 포함되어 중복 가산하지 않음
+     </strong>
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  2. 보고서 기재내용
+  <em class="small">
+   (법 §147①, 영 §153②, 규정 §3-10)
+  </em>
+ </h3>
+ <div class="info-table">
+  <table summary="경영참여목적, 단순투자목적에 따른 보고서 기재 내용 요약 표">
+   <colgroup>
+    <col style="width:50%;"/>
+    <col style="width:25%;"/>
+    <col style="width:25%;"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th rowspan="2">
+      경영권 영향 목적
+      <a class="btn-download btn-border" href="javascript:void(0);" onclick="downloadGuide('3101');">
+       일반서식 다운로드
+      </a>
+     </th>
+     <th colspan="2">
+      경영권 영향 목적 없음
+      <a class="btn-download btn-border" href="javascript:void(0);" onclick="downloadGuide('3102');">
+       약식서식 다운로드
+      </a>
+     </th>
+    </tr>
+    <tr>
+     <th>
+      일반투자
+     </th>
+     <th>
+      단순투자
+     </th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td colspan="3">
+      발행회사에 관한 사항
+     </td>
+    </tr>
+    <tr>
+     <td colspan="3">
+      보고자 및 특별관계자에 관한 사항
+     </td>
+    </tr>
+    <tr>
+     <td colspan="3">
+      보유상황
+     </td>
+    </tr>
+    <tr>
+     <td colspan="3">
+      보유목적
+     </td>
+    </tr>
+    <tr>
+     <td colspan="2">
+      해당사항 없음
+     </td>
+     <td>
+      단순투자 확인서
+      <a class="btn-download btn-border" href="javascript:void(0);" onclick="downloadGuide('3112');">
+       확인서 다운로드
+      </a>
+     </td>
+    </tr>
+    <tr>
+     <td colspan="3">
+      변동[변경] 사유
+     </td>
+    </tr>
+    <tr>
+     <td>
+      보유형태
+     </td>
+     <td colspan="2">
+      해당사항 없음
+     </td>
+    </tr>
+    <tr>
+     <td colspan="2">
+      주요계약 및 자금조성내역
+     </td>
+     <td>
+      해당사항 없음
+     </td>
+    </tr>
+    <tr>
+     <td colspan="3">
+      세부변동내역
+     </td>
+    </tr>
+   </tbody>
+  </table>
+ </div>
+ <h3>
+  3. 주요 보고사유별 보고의무 발생일 및 첨부서류
+  <em class="small">
+   (영 §153③)
+  </em>
+ </h3>
+ <div class="info-table">
+  <table summary="주요 보고사유별 보고사유, 보고의무 발생일, 증빙서류 안내 표">
+   <colgroup>
+    <col style="width:20%;"/>
+    <col style="width:40%;"/>
+    <col style="width:40%;"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th>
+      보고사유
+     </th>
+     <th>
+      보고의무 발생일
+     </th>
+     <th>
+      증빙서류
+     </th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td>
+      합병
+     </td>
+     <td>
+      합병등기일(흡수합병)
+      <br/>
+      상장일(신설합병)
+     </td>
+     <td>
+      합병이사회결의•합병주총 의사록•구주권 잔고증명서
+     </td>
+    </tr>
+    <tr>
+     <td>
+      장내매매
+     </td>
+     <td>
+      계약 체결일
+     </td>
+     <td>
+      증권사 매매내역 전산파일(제출 곤란시 지점장 직인 찍힌 매매거래원장)
+     </td>
+    </tr>
+    <tr>
+     <td>
+      장외매매
+     </td>
+     <td>
+      계약 체결일(매수)
+      <br/>
+      대금수령일•인도일 중 선도래일(매도)
+     </td>
+     <td>
+      매매계약서•대금납입•주권인도 관련 증빙
+     </td>
+    </tr>
+    <tr>
+     <td>
+      증여
+     </td>
+     <td>
+      민법 효력발생일(수증)
+      <br/>
+      인도일(증여)
+     </td>
+     <td>
+      증여계약서
+     </td>
+    </tr>
+   </tbody>
+  </table>
+ </div>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     보고의무 발생일 및 첨부서류 상세설명
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('3111');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  4. 위반시 제재
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="number">
+     ①
+    </i>
+    <p>
+     행정처분
+     <em class="small">
+      (법 §151②, 영 §159)
+     </em>
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i class="square">
+       ■
+      </i>
+      <p>
+       보고의무 위반시
+       <strong class="font-red">
+        거래 정지•금지, 임원 해임권고, 고발 및 수사기관 통보, 경고•주의
+       </strong>
+       등의 조치를 당할 수 있습니다.
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="number">
+     ②
+    </i>
+    <p>
+     형사처벌 및 과징금
+     <em class="small">
+      (법 §429•§444•§445)
+     </em>
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i class="square">
+       ■
+      </i>
+      <p>
+       <strong class="font-red">
+        미보고
+       </strong>
+       , 중요사항에 관한
+       <strong class="font-red">
+        허위기재
+       </strong>
+       또는
+       <strong class="font-red">
+        누락
+       </strong>
+       은
+       <strong class="font-red">
+        형사처벌
+       </strong>
+       및
+       <strong class="font-red">
+        과징금
+       </strong>
+       부과대상에 해당합니다.
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+</div>

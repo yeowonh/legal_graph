@@ -1,0 +1,138 @@
+<div class="content-box tab-pane" id="content-tab-4">
+ <h3>
+  CASE 1 : 증자 관련
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     제3자배정 대상자가
+     <strong class="font-red">
+      50인 이상
+     </strong>
+     이거나 또는 50인 미만이라도
+     <strong class="font-red">
+      모집실적
+     </strong>
+     이 있으면
+     <strong class="font-red">
+      간주모집
+     </strong>
+     에 해당하여 증권신고서 제출이 필요하나, 제3자배정은 모두
+     <strong class="font-red">
+      사모라고 오인
+     </strong>
+     하여 위반
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     당해 발행시 청약권유를 받는 자가 50인 미만이라도 과거
+     <strong class="font-red">
+      6개월내
+     </strong>
+     청약의 권유를 받은 자를
+     <strong class="font-red">
+      합산
+     </strong>
+     하여 50인 이상인 경우에는 증권신고서를 제출하여야 하나, 합산규정을 알지 못하여 위반
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  CASE 2 : 사채 관련
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     사채는 권면분할이 가능하므로
+     <strong class="font-red">
+      권면분할금지 특약
+     </strong>
+     을 권면에 기재하고
+     <strong class="font-red">
+      50매 미만
+     </strong>
+     으로 발행해야 사모로 인정되나, 동 특약 기재 없이 발행하여 위반
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  CASE 3 : CB•BW 관련
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     보통주 모집실적이 있는 경우
+     <strong class="font-red">
+      1년간 전환
+     </strong>
+     (or 신주인수)권
+     <strong class="font-red">
+      행사금지기간
+     </strong>
+     을 설정하여야 사모로 인정되나, 이를 누락하여 위반됩니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  CASE 4 : 소액공모 관련
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     소액공모 공시서류 제출기간(모집 개시일 3일 전) 산정시 모집 개시일을 포함하여 3일을 산정함으로써 공시서류를
+     <strong class="font-red">
+      1일 지연제출
+     </strong>
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  CASE 5 : 매출 관련
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주주가 보유주식을
+     <strong class="font-red">
+      50인 이상
+     </strong>
+     에게 매출하는 경우에는 발행회사의 증권신고서 제출이 필요하나, 주주가 발행회사에 대하여 증권신고서
+     <strong class="font-red">
+      제출요청 없이
+     </strong>
+     매출하여 위반
+    </p>
+   </div>
+  </li>
+ </ul>
+</div>

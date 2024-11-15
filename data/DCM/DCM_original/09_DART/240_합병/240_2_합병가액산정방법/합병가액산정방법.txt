@@ -1,0 +1,250 @@
+<div class="content-box tab-pane" id="content-tab-2">
+ <h3>
+  1. 합병가액 산정 개요
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주권상장법인의 합병등의 경우에는 가치산정방법을 법령에 정해진 방법에 따라야 합니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  2. 주권상장법인간 합병
+  <em class="small">
+   (영 §176의5①1)
+  </em>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     기준주가(시가)에 따라 합병가액을 산정하되, 기준주가에 따른 가격을 산정할 수 없는 경우 본질가치법으로 산정합니다.
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       합병을 위한 이사회 결의일과 합병계약을 체결한 날 중 앞서는 날의 전일을 기산일로 하여 계산한 기준주가의 100분의 30(계열회사간 합병시에는 100분의 10)의 범위에서 할인 또는 할증한 가액
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+ <div class="math-box">
+  <div class="doc-example2 text-center">
+   <dl>
+    <dt>
+     <dd class="initial">
+      기준주가
+     </dd>
+     <dd class="equal font-red">
+      =
+     </dd>
+     <dd class="text-left">
+      <span>
+       (1개월간 평균 종가 + 1주일간 평균 종가 + 최근일 종가) / 3
+      </span>
+     </dd>
+    </dt>
+   </dl>
+  </div>
+ </div>
+ <ul>
+  <li>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       평균종가는 기산일을 포함하여 달력기준으로 과거 1개월(1주일) 기간 중의 영업일의 종가를 거래량으로 가중산술평균하여 산정합니다.
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+ <h3>
+  3. 주권상장법인(코넥스시장에 주권이 상장된 법인 제외)과 주권비상장법인 간 합병
+  <em class="small">
+   (영 §176의5①2)
+  </em>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주권상장법인은 앞의 경우와 동일하게 산정합니다. 다만, 앞에서 산정한 기준주가가 자산가치에 미달하는 경우에는 자산가치로 할 수 있습니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주권비상장법인은 본질가치법에 따라 합병가액을 산정합니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <div class="math-box">
+  <div class="doc-example2 text-center">
+   <dl>
+    <dt class="initial">
+     본질가치
+    </dt>
+    <dd class="equal font-red">
+     =
+    </dd>
+    <dt>
+     <div class="molecule">
+      자산가치 X 1 + 수익가치 X 1.5
+     </div>
+     <div class="hide">
+      ÷
+     </div>
+     <div class="denominator">
+      2.5
+     </div>
+    </dt>
+   </dl>
+  </div>
+ </div>
+ <ul>
+  <li>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       이 경우 주권비상장법인과 유사한 업종을 영위하는 주권상장법인의 가치(상대가치)를 산출하여 비교•공시하여야 합니다.
+       <br/>
+       여기서 공시방법은 ‘합병의 증권신고서’에 기재하는 것을 의미합니다
+       <em class="small">
+        (규정 §5-13⑤)
+       </em>
+       .
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     구체적인 합병가액 산정방법 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2401');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  4. 기업인수목적회사의 합병에 대한 특례
+  <em class="small">
+   (영 §176의5③)
+  </em>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주권상장법인인 기업인수목적회사가 투자자보호 등을 위한 요건을 갖추어 다른 법인과 합병하여 주권상장법인이 되려는 경우 다음의 방식에 따라 합병가액을 산정하여야 합니다.
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       주권상장법인인 기업인수목적회사의 경우 기준주가 방식에 따릅니다.
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       다른 법인이 주권상장법인인 경우 기준주가 방식(산정할 수 없는 경우 본질가치 방식)에 따르고, 주권비상장법인인 경우 기업인수목적회사와 협의하여 정하는 가격에 따릅니다.
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     참고: 투자자보호 등을 위한 요건
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i class="number">
+       ①
+      </i>
+      <p>
+       합병반대주주의 주식매수청구가격을 공모가격 이상으로 매수
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i class="number">
+       ②
+      </i>
+      <p>
+       투자매매업자가 소유하는 증권을 합병기일 이후 1년간 계속 소유
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i class="number">
+       ③
+      </i>
+      <p>
+       주권비상장법인과 합병시 협의하여 산정한 가액을 영 제176조의5 제2항에 따라 산출한 합병가액 및 상대가치와 비교하여 공시
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+</div>

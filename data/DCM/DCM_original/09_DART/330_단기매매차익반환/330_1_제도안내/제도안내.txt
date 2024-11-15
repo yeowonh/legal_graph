@@ -1,0 +1,206 @@
+<div class="content-box tab-pane active" id="content-tab-1">
+ <h3>
+  1. 개요
+  <em class="small">
+   (법 §172①)
+  </em>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     <strong class="font-red">
+      임직원 또는 주요주주
+     </strong>
+     가 그 법인의 특정증권등을
+     <strong class="font-red">
+      6개월 이내에 매수 후 매도
+     </strong>
+     하거나,
+     <strong class="font-red">
+      매도 후 매수
+     </strong>
+     하여
+     <strong class="font-red">
+      이익이 발생
+     </strong>
+     한 경우에 내부정보 이용여부를 불문하고
+     <strong class="font-red">
+      법인은 동 차익에 대해 반환청구
+     </strong>
+     를 할 수 있습니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  2. 반환대상자
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     <strong class="font-red">
+      임원•주요주주
+     </strong>
+     는 특정증권 소유상황
+     <strong class="font-red">
+      보고 주체와 동일
+     </strong>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     <strong class="font-red">
+      직원
+     </strong>
+     은
+     <strong class="font-red">
+      주요사항보고서
+     </strong>
+     <em class="small">
+      (법 §161①)
+     </em>
+     제출 사항의 수립•변경•추진•
+     <strong class="font-red">
+      공시 업무
+     </strong>
+     에 종사하는 직원 및
+     <strong class="font-red">
+      재무•회계•공시•기획•연구개발에 종사
+     </strong>
+     하는 직원이 반환대상자에 해당됩니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  3. 단기매매차익 발생 기준
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     거래대상인
+     <strong class="font-red">
+      특정증권
+     </strong>
+     은 임원등
+     <strong class="font-red">
+      특정증권 소유상황 보고 대상과 동일
+     </strong>
+     합니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     <strong class="font-red">
+      임직원
+     </strong>
+     의 경우
+     <strong class="font-red">
+      매도•매수 한 시점에 임직원
+     </strong>
+     이면
+     <strong class="font-red">
+      반환대상
+     </strong>
+     에 해당하나,
+     <strong class="font-red">
+      주요주주
+     </strong>
+     의 경우
+     <strong class="font-red">
+      매도•매수 모든 시점에 주요주주
+     </strong>
+     의 지위에 있어야 합니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  4. 단기매매차익 반환의 주요 예외
+  <em class="small">
+   (영 §198, 단차반환규정 §8)
+  </em>
+  <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('3301');">
+   다운로드
+  </a>
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     <strong class="font-red">
+      이미 소유하고 있는
+     </strong>
+     스톡옵션, CB, BW 등
+     <strong class="font-red">
+      특정증권
+     </strong>
+     의
+     <strong class="font-red">
+      권리행사
+     </strong>
+     에 따라 주식을 취득하는 경우
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     <strong class="font-red">
+      모집•매출
+     </strong>
+     하는 특정증권등의 청약에 따라 취득하는 경우
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     <strong class="font-red">
+      우리사주조합원
+     </strong>
+     이 우리사주조합을 통하여
+     <strong class="font-red">
+      주식을 취득
+     </strong>
+     하는 경우(
+     <strong class="font-red">
+      의무 예탁
+     </strong>
+     의 경우에 한함) 등
+    </p>
+   </div>
+  </li>
+ </ul>
+</div>

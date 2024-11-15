@@ -1,0 +1,417 @@
+<div class="tab-content">
+ <div class="page-tab">
+  <ul class="nav nav-tabs" role="tablist">
+   <li role="presentation">
+    <a class="active" data-toggle="tab" href="#content-tab-1">
+     전자공시절차 동영상
+    </a>
+   </li>
+   <li role="presentation">
+    <a href="javascript:void(0);" onclick="alert('준비중입니다');">
+     공시업무 동영상
+    </a>
+   </li>
+  </ul>
+ </div>
+ <div class="content-box tab-pane active show" id="content-tab-1">
+  <!-- videoCont -->
+  <div class="videoContWrap">
+   <div class="left">
+    <div class="videoCont">
+     <div class="topTitle step01">
+      <span class="step">
+       STEP 01
+      </span>
+      등록
+     </div>
+     <div class="title step01">
+      고유번호 발급신청
+     </div>
+     <ul>
+      <li>
+       <a class="name">
+        법인
+       </a>
+       <a class="btn step01" href="javascript:void(0);" onclick="doPlay('01', this.title);" title="고유번호 발급신청(법인)">
+        동영상보기
+       </a>
+      </li>
+      <li>
+       <a class="name">
+        개인
+       </a>
+       <a class="btn step01" href="javascript:void(0);" onclick="doPlay('02', this.title);" title="고유번호 발급신청(개인)">
+        동영상보기
+       </a>
+      </li>
+      <li>
+       <a class="name">
+        조합/단체
+       </a>
+       <a class="btn step01" href="javascript:void(0);" onclick="doPlay('03', this.title);" title="고유번호 발급신청(조합/단체)">
+        동영상보기
+       </a>
+      </li>
+      <li>
+       <a class="name">
+        감사반
+       </a>
+       <a class="btn step01" href="javascript:void(0);" onclick="doPlay('04', this.title);" title="고유번호 발급신청(감사반)">
+        동영상보기
+       </a>
+      </li>
+      <li>
+       <a class="name">
+        사업자등록증 발급 전 법인
+       </a>
+       <a class="btn step01" href="javascript:void(0);" onclick="doPlay('06', this.title);" title="고유번호 발급신청(사업자등록증 발급 전 법인)">
+        동영상보기
+       </a>
+      </li>
+     </ul>
+     <div class="title step01">
+      비밀번호 재발급 신청
+     </div>
+     <ul>
+      <li>
+       <a class="name">
+        비밀번호 재발급
+       </a>
+       <a class="btn step01" href="javascript:void(0);" onclick="doPlay('07', this.title);" title="비밀번호 재발급">
+        동영상보기
+       </a>
+      </li>
+      <li>
+       <a class="name">
+        변경코드 재발급(법인,조합,단체)
+       </a>
+       <a class="btn step01" href="javascript:void(0);" onclick="doPlay('08', this.title);" title="변경코드 재발급(법인,조합,단체)">
+        동영상보기
+       </a>
+      </li>
+      <li>
+       <a class="name">
+        변경코드 재발급(감사반)
+       </a>
+       <a class="btn step01" href="javascript:void(0);" onclick="doPlay('09', this.title);" title="변경코드 재발급(감사반)">
+        동영상보기
+       </a>
+      </li>
+      <li>
+       <a class="name">
+        변경코드 재발급(개인)
+       </a>
+       <a class="btn step01" href="javascript:void(0);" onclick="doPlay('10', this.title);" title="변경코드 재발급(개인)">
+        동영상보기
+       </a>
+      </li>
+     </ul>
+     <div class="title step01">
+      신청결과 조회
+      <a class="btn step01" href="javascript:void(0);" onclick="doPlay('16', this.title);" title="신청결과 조회">
+       동영상보기
+      </a>
+     </div>
+     <div class="title step01">
+      공시대상회사 정보변경
+      <a class="btn step01" href="javascript:void(0);" onclick="doPlay('11', this.title);" title="공시대상회사 정보변경">
+       동영상보기
+      </a>
+     </div>
+     <div class="title step01">
+      공인인증서 등록/재등록
+     </div>
+     <ul>
+      <li>
+       <a class="name">
+        법인
+       </a>
+       <a class="btn step01" href="javascript:void(0);" onclick="doPlay('12', this.title);" title="공동인증서 등록/재등록(법인)">
+        동영상보기
+       </a>
+      </li>
+      <li>
+       <a class="name">
+        개인
+       </a>
+       <a class="btn step01" href="javascript:void(0);" onclick="doPlay('13', this.title);" title="공동인증서 등록/재등록(개인)">
+        동영상보기
+       </a>
+      </li>
+      <li>
+       <a class="name">
+        조합/단체
+       </a>
+       <a class="btn step01" href="javascript:void(0);" onclick="doPlay('14', this.title);" title="공동인증서 등록/재등록(조합/단체)">
+        동영상보기
+       </a>
+      </li>
+     </ul>
+     <div class="title step01">
+      인증서 관리
+     </div>
+     <ul>
+      <li>
+       <a class="name">
+        DART인증서 발급/폐기 및 인증서 확인
+       </a>
+       <a class="btn step01" href="javascript:void(0);" onclick="doPlay('15', this.title);" title="DART인증서 발급/폐기 및 인증서 확인">
+        동영상보기
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="right">
+    <div class="videoCont">
+     <div class="topTitle step02">
+      <span class="step">
+       STEP 02
+      </span>
+      DART편집기
+     </div>
+     <div class="title step02">
+      전자문서 작성 및 검사
+      <a class="btn step02" href="javascript:void(0);" onclick="doPlay('17', this.title);" title="전자문서 작성 및 검사">
+       동영상보기
+      </a>
+     </div>
+     <div class="title step02">
+      전송파일 생성 및 제출
+      <a class="btn step02" href="javascript:void(0);" onclick="doPlay('18', this.title);" title="전송파일 생성 및 제출">
+       동영상보기
+      </a>
+     </div>
+    </div>
+    <div class="videoCont">
+     <div class="topTitle step03">
+      <span class="step">
+       STEP 03
+      </span>
+      XBRL작성기
+     </div>
+     <div class="title step03">
+      XBRL재무제표 작성기 설치 및 화면구성
+      <a class="btn step03" href="javascript:void(0);" onclick="doPlay('26', this.title);" title="XBRL재무제표 작성기 설치 및 화면구성">
+       동영상보기
+      </a>
+     </div>
+     <div class="title step03">
+      XBRL재무제표 본문작성
+      <a class="btn step03" href="javascript:void(0);" onclick="doPlay('27', this.title);" title="XBRL재무제표 본문작성">
+       동영상보기
+      </a>
+     </div>
+     <div class="title step03">
+      XBRL재무제표 주석작성
+      <a class="btn step03" href="javascript:void(0);" onclick="doPlay('28', this.title);" title="XBRL재무제표 주석작성">
+       동영상보기
+      </a>
+     </div>
+     <div class="title step03">
+      XBRL재무제표 검사 및 첨부
+      <a class="btn step03" href="javascript:void(0);" onclick="doPlay('29', this.title);" title="XBRL재무제표 검사 및 첨부">
+       동영상보기
+      </a>
+     </div>
+    </div>
+    <div class="videoCont">
+     <div class="topTitle step04">
+      <span class="step">
+       STEP 04
+      </span>
+      제출
+     </div>
+     <div class="title step04">
+      전자문서 제출
+     </div>
+     <ul>
+      <li>
+       <a class="name">
+        신규제출
+       </a>
+       <a class="btn step04" href="javascript:void(0);" onclick="doPlay('19', this.title);" title="신규제출">
+        동영상보기
+       </a>
+      </li>
+      <li>
+       <a class="name">
+        첨부추가제출
+       </a>
+       <a class="btn step04" href="javascript:void(0);" onclick="doPlay('20', this.title);" title="첨부추가제출">
+        동영상보기
+       </a>
+      </li>
+      <li>
+       <a class="name">
+        정정서류제출
+       </a>
+       <a class="btn step04" href="javascript:void(0);" onclick="doPlay('21', this.title);" title="정정서류제출">
+        동영상보기
+       </a>
+      </li>
+      <li>
+       <a class="name">
+        철회신고서제출
+       </a>
+       <a class="btn step04" href="javascript:void(0);" onclick="doPlay('22', this.title);" title="철회신고서제출">
+        동영상보기
+       </a>
+      </li>
+     </ul>
+     <div class="title step04">
+      전자문서 제출현황조회
+     </div>
+     <ul>
+      <li>
+       <a class="name">
+        제출결과조회
+       </a>
+       <a class="btn step04" href="javascript:void(0);" onclick="doPlay('23', this.title);" title="제출결과조회">
+        동영상보기
+       </a>
+      </li>
+      <li>
+       <a class="name">
+        접수현황조회
+       </a>
+       <a class="btn step04" href="javascript:void(0);" onclick="doPlay('24', this.title);" title="접수현황조회">
+        동영상보기
+       </a>
+      </li>
+      <li>
+       <a class="name">
+        유보현황조회
+       </a>
+       <a class="btn step04" href="javascript:void(0);" onclick="doPlay('25', this.title);" title="유보현황조회">
+        동영상보기
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- //videoCont -->
+ </div>
+ <div class="content-box tab-pane" id="content-tab-2">
+  <table class="videoTable" summary="내용,동영상보기 순으로 되어있습니다.">
+   <caption>
+    공시업무 동영상
+   </caption>
+   <colgroup>
+    <col style="width:40%;"/>
+    <col style="width:10%;"/>
+    <col style="width:40%;"/>
+    <col style="width:10%;"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th scope="row">
+      내용
+     </th>
+     <th scope="row">
+      동영상보기
+     </th>
+     <th scope="row">
+      내용
+     </th>
+     <th scope="row">
+      동영상보기
+     </th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td>
+      <div class="dotLine">
+      </div>
+      <span>
+       파인톡톡(45) 개인투자자 유의사항
+      </span>
+     </td>
+     <td>
+      <div class="videoBtns">
+       <a onclick="doPlay('', this.title);" style="text-decoration:none;" title="파인톡톡(45) 개인투자자 유의사항">
+        동영상보기
+       </a>
+      </div>
+     </td>
+     <td>
+      <div class="dotLine">
+      </div>
+      <span>
+       파인톡톡(44) 숨은자산찾기
+      </span>
+     </td>
+     <td>
+      <div class="videoBtns">
+       <a href="javascript:void(0);" onclick="doPlay('', this.title);" style="text-decoration:none;" title="파인톡톡(44) 숨은자산찾기">
+        동영상보기
+       </a>
+      </div>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <div class="dotLine">
+      </div>
+      <span>
+       파인톡톡(43) 대부업 이용 시 유의사항
+      </span>
+     </td>
+     <td>
+      <div class="videoBtns">
+       <a href="javascript:void(0);" onclick="doPlay('', this.title);" style="text-decoration:none;" title="파인톡톡(43) 대부업 이용 시 유의사항">
+        동영상보기
+       </a>
+      </div>
+     </td>
+     <td>
+      <div class="dotLine">
+      </div>
+      <span>
+       파인톡톡(44) 숨은자산찾기
+      </span>
+     </td>
+     <td>
+      <div class="videoBtns">
+       <a href="javascript:void(0);" onclick="doPlay('', this.title);" style="text-decoration:none;" title="파인톡톡(44) 숨은자산찾기">
+        동영상보기
+       </a>
+      </div>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <div class="dotLine">
+      </div>
+      <span>
+       파인톡톡(43) 대부업 이용 시 유의사항
+      </span>
+     </td>
+     <td>
+      <div class="videoBtns">
+       <a href="javascript:void(0);" onclick="doPlay('', this.title);" style="text-decoration:none;" title="파인톡톡(43) 대부업 이용 시 유의사항">
+        동영상보기
+       </a>
+      </div>
+     </td>
+     <td>
+      <div class="dotLine">
+      </div>
+      <span>
+       파인톡톡(44) 숨은자산찾기
+      </span>
+     </td>
+     <td>
+      <div class="videoBtns">
+       <a href="javascript:void(0);" onclick="doPlay('', this.title);" style="text-decoration:none;" title="파인톡톡(44) 숨은자산찾기">
+        동영상보기
+       </a>
+      </div>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+ </div>
+</div>

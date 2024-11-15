@@ -1,0 +1,106 @@
+<div class="content-box tab-pane" id="content-tab-2">
+ <h3>
+  1. 작성요령
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="number">
+     ①
+    </i>
+    <p>
+     회사의 재무상태 및 영업실적 등에
+     <strong class="font-red">
+      중요한 영향을 미쳤거나 
+							미칠것
+     </strong>
+     으로
+     <strong class="font-red">
+      예상
+     </strong>
+     되는 객관적인 사건 등을 중심으로 작성해야 합니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="number">
+     ②
+    </i>
+    <p>
+     경영진이 알고 있는 정보 중
+     <strong class="font-red">
+      중요한 내용은 누락하지 않고
+     </strong>
+     작성해야 합니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="number">
+     ③
+    </i>
+    <p>
+     회사에 미칠 영향은
+     <strong class="font-red">
+      재무제표 또는 통계적 자료 등 합리적 근거
+     </strong>
+     에
+     <strong class="font-red">
+      기초
+     </strong>
+     하여 작성해야 합니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="number">
+     ④
+    </i>
+    <p>
+     재무제표의
+     <strong class="font-red">
+      서술식 반복, 사업연도간 금액의 변동사항의 단순비교
+     </strong>
+     는 안됩니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="number">
+     ⑤
+    </i>
+    <p>
+     공시내용은
+     <strong class="font-red">
+      알기 쉬운 용어를 사용하고 명확하고 간결
+     </strong>
+     하게 작성해야 합니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="number">
+     ⑥
+    </i>
+    <p>
+     (외국기업의 경우) 사업 등에 관련된 해당국가의 경제•재정•통화•정치정책 등에 대해 국내 공시정보 이용자에게 직•간접적으로 중요한 영향을 미치거나 미칠 수 있는 사항을 작성해야 합니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="number">
+     ⑦
+    </i>
+    <p>
+     (기업인수목적회사의 경우) 사업의 내용을 추진하고자 하는 합병으로 간주하여 작성해야 합니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+</div>

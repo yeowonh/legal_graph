@@ -1,0 +1,14 @@
+<div class="content-box tab-pane" id="content-tab-4">
+ <ul>
+  <li>
+   <div>
+    <h3>
+     파일을 참고하시기 바랍니다
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('3113');">
+      다운로드
+     </a>
+    </h3>
+   </div>
+  </li>
+ </ul>
+</div>

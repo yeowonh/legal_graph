@@ -1,0 +1,153 @@
+<div class="content-box tab-pane" id="content-tab-1-2">
+ <h3>
+  1. 개요
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     사업보고서 제출대상 법인은 자기주식 취득•처분, 신탁계약 체결•해지의
+     <strong class="font-red">
+      결의
+     </strong>
+     (
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2241');">
+      다운로드
+     </a>
+     )가 있을 때 주요사항보고서를 제출해야 합니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  2. 주권상장법인의 취득•처분 제한
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주권상장법인의 경우 자본시장법 특례조항이 추가로 적용되어 자기주식 취득•처분시
+     <strong class="font-red">
+      결과보고서를 제출
+     </strong>
+     해야 합니다.
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       결과보고서 제출사유 및 기한 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2218');">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     잦은 자기주식 거래로 인한 시장혼란 및 불공정거래 소지를 예방하기 위해
+     <strong class="font-red">
+      취득방법, 기간
+     </strong>
+     등에 대한 제한을 두고 있습니다.
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       취득방법의 제한 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2219');">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       취득금액 한도의 제한 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2220');">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       자기주식 취득•처분 기간에 대한 제한 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2221');">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       장내취득•처분의 경우 주문방법 제한 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2222');">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       신탁계약을 통한 자기주식 취득•처분방법 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2223');">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       자기주식의 장외 처분 가능여부 및 처분방법 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2224');">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+</div>

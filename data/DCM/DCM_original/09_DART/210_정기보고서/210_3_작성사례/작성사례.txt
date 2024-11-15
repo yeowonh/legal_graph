@@ -1,0 +1,148 @@
+<div class="content-box tab-pane" id="content-tab-3">
+ <h3>
+  【정기보고서 작성 모범사례】
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <p>
+     공시실무자들을 위하여 사업보고서의 주요 공시항목별로 금감원에서 마련한 모범사례와 유의사항입니다. 공시서류 작성시  참고하시기 바랍니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     합병 등 사후정보 작성 모범사례 및 유의사항 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2106');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     제약바이오 기업 사업보고서 기재 유의사항 및 모범사례 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2107');">
+      다운로드
+     </a>
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2108');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     자금조달 사용목적 공시 유의사항 및 모범사례 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2109');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     이사회, 감사(위원회) 등 회사의 지배구조 관련 공시 유의사항 및 모범사례 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2110');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     최대주주 개요 공시 유의사항 및 모범사례 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2111');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     임원의 현황 및 임원 보수 공시 관련 유의사항 및 모범사례 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2112');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     보호예수 현황 공시 관련 유의사항 및 모범사례 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2113');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     영구채발행 및 미상환현황 공시 관련 유의사항 및 모범사례 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2114');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     이사의 경영진단 및 분석의견 작성 관련 유의사항 및 모범사례 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2115');">
+      다운로드
+     </a>
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2116');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <br/>
+  <li>
+   <div>
+    <i>
+     ※
+    </i>
+    <p>
+     동 모범사례는 일부 개정된 내용이 반영되지 않을 수 있으니 이 점 참고하여 주시기 바랍니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+</div>

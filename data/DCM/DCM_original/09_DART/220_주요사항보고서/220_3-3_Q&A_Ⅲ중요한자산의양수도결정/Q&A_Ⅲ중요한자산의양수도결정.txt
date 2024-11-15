@@ -1,0 +1,141 @@
+<div class="content-box tab-pane" id="content-tab-3-3">
+ <h3>
+  <i class="icon-question">
+   Q
+  </i>
+  여러 건의 자산양수도가 발생할 경우 주요사항보고의무는 어떻게 되나요?
+ </h3>
+ <h3>
+  <i class="icon-answer">
+   A
+  </i>
+  답변내용
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     원칙적으로
+     <strong class="font-red">
+      이사회 결의단위로 판단
+     </strong>
+     합니다.
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       그러나 여러 건의 자산양수도가 일련의 계획에 의하여 순차적으로 발생하는 하나의 행위라고 볼 수 있는 경우에는 전체 합계액을 기준으로 보고여부를 판단합니다.
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+ <h3>
+  <i class="icon-question">
+   Q
+  </i>
+  중요한 자산양수도의 주요사항보고 시점은 어떻게 되나요?
+ </h3>
+ <h3>
+  <i class="icon-answer">
+   A
+  </i>
+  답변내용
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     입찰 등 경쟁매매 방식에 따라 중요한 자산을 양수하는 경우 입찰에 참가하는 시점에 이미 주요사항보고서 제출의무가 발생한다고 볼 여지도 있으나,
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       계약 체결 여부 및 거래금액 등 계약조건이 확정되기 전에는 공시의무를 이행하는 것이 곤란하므로 본 계약 체결 또는 그에 관한 이사회의 결의가 있는 때를 기준으로 하여 주요사항보고서 제출의무가 발생하는 것이 원칙입니다.
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+ <h3>
+  <i class="icon-question">
+   Q
+  </i>
+  자회사의 중요한 자산양수도도 공시 대상인가요?
+ </h3>
+ <h3>
+  <i class="icon-answer">
+   A
+  </i>
+  답변내용
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주요사항보고서 제출 의무는 당해 회사 기준으로 판단하며, 자회사에서 발생하는 사항은 주요사항보고 제출 대상이 아닙니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  <i class="icon-question">
+   Q
+  </i>
+  중요한 자산 양도시 양도 금액의 일부를 타법인 주식으로 받았는데, 이 금액도 자산총액의 10%를 초과하면 주요사항보고서를 제출해야 되는지?
+ </h3>
+ <h3>
+  <i class="icon-answer">
+   A
+  </i>
+  답변내용
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     네. 이 경우에도 자산총액의 10% 이상에 해당하는 타법인 주식을 취득하는 것이므로 양수를 결정한 이사회 결의 다음날까지 주요사항보고서를 제출하여야 하며, 주권상장법인의 경우 외부평가 의견서를 첨부하여야 합니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <div class="info-box border">
+  <ul>
+   <li>
+    <div class="text-center">
+     <p>
+      그 밖에 다양한 Q&amp;A가 기업공시 실무안내에 수록되어 있습니다. (금융감독원 홈페이지 :
+      <a href="https://www.fss.or.kr/fss/bbs/B0000145/list.do?menuNo=200152" rel="noopener" target="_blank" title="금융감독원 기업공시제도일반 바로가기 새창">
+       업무자료 → 공시•회계 → 기업공시제도일반
+      </a>
+      )
+     </p>
+    </div>
+   </li>
+  </ul>
+ </div>
+</div>

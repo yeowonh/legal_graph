@@ -1,0 +1,606 @@
+<div class="content-box tab-pane" id="content-tab-2">
+ <h3>
+  1. 업무 개요
+ </h3>
+ <div class="flow-chart">
+  <div class="flow-box step1">
+   <h3 class="box-title">
+    증권신고서 제출 (D)
+   </h3>
+   <div class="box-detail">
+    증권의 모집•매출을 위한 신고서 제출 (효력발생 전 청약권유를 하고자 하는 경우)
+    <br/>
+    → 예비투자설명서 첨부
+   </div>
+   <div class="step-arrow">
+    <ul>
+     <li title="신고서의 형식요건 및 첨부서류 확인 단계로 이동">
+     </li>
+    </ul>
+   </div>
+  </div>
+  <div class="flow-box step2">
+   <h3 class="box-title">
+    증권신고서 수리(D)
+   </h3>
+   <div class="box-detail">
+    신고서의 형식요건 및 첨부서류 확인
+   </div>
+   <div class="step-arrow">
+    <ul>
+     <li title="형식상 구비, 중요사항 기재 적정 여부 단계로 이동">
+     </li>
+    </ul>
+   </div>
+  </div>
+  <div class="flow-box step3 branch">
+   <h3 class="box-title">
+    형식상 구비, 중요사항 기재 적정 여부
+   </h3>
+   <div class="box-detail">
+    신고서에 형식상 불비가 있거나 중요사항에 관한 거짓의 기재 또는 누락 여부 심사
+    <br/>
+    → 증권신고서 수리 통지
+   </div>
+   <div class="step-arrow">
+    <ul>
+     <li title="YES일 경우 다음단계 [효력발생(D+5~15) 투자 설명서 제출 및 교부] 단계로 이동">
+      <span>
+       YES
+      </span>
+     </li>
+     <li class="no" title="NO일 경우 첫단계[증권신고서 제출(D)] 단계로 이동">
+      <span>
+       NO (정정요구)
+      </span>
+     </li>
+    </ul>
+   </div>
+  </div>
+  <div class="flow-box step4">
+   <h3 class="box-title">
+    효력발생 (D+5~15) 투자 설명서 제출 및 교부
+   </h3>
+   <div class="box-detail">
+    증권의 종류 및 모집방법에 따라 신고서 수리 후 일정기간 경과시 효력발생
+   </div>
+   <div class="step-arrow">
+    <ul>
+     <li title="청약 및 납입 증권발행실적 보고 단계로 이동">
+     </li>
+    </ul>
+   </div>
+  </div>
+  <div class="flow-box step5">
+   <h3 class="box-title">
+    청약 및 납입 증권발행실적 보고
+   </h3>
+   <div class="box-detail">
+    <strong class="font-red">
+     청약일 전일
+    </strong>
+    까지 정정신고서 제출 가능
+   </div>
+  </div>
+ </div>
+ <h3>
+  2. 증권신고서의 제출
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     제출대상
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       청약권유의
+       <strong class="font-red">
+        합계액
+       </strong>
+       이
+       <strong class="font-red">
+        10억원
+       </strong>
+       이상인 경우에 증권신고서 제출대상이 됩니다.
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       *
+      </i>
+      <p>
+       10억원의 산정방법 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2304')">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       청약권유의 합계액이
+       <strong class="font-red">
+        10억원
+       </strong>
+       미만인 경우(소액공모)에는
+       <strong class="font-red">
+        소액공모 공시서류
+       </strong>
+       만을 제출하면 증권발행이 가능합니다.
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       *
+      </i>
+      <p>
+       소액공모 공시서류 제도 안내 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2305')">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       동일 증권을 지속적으로 발행하는 회사가
+       <strong class="font-red">
+        특정 요건
+       </strong>
+       을 갖춘 경우
+       <strong class="font-red">
+        일괄신고서 제도
+       </strong>
+       를 이용할 수 있습니다.
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       *
+      </i>
+      <p>
+       일괄신고서 제도 안내 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2306')">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     제출 의무자
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       증권신고서의 제출의무자는 모집 또는 매출하려는 대상이 되는
+       <strong class="font-red">
+        증권의 발행인
+       </strong>
+       (즉, 회사)을 말합니다.
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     제출 시기
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       발행인은 증권을
+       <strong class="font-red">
+        모집•매출하기 전에
+       </strong>
+       증권신고서를
+       <strong class="font-red">
+        제출
+       </strong>
+       해야 하며, 청약일 전일까지 정정신고서 제출 가능합니다.
+      </p>
+     </div>
+    </li>
+    <li>
+     <div>
+      <i>
+       *
+      </i>
+      <p>
+       정정신고서 제도 안내 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2307')">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     증권신고서의 효력발생
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       제출된 증권신고서 가
+       <strong class="font-red">
+        수리
+       </strong>
+       된 후
+       <strong class="font-red">
+        효력발생기간
+       </strong>
+       이 경과하면 발행조건이 확정된 투자설명서에 의하여
+       <strong class="font-red">
+        청약의 권유 및 청약의 승낙이 가능
+       </strong>
+       합니다.
+      </p>
+     </div>
+     <ul>
+      <li>
+       <div>
+        <i>
+         ∙
+        </i>
+        <p>
+         (수리) 증권신고서의 형식상 불비가 없고 증권의 모집•매출이 법령에 위배되지 않으면 신고서는 수리됩니다.
+        </p>
+       </div>
+      </li>
+      <li>
+       <div>
+        <i>
+         ∙
+        </i>
+        <p>
+         (효력발생기간) 신고서는 수리된 날로부터 일정한 기간이 경과하면 효력이 발생합니다.
+        </p>
+       </div>
+      </li>
+     </ul>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     증권신고서의 효력발생기간
+    </p>
+   </div>
+   <div class="info-table">
+    <table summary="증권신고서의 효력발생기간에 대한 발행기업, 증권(주식:일반공모, 주주우선 공모 / 채권:보증,담보부,ABS,무보즘), 환매금지 집합투자 기구, 기타 증권 비교 표">
+     <colgroup>
+      <col style="width:auto;"/>
+      <col style="width:auto;"/>
+      <col style="width:auto;"/>
+      <col style="width:auto;"/>
+      <col style="width:auto;"/>
+      <col style="width:auto;"/>
+      <col style="width:auto;"/>
+     </colgroup>
+     <thead>
+      <tr>
+       <th class="backslash" rowspan="2">
+        <div class="text-right">
+         증권
+        </div>
+        <span class="hide">
+         /
+        </span>
+        <div class="text-left">
+         발행기업
+        </div>
+       </th>
+       <th colspan="2">
+        주식
+       </th>
+       <th colspan="2">
+        채권**
+       </th>
+       <th rowspan="2">
+        환매금지 집합투자 기구
+       </th>
+       <th rowspan="2">
+        기타 증권
+       </th>
+      </tr>
+      <tr>
+       <th>
+        일반공모, 주주우선공모
+       </th>
+       <th>
+        주주배정, 제3자 배정
+       </th>
+       <th>
+        보증, 담보부, ABS
+       </th>
+       <th>
+        무보증
+       </th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <th class="text-center">
+        주권상장법인
+       </th>
+       <td class="text-center">
+        10일
+       </td>
+       <td class="text-center align-middle" rowspan="2">
+        7일
+       </td>
+       <td class="text-center align-middle" rowspan="2">
+        5일
+       </td>
+       <td class="text-center align-middle" rowspan="2">
+        7일
+       </td>
+       <td class="text-center align-middle" rowspan="2">
+        10일
+       </td>
+       <td class="text-center align-middle" rowspan="2">
+        15일
+       </td>
+      </tr>
+      <tr>
+       <th class="text-center">
+        일반법인
+       </th>
+       <td class="text-center">
+        15일
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <p class="note">
+     * 상기 효력발생기간은 영업일을 기준으로 산정
+     <br/>
+     ** 일괄신고서의 효력발생기간은 5일
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  3. 기재내용
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     증권신고서는 '제1부 모집 또는 매출에 관한 사항'과 '제2부 발행인에 관한 사항'으로 나누어서 기재하도록 규정하고 있습니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     증권신고서의 기재내용은 증권의 종류 및 특성에 따라 달리 정하고 있습니다.
+     <br/>
+     〈예시 : 지분증권 또는 채무증권등 자금조달과 관련된 모집•매출의 경우〉
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     모집•매출하는 증권의 성격에 따라 첨부하여야 할 서류를 달리 정하고 있습니다.
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       *
+      </i>
+      <p>
+       증권신고서 종류별 첨부서류 :
+       <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2308')">
+        다운로드
+       </a>
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     증권신고서에 기재하여야 할 사항이나 첨부서류가 이미 제출한 서류와 동일한 부분이 있을 때에는 그 부분을 적시하여 이를 참조하라는 뜻을 기재함으로써 갈음할 수 있습니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     일부 사항에 대해 그 기준 또는 결정방식 등 예정내용만을 기재하여 제출 가능하며, 이후 기재사항이 확정된 때에는 지체없이 정정신고서 제출*해야 합니다.
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       *
+      </i>
+      <p>
+       이 경우 정정신고서의 제출이 이미 제출한 증권시고서의 효력발생일에는 영향을 미치지 않습니다.
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+ </ul>
+ <h3>
+  4. 작성요령
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     모집 또는 매출에 관한 일반사항 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2309')">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     투자위험요소 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2310')">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     자금의 사용목적 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2311')">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  5. 유의사항
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     증권 발행회사 최대주주의 특수관계인, 발행회사의 직원, 계열회사의 직원은 50인 산정시 제외되지 않음을 유의하여야 합니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     공모실적이 있는 경우 제3자배정이라도 전매제한조치를 취하지 않으면 간주모집에 해당하여 발행공시가 면제되지 않는 점을 유의해야 합니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     청약을 권유하는 경우에는 반드시 투자설명서를 사용해야 하며, 투자자에게 미리 교부하지 않고서는 증권을 취득하게 하거나 매도할 수 없습니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     증권신고서의 기재사항을 정정하고자 하는 경우에는 그 증권신고서에 기재된 증권의 취득 또는 매수의 청약일 전일까지 정정신고서를 제출할 수 있습니다.
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     "증권신고서 제2부 발행인에 관한 사항"은 정기보고서와 그 기재항목은 동일하나, 공시서류 작성기준일은 '증권신고서 제출일 전일'이므로 동 일자를 기준으로 작성해야 합니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+</div>

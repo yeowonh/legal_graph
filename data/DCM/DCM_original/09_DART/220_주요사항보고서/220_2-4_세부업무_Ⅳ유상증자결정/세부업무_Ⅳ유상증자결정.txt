@@ -1,0 +1,134 @@
+<div class="content-box tab-pane" id="content-tab-2-4">
+ <h3>
+  1. 신고서식 및 기재요령
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     유상증자 :
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2238');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     유무상증자:
+     <a class="btn-download" href="javascript:void(0);" onclick="downloadGuide('2239');">
+      다운로드
+     </a>
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  2. 작성시 기재사항
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     신주의 종류와 수: 1주당 액면가액, 증자 전 발행주식총수,
+     <strong class="font-red">
+      자금조달의 목적
+     </strong>
+     , 증자방식, 정관근거, 주식내용 등
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     상환권•전환권 부여된 경우 : 상환•전환조건, 상환•전환방법, 상환•전환기간, 주당 상환•전환가액 등
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     주주배정증자•주주우선공모증자•제3자배정 등의 각각의 경우 : 신주발행가액, 할인율(할증율), 청약예정일, 납입일 등 주요일정, 이사회 등
+    </p>
+   </div>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     법인 또는 단체(투자조합 포함)가 유상증자에 참여하여 회사의
+     <strong class="font-red">
+      최대주주 변경이 예상
+     </strong>
+     되는 경우,
+    </p>
+   </div>
+   <ul>
+    <li>
+     <div>
+      <i>
+       -
+      </i>
+      <p>
+       <strong class="font-red">
+        법인 또는 단체의 주요정보
+       </strong>
+       (대표이사, 재무상황 등)을 기재하여야 합니다.
+      </p>
+     </div>
+    </li>
+   </ul>
+  </li>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     공매도 거래자의 모집•매출 참여 제한 : 상장주식에 대한 모집•매출 계획이 처음 공시된 날의 다음날부터 모집•매출가액이 결정되는 날까지 해당 주식을 공매도할 경우 모집•매출 참여가 제한됩니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+ <h3>
+  3. 유의사항
+ </h3>
+ <ul>
+  <li>
+   <div>
+    <i class="square">
+     ■
+    </i>
+    <p>
+     제3자배정 방식의 자금조달 과정에서
+     <strong class="font-red">
+      부적절한 자본확충
+     </strong>
+     및 기존 주주의
+     <strong class="font-red">
+      권리 침해소지
+     </strong>
+     가 있어, 보다 충실한 공시가 요구되고 있습니다.
+    </p>
+   </div>
+  </li>
+ </ul>
+</div>
