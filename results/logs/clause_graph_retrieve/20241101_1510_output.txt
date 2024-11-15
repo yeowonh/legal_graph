@@ -1,0 +1,595 @@
+## client loaded ##
+## config file loaded ##
+## 서버와의 연결이 성공적으로 확인되었습니다.
+## config file loaded ##
+###### Query #####
+증권신고서의 발행 주체와 기간, 그리고 절차에 대해 자세히 설명해줘.
+###### Answer #####
+증권신고서는 증권을 발행하고자 하는 기업이 해당 발행의 목적, 규모, 조건 등을 상세하게 공시하기 위해 작성하는 문서입니다. 이 문서는 투자자들에게 중요한 정보를 제공하며, 법적으로 요구되는 문서이기도 합니다. 증권신고서의 발행 주체, 기간, 절차에 대해 자세히 설명드리겠습니다.
+
+1. **발행 주체**:
+   - 증권신고서는 주로 주식이나 채권을 발행하고자 하는 기업이 작성합니다. 이 기업은 공개 기업(public company)일 수도 있고, 비상장 기업이지만 공개 모집을 통해 자금을 조달하고자 하는 경우일 수도 있습니다.
+   - 발행을 주관하는 증권회사 또는 투자은행이 기업과 협력하여 신고서 작성과 제출을 지원합니다.
+
+2. **발행 기간**:
+   - 증권신고서는 증권 발행 전 일정 기간 동안 금융 당국(예: 금융위원회, 금융감독원)에 제출되어야 하며, 이 기간 동안 당국의 검토를 받습니다.
+   - 검토 기간은 일반적으로 몇 주에서 몇 달까지 걸릴 수 있으며, 이는 해당 발행의 복잡성과 당국의 일정에 따라 다릅니다.
+
+3. **발행 절차**:
+   - **작성 및 준비**: 기업은 발행의 목적, 재무 상태, 사업 내용, 위험 요소 등 투자자에게 필요한 모든 정보를 포함하여 증권신고서를 작성합니다. 이는 법적 요건을 충족해야 하며 정확하고 완전해야 합니다.
+   - **신고서 제출**: 작성된 신고서는 관할 금융 당국에 제출됩니다. 이 단계에서 기업은 투자자에게 제공할 공개 설명서(prospectus)도 준비합니다.
+   - **검토 및 승인**: 금융 당국은 신고서를 검토하여 필요한 경우 보완을 요구할 수 있으며, 최종 승인이 이루어져야 발행이 가능합니다.
+   - **공고 및 배포**: 승인 후에는 증권신고서와 관련 공개 설명서를 일반 투자자들에게 배포하여 투자 결정을 위한 정보를 제공합니다.
+   - **모집 및 발행**: 증권 발행에 필요한 투자자 모집 과정을 거쳐 실제로 증권을 발행하게 됩니다.
+
+증권신고서 절차는 투자자 보호를 위한 중요한 과정으로, 이와 관련된 모든 단계에서 법적 요건을 철저히 준수하는 것이 필요합니다.
+## hop : 0
+labels: Clause_01_enforcement_main, index : None, similarity : 0.6397842009273547, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:539
+labels: Clause_01_enforcement_main, index : None, similarity : 0.6304145676244829, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:561
+labels: Clause_01_law_main, index : None, similarity : 0.6148433154925332, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2242
+labels: Clause_01_law_main, index : None, similarity : 0.6122294746284785, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2217
+labels: Clause_01_enforcement_main, index : None, similarity : 0.6080452056933527, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:547
+all_neighbors for hop 0: 5
+
+
+########### hop: 1 ##########
+
+ Neighbor idx : 0 labels+index : Clause_01_enforcement_main 제125조제1항, similarity : 0.6397842009273547, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:539
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:539
+제125조제1항's Number of neighbors: 6
+ - Append :  Clause_01_law_main 제119조제1항
+ - Append :  Clause_01_law_main 제119조제5항
+ - Append :  Clause_01_law_main 제124조제1항
+ - Already Visited : Clause_01_law_main 제124조제2항 
+ - Append :  Clause_01_law_main 제124조제3항
+ - Append :  Clause_01_law_main 제124조제4항
+
+ Neighbor idx : 1 labels+index : Clause_01_enforcement_main 제131조제2항, similarity : 0.6304145676244829, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:561
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:561
+제131조제2항's Number of neighbors: 3
+ - Append :  Clause_01_law_main 제119조제1항
+ - Append :  Clause_01_law_main 제176조제3항
+ - Already Visited : Clause_01_enforcement_main 제131조제2항 
+
+ Neighbor idx : 2 labels+index : Clause_01_enforcement_main 제124조제2항, similarity : 0.6148433154925332, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2242
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2242
+제124조제2항's Number of neighbors: 1
+ - Append :  Clause_01_law_main 제120조제1항
+
+ Neighbor idx : 3 labels+index : Clause_01_enforcement_main 제119조제2항, similarity : 0.6122294746284785, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2217
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2217
+제119조제2항's Number of neighbors: 1
+ - Append :  Clause_01_law_main 제119조제1항
+
+ Neighbor idx : 4 labels+index : Clause_01_enforcement_main 제127조제1항, similarity : 0.6080452056933527, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:547
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:547
+제127조제1항's Number of neighbors: 16
+ - Append :  Clause_01_law_main 제42조제1항
+ - Append :  Clause_01_law_main 제42조제2항
+ - Append :  Clause_01_law_main 제42조제3항
+ - Append :  Clause_01_law_main 제42조제4항
+ - Append :  Clause_01_law_main 제42조제5항
+ - Append :  Clause_01_law_main 제42조제6항
+ - Append :  Clause_01_law_main 제42조제7항
+ - Append :  Clause_01_law_main 제42조제8항
+ - Append :  Clause_01_law_main 제42조제9항
+ - Append :  Clause_01_law_main 제42조제10항
+ - Append :  Clause_01_law_main 제119조제5항
+ - Append :  Clause_01_law_main 제119조제7항
+ - Append :  Clause_01_law_main 제124조제1항
+ - Already Visited : Clause_01_law_main 제124조제2항 
+ - Append :  Clause_01_law_main 제124조제3항
+ - Append :  Clause_01_law_main 제124조제4항
+all_neighbors for hop 1: 23
+next hop check nodes 
+['제124조제1항Clause_01_law_main', '제124조제1항Clause_01_law_main', '제120조제1항Clause_01_law_main', '제119조제1항Clause_01_law_main', '제119조제1항Clause_01_law_main']
+
+
+########### hop: 2 ##########
+
+ Neighbor idx : 0 labels+index : Clause_01_enforcement_main 제124조제1항, similarity : 0.5548511423833128, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2241
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2241
+제124조제1항's Number of neighbors: 7
+ - Append :  Clause_01_law_main 제123조제1항
+ - Append :  Clause_01_law_main 제123조제2항
+ - Append :  Clause_01_law_main 제123조제3항
+ - Already Visited : Clause_01_law_main 제124조제2항 
+ - Append :  Clause_01_law_main 제132조
+ - Append :  Clause_01_law_main 제436조제1항
+ - Append :  Clause_01_law_main 제436조제2항
+
+ Neighbor idx : 1 labels+index : Clause_01_enforcement_main 제124조제1항, similarity : 0.5548511423833128, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2241
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2241
+제124조제1항's Number of neighbors: 7
+ - Append :  Clause_01_law_main 제123조제1항
+ - Append :  Clause_01_law_main 제123조제2항
+ - Append :  Clause_01_law_main 제123조제3항
+ - Already Visited : Clause_01_law_main 제124조제2항 
+ - Append :  Clause_01_law_main 제132조
+ - Append :  Clause_01_law_main 제436조제1항
+ - Append :  Clause_01_law_main 제436조제2항
+
+ Neighbor idx : 2 labels+index : Clause_01_enforcement_main 제120조제1항, similarity : 0.541864647511993, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2226
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2226
+제120조제1항's Number of neighbors: 2
+ - Append :  Clause_01_law_main 제119조제1항
+ - Append :  Clause_01_law_main 제120조제2항
+
+ Neighbor idx : 3 labels+index : Clause_01_enforcement_main 제119조제1항, similarity : 0.5304634589708075, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2216
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2216
+제119조제1항's Number of neighbors: 0
+
+ Neighbor idx : 4 labels+index : Clause_01_enforcement_main 제119조제1항, similarity : 0.5304634589708075, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2216
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2216
+제119조제1항's Number of neighbors: 0
+all_neighbors for hop 2: 30
+next hop check nodes 
+['제123조제1항Clause_01_law_main', '제123조제1항Clause_01_law_main', '제119조제1항Clause_01_law_main', '제132조Clause_01_law_main', '제132조Clause_01_law_main']
+
+
+########### hop: 3 ##########
+
+ Neighbor idx : 0 labels+index : Clause_01_enforcement_main 제123조제1항, similarity : 0.6071647561075593, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2238
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2238
+제123조제1항's Number of neighbors: 11
+ - Append :  Clause_01_law_main 제119조제1항
+ - Already Visited : Clause_01_law_main 제119조제2항 
+ - Append :  Clause_01_law_main 제119조제3항
+ - Append :  Clause_01_law_main 제119조제4항
+ - Append :  Clause_01_law_main 제119조제5항
+ - Append :  Clause_01_law_main 제119조제6항
+ - Append :  Clause_01_law_main 제119조제7항
+ - Append :  Clause_01_law_main 제119조제8항
+ - Append :  Clause_01_law_main 제119조의2제1항
+ - Append :  Clause_01_law_main 제119조의2제2항
+ - Already Visited : Clause_01_law_main 제124조제2항 
+
+ Neighbor idx : 1 labels+index : Clause_01_enforcement_main 제123조제1항, similarity : 0.6071647561075593, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2238
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2238
+제123조제1항's Number of neighbors: 11
+ - Append :  Clause_01_law_main 제119조제1항
+ - Already Visited : Clause_01_law_main 제119조제2항 
+ - Append :  Clause_01_law_main 제119조제3항
+ - Append :  Clause_01_law_main 제119조제4항
+ - Append :  Clause_01_law_main 제119조제5항
+ - Append :  Clause_01_law_main 제119조제6항
+ - Append :  Clause_01_law_main 제119조제7항
+ - Append :  Clause_01_law_main 제119조제8항
+ - Append :  Clause_01_law_main 제119조의2제1항
+ - Append :  Clause_01_law_main 제119조의2제2항
+ - Already Visited : Clause_01_law_main 제124조제2항 
+
+ Neighbor idx : 2 labels+index : Clause_01_enforcement_main 제119조제1항, similarity : 0.5304634589708075, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2216
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2216
+제119조제1항's Number of neighbors: 0
+
+ Neighbor idx : 3 labels+index : Clause_01_enforcement_main 제132조, similarity : 0.5298287266486994, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2257
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2257
+제132조's Number of neighbors: 11
+ - Append :  Clause_01_law_main 제121조제1항
+ - Append :  Clause_01_law_main 제121조제2항
+ - Already Visited : Clause_01_law_main 제123조제1항 
+ - Append :  Clause_01_law_main 제123조제2항
+ - Append :  Clause_01_law_main 제123조제3항
+ - Already Visited : Clause_01_law_main 제124조제1항 
+ - Already Visited : Clause_01_law_main 제124조제2항 
+ - Append :  Clause_01_law_main 제124조제3항
+ - Append :  Clause_01_law_main 제124조제4항
+ - Append :  Clause_01_law_main 제130조제1항
+ - Append :  Clause_01_law_main 제130조제2항
+
+ Neighbor idx : 4 labels+index : Clause_01_enforcement_main 제132조, similarity : 0.5298287266486994, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2257
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2257
+제132조's Number of neighbors: 11
+ - Append :  Clause_01_law_main 제121조제1항
+ - Append :  Clause_01_law_main 제121조제2항
+ - Already Visited : Clause_01_law_main 제123조제1항 
+ - Append :  Clause_01_law_main 제123조제2항
+ - Append :  Clause_01_law_main 제123조제3항
+ - Already Visited : Clause_01_law_main 제124조제1항 
+ - Already Visited : Clause_01_law_main 제124조제2항 
+ - Append :  Clause_01_law_main 제124조제3항
+ - Append :  Clause_01_law_main 제124조제4항
+ - Append :  Clause_01_law_main 제130조제1항
+ - Append :  Clause_01_law_main 제130조제2항
+all_neighbors for hop 3: 40
+next hop check nodes 
+['제119조제3항Clause_01_law_main', '제119조제3항Clause_01_law_main', '제119조제6항Clause_01_law_main', '제119조제6항Clause_01_law_main', '제130조제1항Clause_01_law_main']
+
+
+########### hop: 4 ##########
+
+ Neighbor idx : 0 labels+index : Clause_01_enforcement_main 제119조제3항, similarity : 0.5899217844364806, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2218
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2218
+제119조제3항's Number of neighbors: 3
+ - Append :  Clause_01_law_main 제119조제1항
+ - Already Visited : Clause_01_law_main 제119조제2항 
+ - Append :  Clause_01_law_main 제125조제2항
+
+ Neighbor idx : 1 labels+index : Clause_01_enforcement_main 제119조제3항, similarity : 0.5899217844364806, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2218
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2218
+제119조제3항's Number of neighbors: 3
+ - Append :  Clause_01_law_main 제119조제1항
+ - Already Visited : Clause_01_law_main 제119조제2항 
+ - Append :  Clause_01_law_main 제125조제2항
+
+ Neighbor idx : 2 labels+index : Clause_01_enforcement_main 제119조제6항, similarity : 0.5548888766337218, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2221
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2221
+제119조제6항's Number of neighbors: 3
+ - Append :  Clause_01_law_main 제125조제1항
+ - Append :  Clause_01_law_main 제125조제2항
+ - Append :  Clause_01_law_main 제125조제3항
+
+ Neighbor idx : 3 labels+index : Clause_01_enforcement_main 제119조제6항, similarity : 0.5548888766337218, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2221
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2221
+제119조제6항's Number of neighbors: 3
+ - Append :  Clause_01_law_main 제125조제1항
+ - Append :  Clause_01_law_main 제125조제2항
+ - Append :  Clause_01_law_main 제125조제3항
+
+ Neighbor idx : 4 labels+index : Clause_01_enforcement_main 제130조제1항, similarity : 0.5410967506859836, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2253
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2253
+제130조제1항's Number of neighbors: 2
+ - Append :  Clause_01_law_main 제119조제1항
+ - Already Visited : Clause_01_law_main 제119조제6항 
+all_neighbors for hop 4: 43
+next hop check nodes 
+['제125조제1항Clause_01_law_main', '제125조제1항Clause_01_law_main', '제119조제1항Clause_01_law_main', '제119조제1항Clause_01_law_main', '제119조제1항Clause_01_law_main']
+
+
+#### final results #### 
+Top : 0 ====== Clause_01_enforcement_main  제125조제1항 ======== 
+similarity : 0.64, hop : 0
+text: 법 제119조제1항에 따른 신고서(집합투자증권 및 유동화증권은 제외한다)에는 다음 각 호의 사항을 기재하여야 한다. <개정 2013. 8. 27.>
+1. 법 제119조제5항에 따른 대표이사 및 신고업무를 담당하는 이사의 제124조 각 호의 사항에 대한 서명
+2. 모집 또는 매출에 관한 다음 각 목의 사항
+가. 모집 또는 매출에 관한 일반사항
+나. 모집 또는 매출되는 증권의 권리내용
+다. 모집 또는 매출되는 증권의 취득에 따른 투자위험요소
+라. 모집 또는 매출되는 증권의 기초자산에 관한 사항(파생결합증권 및 금융위원회가 정하여 고시하는 채무증권의 경우만 해당한다)
+마. 모집 또는 매출되는 증권에 대한 인수인의 의견(인수인이 있는 경우만 해당한다)
+바. 주권비상장법인(설립 중인 법인을 포함한다)이 인수인의 인수 없이 지분증권(지분증권과 관련된 증권예탁증권을 포함한다)의 모집 또는 매출(이하 "직접공모"라 한다)에 관한 신고서를 제출하는 경우에는 금융위원회가 정하여 고시하는 요건을 갖춘 분석기관(이하 이 조에서 "증권분석기관"이라 한다)의 평가의견. 다만, 금융위원회가 정하여 고시하는 경우에는 이를 생략할 수 있다.
+사. 자금의 사용목적
+아. 그 밖에 투자자를 보호하기 위하여 필요한 사항으로서 금융위원회가 정하여 고시하는 사항
+3. 발행인에 관한 다음 각 목의 사항(설립 중인 법인의 경우에는 금융위원회가 정하여 고시하는 사항을 말한다)
+가. 회사의 개요
+나. 사업의 내용
+다. 재무에 관한 사항
+라. 회계감사인의 감사의견
+마. 이사회 등 회사의 기관 및 계열회사에 관한 사항
+바. 주주에 관한 사항
+사. 임원 및 직원에 관한 사항
+아. 이해관계자와의 거래내용
+자. 그 밖에 투자자를 보호하기 위하여 필요한 사항으로서 금융위원회가 정하여 고시하는 사항, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:539
+
+
+
+Top : 1 ====== Clause_01_enforcement_main  제131조제2항 ======== 
+similarity : 0.63, hop : 0
+text: 투자설명서의 표제부에는 다음 각 호의 사항을 기재하여야 한다.<개정 2013. 8. 27.>
+1. 법 제119조제1항 및 제2항에 따른 증권의 신고(이하 "증권신고"라 한다)의 효력발생일
+2. 해당 증권의 모집가액 또는 매출가액
+3. 청약기간
+4. 납부기간
+5. 해당 증권신고서의 사본과 투자설명서의 열람 장소
+6. 법 제176조제3항제1호에 따른 안정조작(이하 "안정조작"이라 한다)이나 법 제176조제3항제2호에 따른 시장조성(이하 "시장조성"이라 한다)을 하려는 경우에는 증권시장에서 안정조작이나 시장조성이 행하여질 수 있다는 뜻
+7. 청약일 전날(개방형 집합투자증권 및 금적립계좌등인 경우에는 청약일 이후에도 해당한다)까지는 해당 증권신고서의 기재사항 중 일부가 변경될 수 있다는 뜻
+8. 정부가 증권신고서의 기재사항이 진실 또는 정확하다는 것을 인정하거나 해당 증권의 가치를 보증 또는 승인하는 것이 아니라는 뜻
+9. 그 밖에 투자자를 보호하기 위하여 필요한 사항으로서 금융위원회가 정하여 고시하는 사항, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:561
+
+
+
+Top : 2 ====== Clause_01_law_main  제124조제2항 ======== 
+similarity : 0.61, hop : 0
+text: 누구든지 증권신고의 대상이 되는 증권의 모집 또는 매출, 그 밖의 거래를 위하여 청약의 권유 등을 하고자 하는 경우에는 다음 각 호의 어느 하나에 해당하는 방법에 따라야 한다.
+1. 제120조제1항에 따라 증권신고의 효력이 발생한 후 투자설명서를 사용하는 방법
+2. 제120조제1항에 따라 증권신고서가 수리된 후 신고의 효력이 발생하기 전에 발행인이 대통령령으로 정하는 방법에 따라 작성한 예비투자설명서(신고의 효력이 발생되지 아니한 사실을 덧붙여 적은 투자설명서를 말한다. 이하 같다)를 사용하는 방법
+3. 제120조제1항에 따라 증권신고서가 수리된 후 신문ㆍ방송ㆍ잡지 등을 이용한 광고, 안내문ㆍ홍보전단 또는 전자전달매체를 통하여 발행인이 대통령령으로 정하는 방법에 따라 작성한 간이투자설명서(투자설명서에 기재하여야 할 사항 중 그 일부를 생략하거나 중요한 사항만을 발췌하여 기재 또는 표시한 문서, 전자문서, 그 밖에 이에 준하는 기재 또는 표시를 말한다. 이하 같다)를 사용하는 방법, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2242
+
+
+
+Top : 3 ====== Clause_01_law_main  제119조제2항 ======== 
+similarity : 0.61, hop : 0
+text: 제1항에 불구하고 증권의 종류, 발행예정기간, 발행횟수, 발행인의 요건 등을 고려하여 대통령령으로 정하는 기준과 방법에 따라 일정기간 동안 모집하거나 매출할 증권의 총액을 일괄하여 기재한 신고서(이하 "일괄신고서"라 한다)를 금융위원회에 제출하여 수리된 경우에는 그 기간 중에 그 증권을 모집하거나 매출할 때마다 제출하여야 하는 신고서를 따로 제출하지 아니하고 그 증권을 모집하거나 매출할 수 있다. 이 경우 그 증권(집합투자증권 및 파생결합증권 중 대통령령으로 정하는 것을 제외한다)을 모집하거나 매출할 때마다 대통령령으로 정하는 일괄신고와 관련된 서류(이하 "일괄신고추가서류"라 한다)를 제출하여야 한다.<개정 2008. 2. 29., 2013. 5. 28.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2217
+
+
+
+Top : 4 ====== Clause_01_enforcement_main  제127조제1항 ======== 
+similarity : 0.61, hop : 0
+text: 법 제119조제7항에 따라 집합투자증권의 증권신고서에는 다음 각 호의 사항을 기재하여야 한다. <개정 2009. 12. 21., 2013. 8. 27.>
+1. 법 제119조제5항에 따른 대표이사 및 신고업무를 담당하는 이사의 제124조 각 호의 사항에 대한 서명
+2. 모집 또는 매출에 관한 다음 각 목의 사항
+가. 모집 또는 매출에 관한 일반사항
+나. 모집 또는 매출되는 집합투자증권의 권리내용
+다. 모집 또는 매출되는 집합투자증권의 취득에 따른 투자위험요소
+라. 모집 또는 매출되는 집합투자증권에 대한 인수인의 의견(인수인이 있는 경우만 해당한다)
+마. 그 밖에 투자자를 보호하기 위하여 필요한 사항으로서 금융위원회가 정하여 고시하는 사항
+3. 집합투자기구에 관한 다음 각 목의 사항
+가. 집합투자기구의 명칭
+나. 투자목적ㆍ투자방침과 투자전략에 관한 사항
+다. 운용보수, 판매수수료ㆍ판매보수, 그 밖의 비용에 관한 사항
+라. 출자금에 관한 사항(투자신탁인 경우는 제외한다)
+마. 재무에 관한 사항. 다만, 최초로 증권신고서를 제출하는 경우는 제외한다.
+바. 집합투자업자(투자회사인 경우 발기인과 감독이사를 포함한다)에 관한 사항
+사. 투자운용인력에 관한 사항
+아. 집합투자재산의 운용에 관한 사항
+자. 집합투자증권의 판매와 환매에 관한 사항
+차. 집합투자재산의 평가와 공시에 관한 사항
+카. 손익분배와 과세에 관한 사항
+타. 신탁업자와 일반사무관리회사(일반사무관리회사가 있는 경우만 해당한다)에 관한 사항
+파. 법 제42조에 따른 업무위탁에 관한 사항(그 업무위탁이 있는 경우만 해당한다)
+하. 그 밖에 투자자를 보호하기 위하여 필요한 사항으로서 금융위원회가 정하여 고시하는 사항, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:547
+
+
+
+Top : 5 ====== Clause_01_law_main  제124조제1항 ======== 
+similarity : 0.55, hop : 1
+text: 누구든지 증권신고의 효력이 발생한 증권을 취득하고자 하는 자(전문투자자, 그 밖에 대통령령으로 정하는 자를 제외한다)에게 제123조에 적합한 투자설명서(집합투자증권의 경우 투자자가 제123조에 따른 투자설명서의 교부를 별도로 요청하지 아니하는 경우에는 제2항제3호에 따른 간이투자설명서를 말한다. 이하 이 항 및 제132조에서 같다)를 미리 교부하지 아니하면 그 증권을 취득하게 하거나 매도하여서는 아니 된다. 이 경우 투자설명서가 제436조에 따른 전자문서의 방법에 따르는 때에는 다음 각 호의 요건을 모두 충족하는 때에 이를 교부한 것으로 본다. <개정 2013. 5. 28.>
+1. 전자문서에 의하여 투자설명서를 받는 것을 전자문서를 받을 자(이하 "전자문서수신자"라 한다)가 동의할 것
+2. 전자문서수신자가 전자문서를 받을 전자전달매체의 종류와 장소를 지정할 것
+3. 전자문서수신자가 그 전자문서를 받은 사실이 확인될 것
+4. 전자문서의 내용이 서면에 의한 투자설명서의 내용과 동일할 것, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2241
+
+
+
+Top : 6 ====== Clause_01_law_main  제120조제1항 ======== 
+similarity : 0.54, hop : 1
+text: 제119조제1항 및 제2항에 따른 증권의 신고(이하 "증권신고"라 한다)는 그 증권신고서가 금융위원회에 제출되어 수리된 날부터 증권의 종류 또는 거래의 특성 등을 고려하여 총리령으로 정하는 기간이 경과한 날에 그 효력이 발생한다. <개정 2008. 2. 29.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2226
+
+
+
+Top : 7 ====== Clause_01_law_main  제119조제1항 ======== 
+similarity : 0.53, hop : 1
+text: 증권의 모집 또는 매출(대통령령으로 정하는 방법에 따라 산정한 모집가액 또는 매출가액 각각의 총액이 대통령령으로 정하는 금액 이상인 경우에 한한다)은 발행인이 그 모집 또는 매출에 관한 신고서를 금융위원회에 제출하여 수리되지 아니하면 이를 할 수 없다. <개정 2008. 2. 29.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2216
+
+
+
+Top : 8 ====== Clause_01_law_main  제119조제5항 ======== 
+similarity : 0.53, hop : 1
+text: 증권신고서를 제출하는 경우 신고 당시 해당 발행인의 대표이사(집행임원 설치회사의 경우 대표집행임원을 말한다. 이하 이 조에서 같다) 및 신고업무를 담당하는 이사(대표이사 및 신고업무를 담당하는 이사가 없는 경우 이에 준하는 자를 말한다)는 그 증권신고서의 기재사항 중 중요사항에 관하여 거짓의 기재 또는 표시가 있거나 중요사항의 기재 또는 표시가 누락되어 있지 아니하다는 사실 등 대통령령으로 정하는 사항을 확인ㆍ검토하고 이에 각각 서명하여야 한다.<개정 2013. 5. 28.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2220
+
+
+
+Top : 9 ====== Clause_01_law_main  제119조제7항 ======== 
+similarity : 0.50, hop : 1
+text: 제1항부터 제4항까지의 증권신고서의 기재사항 및 그 첨부서류에 관하여 필요한 사항은 대통령령으로 정한다.<개정 2013. 5. 28.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2222
+
+
+
+Top : 10 ====== Clause_01_law_main  제124조제4항 ======== 
+similarity : 0.44, hop : 1
+text: 제1항 및 제3항에 따라 집합투자증권의 간이투자설명서를 교부하거나 사용하는 경우에는 투자자에게 제123조에 따른 투자설명서를 별도로 요청할 수 있음을 알려야 한다.<신설 2013. 5. 28.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2244
+
+
+
+Top : 11 ====== Clause_01_law_main  제42조제2항 ======== 
+similarity : 0.40, hop : 1
+text: 금융투자업자는 제1항 본문에 따라 제삼자에게 업무를 위탁하는 경우에는 다음 각 호의 사항을 포함하는 위탁계약을 체결하여야 하며, 그 내용을 대통령령으로 정하는 방법 및 절차에 따라 금융위원회에 보고하여야 한다.<개정 2008. 2. 29.>
+1. 위탁하는 업무의 범위
+2. 수탁자의 행위제한에 관한 사항
+3. 위탁하는 업무의 처리에 대한 기록유지에 관한 사항
+4. 그 밖에 투자자 보호 또는 건전한 거래질서를 위하여 필요한 사항으로서 대통령령으로 정하는 사항, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1868
+
+
+
+Top : 12 ====== Clause_01_law_main  제124조제3항 ======== 
+similarity : 0.39, hop : 1
+text: 집합투자증권의 경우 제2항에도 불구하고 간이투자설명서를 사용할 수 있다. 다만, 투자자가 제123조에 따른 투자설명서의 사용을 별도로 요청하는 경우에는 그러하지 아니하다.<신설 2013. 5. 28.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2243
+
+
+
+Top : 13 ====== Clause_01_law_main  제42조제8항 ======== 
+similarity : 0.38, hop : 1
+text: 금융투자업자는 제1항 본문에 따라 업무위탁을 한 내용을 「금융소비자 보호에 관한 법률」 제23조제1항에 따른 계약서류 및 제123조제1항에 따른 투자설명서(집합투자업자의 경우 제124조제2항제3호에 따른 간이투자설명서를 포함한다. 이하 제64조, 제86조 및 제93조에서 같다)에 기재하여야 하며, 투자자와 계약을 체결한 후에 업무위탁을 하거나 그 내용을 변경한 경우에는 이를 투자자에게 통보하여야 한다.<개정 2013. 5. 28., 2020. 3. 24.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1874
+
+
+
+Top : 14 ====== Clause_01_law_main  제42조제7항 ======== 
+similarity : 0.35, hop : 1
+text: 금융투자업자는 제1항 본문에 따라 업무위탁을 하고자 하는 경우 투자자정보 보호 및 위험관리ㆍ평가 등에 관한 업무위탁 운영기준을 정하여야 한다., node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1873
+
+
+
+Top : 15 ====== Clause_01_law_main  제42조제6항 ======== 
+similarity : 0.35, hop : 1
+text: 제1항의 업무를 위탁한 자는 대통령령으로 정하는 기준에 따라 위탁한 업무의 범위에서 위탁받은 자에게 투자자의 금융투자상품의 매매, 그 밖의 거래에 관한 정보 및 투자자가 맡긴 금전, 그 밖의 재산에 관한 정보를 제공할 수 있다., node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1872
+
+
+
+Top : 16 ====== Clause_01_law_main  제176조제3항 ======== 
+similarity : 0.34, hop : 1
+text: 누구든지 상장증권 또는 장내파생상품의 시세를 고정시키거나 안정시킬 목적으로 그 증권 또는 장내파생상품에 관한 일련의 매매 또는 그 위탁이나 수탁을 하는 행위를 하여서는 아니 된다. 다만, 다음 각 호의 어느 하나에 해당하는 경우에는 그러하지 아니하다.
+1. 투자매매업자(모집 또는 매출되는 증권의 발행인 또는 소유자와 인수계약을 체결한 투자매매업자로서 대통령령으로 정하는 자에 한한다. 이하 이 조에서 같다)가 대통령령으로 정하는 방법에 따라 그 증권의 모집 또는 매출의 청약기간의 종료일 전 30일의 범위에서 대통령령으로 정하는 날부터 그 청약기간의 종료일까지의 기간 동안 증권의 가격을 안정시킴으로써 증권의 모집 또는 매출을 원활하도록 하기 위한 매매거래(이하 이 항에서 "안정조작"이라 한다)를 하는 경우
+2. 투자매매업자가 대통령령으로 정하는 방법에 따라 모집 또는 매출한 증권의 수요ㆍ공급을 그 증권이 상장된 날부터 6개월의 범위에서 대통령령으로 정하는 기간 동안 조성하는 매매거래(이하 이 항에서 "시장조성"이라 한다)를 하는 경우
+3. 모집 또는 매출되는 증권 발행인의 임원 등 대통령령으로 정하는 자가 투자매매업자에게 안정조작을 위탁하는 경우
+4. 투자매매업자가 제3호에 따라 안정조작을 수탁하는 경우
+5. 모집 또는 매출되는 증권의 인수인이 투자매매업자에게 시장조성을 위탁하는 경우
+6. 투자매매업자가 제5호에 따라 시장조성을 수탁하는 경우, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2455
+
+
+
+Top : 17 ====== Clause_01_law_main  제42조제1항 ======== 
+similarity : 0.34, hop : 1
+text: 금융투자업자는 금융투자업, 제40조제1항 각 호의 업무 및 제41조제1항의 부수업무와 관련하여 그 금융투자업자가 영위하는 업무의 일부를 제삼자에게 위탁할 수 있다. 다만, 대통령령으로 정하는 내부통제업무(해당 업무에 관한 의사결정권한까지 위탁하는 경우만 해당한다)는 제삼자에게 위탁하여서는 아니 된다. <개정 2020. 5. 19.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1867
+
+
+
+Top : 18 ====== Clause_01_law_main  제42조제10항 ======== 
+similarity : 0.32, hop : 1
+text: 제54조, 제55조 및 「금융실명거래 및 비밀보장에 관한 법률」 제4조는 제1항의 업무를 위탁받은 자가 그 위탁받은 업무를 영위하는 경우에 준용한다.
+⑪ 그 밖에 업무의 위탁ㆍ재위탁의 기준ㆍ방법 및 절차에 관하여 투자자 보호 또는 건전한 거래질서를 위하여 필요한 사항은 대통령령으로 정한다., node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1876
+
+
+
+Top : 19 ====== Clause_01_law_main  제42조제3항 ======== 
+similarity : 0.31, hop : 1
+text: 금융위원회는 제2항에 따른 위탁계약의 내용이 다음 각 호의 어느 하나에 해당하는 경우에는 해당 업무의 위탁을 제한하거나 시정할 것을 명할 수 있다.<개정 2008. 2. 29.>
+1. 금융투자업자의 경영건전성을 저해하는 경우
+2. 투자자 보호에 지장을 초래하는 경우
+3. 금융시장의 안정성을 저해하는 경우
+4. 금융거래질서를 문란하게 하는 경우, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1869
+
+
+
+Top : 20 ====== Clause_01_law_main  제42조제4항 ======== 
+similarity : 0.28, hop : 1
+text: 제1항 본문에 따라 위탁받는 업무가 본질적 업무(해당 금융투자업자가 인가를 받거나 등록을 한 업무와 직접적으로 관련된 필수업무로서 대통령령으로 정하는 업무를 말한다. 이하 이 항에서 같다)인 경우 그 본질적 업무를 위탁받는 자는 그 업무 수행에 필요한 인가를 받거나 등록을 한 자이어야 한다. 이 경우 그 업무를 위탁받는 자가 외국 금융투자업자로서 대통령령으로 정하는 요건을 갖춘 경우에는 인가를 받거나 등록을 한 것으로 본다., node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1870
+
+
+
+Top : 21 ====== Clause_01_law_main  제42조제9항 ======== 
+similarity : 0.28, hop : 1
+text: 「민법」 제756조는 제1항의 업무를 위탁받은 자(제5항에 따라 재위탁받은 자를 포함한다)가 그 위탁받은 업무를 영위하는 과정에서 투자자에게 손해를 끼친 경우에 준용한다.<개정 2020. 5. 19.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1875
+
+
+
+Top : 22 ====== Clause_01_law_main  제42조제5항 ======== 
+similarity : 0.27, hop : 1
+text: 제1항에 따라 금융투자업자의 업무를 위탁받은 자는 위탁한 자의 동의를 받은 경우에 한정하여 위탁받은 업무를 제삼자에게 재위탁할 수 있다.<개정 2020. 5. 19.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1871
+
+
+
+Top : 23 ====== Clause_01_law_main  제123조제1항 ======== 
+similarity : 0.61, hop : 2
+text: 제119조에 따라 증권을 모집하거나 매출하는 경우 그 발행인은 대통령령으로 정하는 방법에 따라 작성한 투자설명서(이하 "투자설명서"라 한다) 및 제124조제2항제3호에 따른 간이투자설명서(모집 또는 매출하는 증권이 집합투자증권인 경우로 한정한다. 이하 이 조에서 같다)를 그 증권신고의 효력이 발생하는 날(제119조제2항에 따라 일괄신고추가서류를 제출하여야 하는 경우에는 그 일괄신고추가서류를 제출하는 날로 한다)에 금융위원회에 제출하여야 하며, 이를 총리령으로 정하는 장소에 비치하고 일반인이 열람할 수 있도록 하여야 한다. <개정 2008. 2. 29., 2013. 5. 28.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2238
+
+
+
+Top : 24 ====== Clause_01_law_main  제132조 ======== 
+similarity : 0.53, hop : 2
+text: 금융위원회는 다음 각 호의 어느 하나에 해당하는 경우에는 증권신고의 신고인, 증권의 발행인ㆍ매출인ㆍ인수인 또는 주선인에 대하여 이유를 제시한 후 그 사실을 공고하고 정정을 명할 수 있으며, 필요한 때에는 그 증권의 발행ㆍ모집ㆍ매출, 그 밖의 거래를 정지 또는 금지하거나 대통령령으로 정하는 조치를 할 수 있다. 이 경우 그 조치에 필요한 절차 및 조치기준은 총리령으로 정한다. <개정 2008. 2. 29., 2009. 2. 3., 2013. 5. 28.>
+1. 증권신고서ㆍ정정신고서 또는 증권발행실적보고서를 제출하지 아니한 경우
+2. 증권신고서ㆍ정정신고서 또는 증권발행실적보고서 중 중요사항에 관하여 거짓의 기재 또는 표시가 있거나 중요사항이 기재 또는 표시되지 아니한 경우
+3. 제121조를 위반하여 증권의 취득 또는 매수의 청약에 대한 승낙을 한 경우
+4. 투자설명서에 관하여 제123조 또는 제124조를 위반한 경우
+5. 예비투자설명서 또는 간이투자설명서에 의한 증권의 모집ㆍ매출, 그 밖의 거래에 관하여 제124조제2항을 위반한 경우
+6. 제130조에 따른 조치를 하지 아니한 경우, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2257
+
+
+
+Top : 25 ====== Clause_01_law_main  제123조제3항 ======== 
+similarity : 0.52, hop : 2
+text: 대통령령으로 정하는 집합투자증권 및 파생결합증권의 발행인은 제1항 외에 다음 각 호의 구분에 따라 투자설명서 및 간이투자설명서를 금융위원회에 추가로 제출하여야 하며, 이를 총리령으로 정하는 장소에 비치하고 일반인이 열람할 수 있도록 하여야 한다. 다만, 그 집합투자증권 및 파생결합증권의 모집 또는 매출을 중지한 경우에는 제출ㆍ비치 및 공시를 하지 아니할 수 있다.<개정 2008. 2. 29., 2013. 5. 28.>
+1. 제1항에 따라 투자설명서 및 간이투자설명서를 제출한 후 총리령으로 정하는 기간마다 1회 이상 다시 고친 투자설명서 및 간이투자설명서를 제출할 것
+2. 제182조제8항에 따라 변경등록을 한 경우 변경등록의 통지를 받은 날부터 5일 이내에 그 내용을 반영한 투자설명서 및 간이투자설명서를 제출할 것, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2240
+
+
+
+Top : 26 ====== Clause_01_law_main  제123조제2항 ======== 
+similarity : 0.49, hop : 2
+text: 투자설명서에는 증권신고서(제119조제2항의 일괄신고추가서류를 포함한다. 이하 이 장에서 같다)에 기재된 내용과 다른 내용을 표시하거나 그 기재사항을 누락하여서는 아니 된다. 다만, 기업경영 등 비밀유지와 투자자 보호와의 형평 등을 고려하여 기재를 생략할 필요가 있는 사항으로서 대통령령으로 정하는 사항에 대하여는 그 기재를 생략할 수 있다., node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2239
+
+
+
+Top : 27 ====== Clause_01_law_main  제120조제2항 ======== 
+similarity : 0.45, hop : 2
+text: 금융위원회는 증권신고서의 형식을 제대로 갖추지 아니한 경우 또는 그 증권신고서 중 중요사항에 관하여 거짓의 기재 또는 표시가 있거나 중요사항이 기재 또는 표시되지 아니한 경우를 제외하고는 그 수리를 거부하여서는 아니 된다.<개정 2008. 2. 29.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2227
+
+
+
+Top : 28 ====== Clause_01_law_main  제436조제1항 ======== 
+similarity : 0.41, hop : 2
+text: 이 법에 따라 금융위원회, 증권선물위원회, 금융감독원장, 거래소, 협회 또는 예탁결제원에 신고서ㆍ보고서, 그 밖의 서류 또는 자료 등을 제출하는 경우에는 전자문서의 방법으로 할 수 있다. <개정 2008. 2. 29.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3634
+
+
+
+Top : 29 ====== Clause_01_law_main  제436조제2항 ======== 
+similarity : 0.31, hop : 2
+text: 제1항의 전자문서에 의한 신고 등의 방법 및 절차, 그 밖에 필요한 사항은 대통령령으로 정한다., node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3635
+
+
+
+Top : 30 ====== Clause_01_law_main  제119조제3항 ======== 
+similarity : 0.59, hop : 3
+text: 발행인은 제1항의 신고서와 제2항의 일괄신고서(이하 "증권신고서"라 한다)에 발행인(투자신탁의 수익증권 및 투자익명조합의 지분증권의 경우에는 그 투자신탁 및 투자익명조합을 말한다. 이하 이 항에서 같다)의 미래의 재무상태나 영업실적 등에 대한 예측 또는 전망에 관한 사항으로서 다음 각 호의 사항(이하 "예측정보"라 한다)을 기재 또는 표시할 수 있다. 이 경우 예측정보의 기재 또는 표시는 제125조제2항제1호ㆍ제2호 및 제4호의 방법에 따라야 한다.
+1. 매출규모ㆍ이익규모 등 발행인의 영업실적, 그 밖의 경영성과에 대한 예측 또는 전망에 관한 사항
+2. 자본금규모ㆍ자금흐름 등 발행인의 재무상태에 대한 예측 또는 전망에 관한 사항
+3. 특정한 사실의 발생 또는 특정한 계획의 수립으로 인한 발행인의 경영성과 또는 재무상태의 변동 및 일정시점에서의 목표수준에 관한 사항
+4. 그 밖에 발행인의 미래에 대한 예측 또는 전망에 관한 사항으로서 대통령령으로 정하는 사항, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2218
+
+
+
+Top : 31 ====== Clause_01_law_main  제119조제6항 ======== 
+similarity : 0.55, hop : 3
+text: 제1항부터 제5항까지의 규정에도 불구하고 발행인 및 같은 종류의 증권에 대하여 충분한 공시가 이루어지고 있는 등 대통령령으로 정한 사유에 해당하는 때에는 매출에 관한 증권신고서를 제출하지 아니할 수 있다.<신설 2013. 5. 28.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2221
+
+
+
+Top : 32 ====== Clause_01_law_main  제130조제1항 ======== 
+similarity : 0.54, hop : 3
+text: 제119조제1항에 따른 신고서를 제출하지 아니하고 증권을 모집 또는 매출하는 발행인은 투자자를 보호하기 위하여 재무상태에 관한 사항의 공시, 그 밖에 대통령령으로 정하는 조치를 하여야 한다. 다만, 제119조제6항에서 정한 사유에 해당하는 때에는 그러하지 아니하다. <개정 2013. 5. 28., 2017. 10. 31.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2253
+
+
+
+Top : 33 ====== Clause_01_law_main  제119조의2제2항 ======== 
+similarity : 0.54, hop : 3
+text: 연결재무제표 작성대상법인 중 증권신고서를 제출하여야 하는 법인은 증권신고서의 작성을 위하여 필요한 자료를 입수할 수 없거나 종속회사가 제출한 자료의 내용을 확인할 필요가 있는 때에는 종속회사의 업무와 재산상태를 조사할 수 있다.
+[본조신설 2013. 5. 28.], node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2225
+
+
+
+Top : 34 ====== Clause_01_law_main  제119조의2제1항 ======== 
+similarity : 0.51, hop : 3
+text: 종속회사(발행인이 지배회사로서 그 회사와 「주식회사 등의 외부감사에 관한 법률」 제2조제3호에 따른 대통령령으로 정하는 지배ㆍ종속의 관계에 있는 경우 그에 종속되는 회사를 말하며, 국제회계기준 등 발행인이 적용한 회계기준에 따라 연결재무제표 작성대상 종속회사를 보유한 외국법인등의 경우에는 해당 회계기준에 따른 종속회사를 말한다. 이하 같다)가 있는 법인(이하 "연결재무제표 작성대상법인"이라 한다) 중 증권신고서를 제출하여야 하는 법인은 증권신고서의 작성을 위하여 필요한 범위에서 종속회사에게 관련 자료의 제출을 요구할 수 있다. <개정 2017. 10. 31.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2224
+
+
+
+Top : 35 ====== Clause_01_law_main  제121조제2항 ======== 
+similarity : 0.47, hop : 3
+text: 제119조제2항에 따라 일괄신고추가서류를 제출하여야 하는 경우 그 일괄신고추가서류가 제출되지 아니하면 그 증권의 발행인ㆍ매출인과 그 대리인은 그 증권에 관한 취득 또는 매수의 청약에 대한 승낙을 하여서는 아니 된다., node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2231
+
+
+
+Top : 36 ====== Clause_01_law_main  제119조제4항 ======== 
+similarity : 0.43, hop : 3
+text: 증권신고서를 제출하는 경우 증권신고서에 기재하여야 할 사항이나 그 첨부서류에 이미 제출된 것과 같은 부분이 있는 때에는 그 부분을 적시하여 이를 참조하라는 뜻을 기재한 서면으로 갈음할 수 있다., node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2219
+
+
+
+Top : 37 ====== Clause_01_law_main  제121조제1항 ======== 
+similarity : 0.38, hop : 3
+text: 제120조에 따른 신고의 효력이 발생하지 아니한 증권의 취득 또는 매수의 청약이 있는 경우에 그 증권의 발행인ㆍ매출인과 그 대리인은 그 청약의 승낙을 하여서는 아니 된다., node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2230
+
+
+
+Top : 38 ====== Clause_01_law_main  제130조제2항 ======== 
+similarity : 0.37, hop : 3
+text: 자금조달 계획의 동일성 등 대통령령으로 정하는 사항을 종합적으로 고려하여 둘 이상의 증권의 발행 또는 매도가 사실상 동일한 증권의 발행 또는 매도로 인정되는 경우에는 하나의 증권의 발행 또는 매도로 보아 제1항을 적용한다.<신설 2017. 10. 31.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2254
+
+
+
+Top : 39 ====== Clause_01_law_main  제119조제8항 ======== 
+similarity : 0.37, hop : 3
+text: 자금조달 계획의 동일성 등 대통령령으로 정하는 사항을 종합적으로 고려하여 둘 이상의 증권의 발행 또는 매도가 사실상 동일한 증권의 발행 또는 매도로 인정되는 경우에는 하나의 증권의 발행 또는 매도로 보아 제1항을 적용한다.<신설 2017. 10. 31.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2223
+
+
+
+Top : 40 ====== Clause_01_law_main  제125조제1항 ======== 
+similarity : 0.60, hop : 4
+text: 증권신고서(정정신고서 및 첨부서류를 포함한다. 이하 이 조에서 같다)와 투자설명서(예비투자설명서 및 간이투자설명서를 포함한다. 이하 이 조에서 같다) 중 중요사항에 관하여 거짓의 기재 또는 표시가 있거나 중요사항이 기재 또는 표시되지 아니함으로써 증권의 취득자가 손해를 입은 경우에는 다음 각 호의 자는 그 손해에 관하여 배상의 책임을 진다. 다만, 배상의 책임을 질 자가 상당한 주의를 하였음에도 불구하고 이를 알 수 없었음을 증명하거나 그 증권의 취득자가 취득의 청약을 할 때에 그 사실을 안 경우에는 배상의 책임을 지지 아니한다. <개정 2009. 2. 3., 2013. 5. 28.>
+1. 그 증권신고서의 신고인과 신고 당시의 발행인의 이사(이사가 없는 경우 이에 준하는 자를 말하며, 법인의 설립 전에 신고된 경우에는 그 발기인을 말한다)
+2. 「상법」 제401조의2제1항 각 호의 어느 하나에 해당하는 자로서 그 증권신고서의 작성을 지시하거나 집행한 자
+3. 그 증권신고서의 기재사항 또는 그 첨부서류가 진실 또는 정확하다고 증명하여 서명한 공인회계사ㆍ감정인 또는 신용평가를 전문으로 하는 자 등(그 소속단체를 포함한다) 대통령령으로 정하는 자
+4. 그 증권신고서의 기재사항 또는 그 첨부서류에 자기의 평가ㆍ분석ㆍ확인 의견이 기재되는 것에 대하여 동의하고 그 기재내용을 확인한 자
+5. 그 증권의 인수인 또는 주선인(인수인 또는 주선인이 2인 이상인 경우에는 대통령령으로 정하는 자를 말한다)
+6. 그 투자설명서를 작성하거나 교부한 자
+7. 매출의 방법에 의한 경우 매출신고 당시의 매출인, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2245
+
+
+
+Top : 41 ====== Clause_01_law_main  제125조제3항 ======== 
+similarity : 0.39, hop : 4
+text: 제2항은 주권비상장법인이 최초로 주권을 모집 또는 매출하기 위하여 증권신고서를 제출하는 경우에는 적용하지 아니한다., node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2247
+
+
+
+Top : 42 ====== Clause_01_law_main  제125조제2항 ======== 
+similarity : 0.32, hop : 4
+text: 예측정보가 다음 각 호에 따라 기재 또는 표시된 경우에는 제1항에 불구하고 제1항 각 호의 자는 그 손해에 관하여 배상의 책임을 지지 아니한다. 다만, 그 증권의 취득자가 취득의 청약 시에 예측정보 중 중요사항에 관하여 거짓의 기재 또는 표시가 있거나 중요사항이 기재 또는 표시되지 아니한 사실을 알지 못한 경우로서 제1항 각 호의 자에게 그 기재 또는 표시와 관련하여 고의 또는 중대한 과실이 있었음을 증명한 경우에는 배상의 책임을 진다.
+1. 그 기재 또는 표시가 예측정보라는 사실이 밝혀져 있을 것
+2. 예측 또는 전망과 관련된 가정이나 판단의 근거가 밝혀져 있을 것
+3. 그 기재 또는 표시가 합리적 근거나 가정에 기초하여 성실하게 행하여졌을 것
+4. 그 기재 또는 표시에 대하여 예측치와 실제 결과치가 다를 수 있다는 주의문구가 밝혀져 있을 것, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2246
+
+
+

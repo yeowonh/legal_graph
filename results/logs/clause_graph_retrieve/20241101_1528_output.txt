@@ -1,0 +1,360 @@
+## client loaded ##
+## config file loaded ##
+## 서버와의 연결이 성공적으로 확인되었습니다.
+## config file loaded ##
+###### Query #####
+증권신고서의 발행 주체와 기간, 그리고 절차에 대해 자세히 설명해줘.
+###### Answer #####
+증권신고서는 기업이 새로운 증권(예: 주식, 채권)을 발행하기 위해 금융 당국에 제출하는 공식 문서입니다. 이 문서에는 발행될 증권의 세부 사항과 기업의 재무 상태 등 투자자가 필요한 정보가 포함되어 있습니다. 증권신고서의 발행 주체, 기간, 그리고 절차에 대해 자세히 설명드리겠습니다.
+
+1. **발행 주체**:
+   - **회사**: 일반적으로 증권신고서는 증권을 발행하려는 회사에 의해 준비되고 제출됩니다. 이는 신주 발행을 통한 자본 조달을 원하는 상장 및 비상장 기업 모두에 해당됩니다.
+   - **금융기관**: 증권회사를 포함한 금융기관이 발행을 주관하거나 인수하는 경우에도, 이들이 신고서 작성과 제출 과정에서 주요 역할을 맡을 수 있습니다.
+
+2. **기간**:
+   - 증권신고서는 증권 발행 전, 즉 발행 계획이 확정된 후 비교적 초기 단계에서 제출해야 합니다. 이는 정부의 승인 및 투자자 검토에 필요한 시간을 확보하기 위한 것입니다.
+   - 제출 후, 금융 당국이 이를 검토하여 승인하기까지는 보통 몇 주에서 몇 달이 걸릴 수 있습니다. 정확한 기간은 관할 법규와 당국의 검토 절차에 따라 다릅니다.
+
+3. **절차**:
+   - **준비 및 작성**: 회사는 외부 전문가(회계사, 변호사 등)와 협력하여 신고서를 작성합니다. 여기에는 재무제표, 경영진 논의 및 분석, 사업 개요, 위험 요인 등이 포함됩니다.
+   - **제출**: 준비된 증권신고서는 금융 당국(예: 한국의 경우 금융위원회 및 금융감독원)에 제출됩니다.
+   - **검토 및 승인**: 금융 당국은 신고서를 검토하여 정보의 완전성과 정확성을 확인합니다. 필요한 경우, 추가 정보나 수정을 요구할 수도 있습니다.
+   - **공시**: 승인 후, 증권신고서는 일반 투자자들이 열람할 수 있도록 공시됩니다. 이는 증권 발행 전 투자자들이 정보를 충분히 검토할 수 있도록 하기 위함입니다.
+
+증권신고서는 발행자의 재무 상태와 사업 전망, 그리고 증권 발행의 세부 내용을 포함함으로써 투자자에게 필요한 정보를 제공하며, 이는 투자 결정에 중요한 역할을 합니다.
+########### hop: 0 ##########
+labels: Clause_01_enforcement_main, index : None, similarity : 0.6189646191193617, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:539
+labels: Clause_01_law_main, index : None, similarity : 0.6172063918846968, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2217
+labels: Clause_01_enforcement_main, index : None, similarity : 0.613576356390241, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:561
+labels: Clause_01_law_main, index : None, similarity : 0.6094938655040996, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2251
+labels: Clause_01_order_main, index : None, similarity : 0.6060836523772177, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3704
+all_neighbors for hop 0: 5
+
+
+########### hop: 1 ##########
+
+  Clause_01_enforcement_main 제125조제1항, similarity : 0.6189646191193617, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:539
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:539
+제125조제1항's Number of neighbors: 6
+ - Append :  Clause_01_law_main 제119조제1항
+to next_hop_nodes
+ - Append :  Clause_01_law_main 제119조제5항
+to next_hop_nodes
+ - Append :  Clause_01_law_main 제124조제1항
+to next_hop_nodes
+ - Append :  Clause_01_law_main 제124조제2항
+to next_hop_nodes
+ - Append :  Clause_01_law_main 제124조제3항
+to next_hop_nodes
+ - Append :  Clause_01_law_main 제124조제4항
+to next_hop_nodes
+
+  Clause_01_law_main 제119조제2항, similarity : 0.6172063918846968, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2217
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2217
+제119조제2항's Number of neighbors: 1
+ - Append :  Clause_01_law_main 제119조제1항
+to next_hop_nodes
+
+  Clause_01_enforcement_main 제131조제2항, similarity : 0.613576356390241, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:561
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:561
+제131조제2항's Number of neighbors: 3
+ - Append :  Clause_01_law_main 제119조제1항
+to next_hop_nodes
+ - Append :  Clause_01_law_main 제176조제3항
+to next_hop_nodes
+ - Not Append(Already Visited) : Clause_01_enforcement_main 제131조제2항 
+to next_hop_nodes
+
+  Clause_01_law_main 제128조, similarity : 0.6094938655040996, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2251
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2251
+제128조's Number of neighbors: 0
+
+  Clause_01_order_main 제12조제4항, similarity : 0.6060836523772177, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3704
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3704
+제12조제4항's Number of neighbors: 6
+ - Append :  Clause_01_law_main 제120조제1항
+to next_hop_nodes
+ - Append :  Clause_01_law_main 제122조제1항
+to next_hop_nodes
+ - Append :  Clause_01_law_main 제159조제1항
+to next_hop_nodes
+ - Append :  Clause_01_order_main 제12조제1항
+to next_hop_nodes
+ - Append :  Clause_01_order_main 제12조제2항
+to next_hop_nodes
+ - Append :  Clause_01_order_main 제12조제3항
+to next_hop_nodes
+all_neighbors for hop 1: 15
+next hop check nodes 
+['Clause_01_law_main 제124조제2항', 'Clause_01_order_main 제12조제3항', 'Clause_01_order_main 제12조제1항', 'Clause_01_law_main 제120조제1항', 'Clause_01_law_main 제122조제1항']
+
+
+########### hop: 2 ##########
+
+  Clause_01_law_main 제124조제2항, similarity : 0.5999297851437881, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2242
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2242
+제124조제2항's Number of neighbors: 1
+ - Append :  Clause_01_law_main 제120조제1항
+to next_hop_nodes
+
+  Clause_01_order_main 제12조제3항, similarity : 0.5965649411948424, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3703
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3703
+제12조제3항's Number of neighbors: 3
+ - Append :  Clause_01_enforcement_main 제119조제1항
+to next_hop_nodes
+ - Append :  Clause_01_order_main 제12조제1항
+to next_hop_nodes
+ - Append :  Clause_01_order_main 제12조제2항
+to next_hop_nodes
+
+  Clause_01_order_main 제12조제1항, similarity : 0.5858943923370248, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3701
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3701
+제12조제1항's Number of neighbors: 4
+ - Append :  Clause_01_enforcement_main 제362조제8항
+to next_hop_nodes
+ - Not Append(Already Visited) : Clause_01_law_main 제119조제2항 
+to next_hop_nodes
+ - Append :  Clause_01_law_main 제120조제1항
+to next_hop_nodes
+ - Append :  Clause_01_law_main 제230조제1항
+to next_hop_nodes
+
+  Clause_01_law_main 제120조제1항, similarity : 0.5787191143778396, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2226
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2226
+제120조제1항's Number of neighbors: 2
+ - Append :  Clause_01_law_main 제119조제1항
+to next_hop_nodes
+ - Append :  Clause_01_law_main 제120조제2항
+to next_hop_nodes
+
+  Clause_01_law_main 제122조제1항, similarity : 0.577424768641827, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2232
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2232
+제122조제1항's Number of neighbors: 0
+all_neighbors for hop 2: 9
+next hop check nodes 
+['Clause_01_order_main 제12조제2항', 'Clause_01_law_main 제119조제1항', 'Clause_01_law_main 제120조제2항', 'Clause_01_enforcement_main 제362조제8항', 'Clause_01_law_main 제230조제1항']
+
+
+########### hop: 3 ##########
+
+  Clause_01_order_main 제12조제2항, similarity : 0.5425869668770502, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3702
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3702
+제12조제2항's Number of neighbors: 2
+ - Append :  Clause_01_law_main 제182조제1항
+to next_hop_nodes
+ - Not Append(Already Visited) : Clause_01_order_main 제12조제1항 
+to next_hop_nodes
+
+  Clause_01_law_main 제119조제1항, similarity : 0.5183237882834063, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2216
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2216
+제119조제1항's Number of neighbors: 0
+
+  Clause_01_law_main 제120조제2항, similarity : 0.4412127942881668, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2227
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2227
+제120조제2항's Number of neighbors: 0
+
+  Clause_01_enforcement_main 제362조제8항, similarity : 0.3731979171335639, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1580
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1580
+제362조제8항's Number of neighbors: 1
+ - Append :  Clause_01_enforcement_main 제362조제5항
+to next_hop_nodes
+
+  Clause_01_law_main 제230조제1항, similarity : 0.356312933556176, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2706
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2706
+제230조제1항's Number of neighbors: 1
+ - Append :  Clause_01_law_main 제235조제1항
+to next_hop_nodes
+all_neighbors for hop 3: 3
+next hop check nodes 
+['Clause_01_enforcement_main 제362조제5항', 'Clause_01_law_main 제182조제1항', 'Clause_01_law_main 제235조제1항']
+
+
+########### hop: 4 ##########
+
+  Clause_01_enforcement_main 제362조제5항, similarity : 0.38677795804704374, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1577
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1577
+제362조제5항's Number of neighbors: 0
+
+  Clause_01_law_main 제182조제1항, similarity : 0.3546370660594441, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2480
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2480
+제182조제1항's Number of neighbors: 0
+
+  Clause_01_law_main 제235조제1항, similarity : 0.31493245411468623, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2724
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2724
+제235조제1항's Number of neighbors: 0
+all_neighbors for hop 4: 0
+next hop check nodes 
+[]
+
+
+#### final results #### 
+Top : 0 ====== Clause_01_enforcement_main  제125조제1항 ======== 
+similarity : 0.62, hop : 0
+text: 법 제119조제1항에 따른 신고서(집합투자증권 및 유동화증권은 제외한다)에는 다음 각 호의 사항을 기재하여야 한다. <개정 2013. 8. 27.>
+1. 법 제119조제5항에 따른 대표이사 및 신고업무를 담당하는 이사의 제124조 각 호의 사항에 대한 서명
+2. 모집 또는 매출에 관한 다음 각 목의 사항
+가. 모집 또는 매출에 관한 일반사항
+나. 모집 또는 매출되는 증권의 권리내용
+다. 모집 또는 매출되는 증권의 취득에 따른 투자위험요소
+라. 모집 또는 매출되는 증권의 기초자산에 관한 사항(파생결합증권 및 금융위원회가 정하여 고시하는 채무증권의 경우만 해당한다)
+마. 모집 또는 매출되는 증권에 대한 인수인의 의견(인수인이 있는 경우만 해당한다)
+바. 주권비상장법인(설립 중인 법인을 포함한다)이 인수인의 인수 없이 지분증권(지분증권과 관련된 증권예탁증권을 포함한다)의 모집 또는 매출(이하 "직접공모"라 한다)에 관한 신고서를 제출하는 경우에는 금융위원회가 정하여 고시하는 요건을 갖춘 분석기관(이하 이 조에서 "증권분석기관"이라 한다)의 평가의견. 다만, 금융위원회가 정하여 고시하는 경우에는 이를 생략할 수 있다.
+사. 자금의 사용목적
+아. 그 밖에 투자자를 보호하기 위하여 필요한 사항으로서 금융위원회가 정하여 고시하는 사항
+3. 발행인에 관한 다음 각 목의 사항(설립 중인 법인의 경우에는 금융위원회가 정하여 고시하는 사항을 말한다)
+가. 회사의 개요
+나. 사업의 내용
+다. 재무에 관한 사항
+라. 회계감사인의 감사의견
+마. 이사회 등 회사의 기관 및 계열회사에 관한 사항
+바. 주주에 관한 사항
+사. 임원 및 직원에 관한 사항
+아. 이해관계자와의 거래내용
+자. 그 밖에 투자자를 보호하기 위하여 필요한 사항으로서 금융위원회가 정하여 고시하는 사항, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:539
+
+
+
+Top : 1 ====== Clause_01_law_main  제119조제2항 ======== 
+similarity : 0.62, hop : 0
+text: 제1항에 불구하고 증권의 종류, 발행예정기간, 발행횟수, 발행인의 요건 등을 고려하여 대통령령으로 정하는 기준과 방법에 따라 일정기간 동안 모집하거나 매출할 증권의 총액을 일괄하여 기재한 신고서(이하 "일괄신고서"라 한다)를 금융위원회에 제출하여 수리된 경우에는 그 기간 중에 그 증권을 모집하거나 매출할 때마다 제출하여야 하는 신고서를 따로 제출하지 아니하고 그 증권을 모집하거나 매출할 수 있다. 이 경우 그 증권(집합투자증권 및 파생결합증권 중 대통령령으로 정하는 것을 제외한다)을 모집하거나 매출할 때마다 대통령령으로 정하는 일괄신고와 관련된 서류(이하 "일괄신고추가서류"라 한다)를 제출하여야 한다.<개정 2008. 2. 29., 2013. 5. 28.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2217
+
+
+
+Top : 2 ====== Clause_01_enforcement_main  제131조제2항 ======== 
+similarity : 0.61, hop : 0
+text: 투자설명서의 표제부에는 다음 각 호의 사항을 기재하여야 한다.<개정 2013. 8. 27.>
+1. 법 제119조제1항 및 제2항에 따른 증권의 신고(이하 "증권신고"라 한다)의 효력발생일
+2. 해당 증권의 모집가액 또는 매출가액
+3. 청약기간
+4. 납부기간
+5. 해당 증권신고서의 사본과 투자설명서의 열람 장소
+6. 법 제176조제3항제1호에 따른 안정조작(이하 "안정조작"이라 한다)이나 법 제176조제3항제2호에 따른 시장조성(이하 "시장조성"이라 한다)을 하려는 경우에는 증권시장에서 안정조작이나 시장조성이 행하여질 수 있다는 뜻
+7. 청약일 전날(개방형 집합투자증권 및 금적립계좌등인 경우에는 청약일 이후에도 해당한다)까지는 해당 증권신고서의 기재사항 중 일부가 변경될 수 있다는 뜻
+8. 정부가 증권신고서의 기재사항이 진실 또는 정확하다는 것을 인정하거나 해당 증권의 가치를 보증 또는 승인하는 것이 아니라는 뜻
+9. 그 밖에 투자자를 보호하기 위하여 필요한 사항으로서 금융위원회가 정하여 고시하는 사항, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:561
+
+
+
+Top : 3 ====== Clause_01_law_main  제128조 ======== 
+similarity : 0.61, hop : 0
+text: 증권신고의 효력이 발생한 증권의 발행인은 금융위원회가 정하여 고시하는 방법에 따라 그 발행실적에 관한 보고서(이하 "증권발행실적보고서"라 한다)를 금융위원회에 제출하여야 한다. <개정 2008. 2. 29.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2251
+
+
+
+Top : 4 ====== Clause_01_order_main  제12조제4항 ======== 
+similarity : 0.61, hop : 0
+text: 금융위원회는 증권의 발행인이 다음 각 호의 어느 하나에 해당하여 법 제120조제1항에 따른 증권신고(법 제122조제1항 또는 제3항에 따른 정정신고를 포함한다)의 효력발생시기를 투자자 보호 또는 건전한 거래질서를 위하여 연장할 필요가 있는 경우에는 제1항 각 호 및 제2항 각 호에 따른 기간에서 3일을 연장할 수 있다. 다만, 제1항제1호가목ㆍ나목 또는 라목에 해당하는 채무증권을 모집 또는 매출하는 경우와 주권비상장법인이 증권시장에 상장하기 위하여 지분증권을 모집 또는 매출하는 경우에는 그러하지 아니하다.<신설 2012. 3. 2., 2018. 11. 1.>
+1. 최근 사업연도의 재무제표에 대한 「주식회사 등의 외부감사에 관한 법률」 제2조제7호에 따른 감사인의 감사의견이 적정의견이 아닌 경우
+2. 법 제159조제1항 본문에 따른 사업보고서 제출대상법인(이하 "사업보고서 제출대상법인"이라 한다)이 제출한 최근 사업연도의 사업보고서 또는 반기ㆍ분기보고서상 자본금 전액이 잠식된 경우
+3. 사업보고서 제출대상법인이 사업보고서, 반기보고서 또는 분기보고서를 법정기한 내에 제출하지 아니한 경우
+4. 그 밖에 투자자 보호 또는 건전한 거래질서를 위하여 증권신고의 효력발생시기를 연장할 필요가 있다고 금융위원회가 정하여 고시하는 경우, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3704
+
+
+
+Top : 5 ====== Clause_01_law_main  제124조제2항 ======== 
+similarity : 0.60, hop : 1
+text: 누구든지 증권신고의 대상이 되는 증권의 모집 또는 매출, 그 밖의 거래를 위하여 청약의 권유 등을 하고자 하는 경우에는 다음 각 호의 어느 하나에 해당하는 방법에 따라야 한다.
+1. 제120조제1항에 따라 증권신고의 효력이 발생한 후 투자설명서를 사용하는 방법
+2. 제120조제1항에 따라 증권신고서가 수리된 후 신고의 효력이 발생하기 전에 발행인이 대통령령으로 정하는 방법에 따라 작성한 예비투자설명서(신고의 효력이 발생되지 아니한 사실을 덧붙여 적은 투자설명서를 말한다. 이하 같다)를 사용하는 방법
+3. 제120조제1항에 따라 증권신고서가 수리된 후 신문ㆍ방송ㆍ잡지 등을 이용한 광고, 안내문ㆍ홍보전단 또는 전자전달매체를 통하여 발행인이 대통령령으로 정하는 방법에 따라 작성한 간이투자설명서(투자설명서에 기재하여야 할 사항 중 그 일부를 생략하거나 중요한 사항만을 발췌하여 기재 또는 표시한 문서, 전자문서, 그 밖에 이에 준하는 기재 또는 표시를 말한다. 이하 같다)를 사용하는 방법, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2242
+
+
+
+Top : 6 ====== Clause_01_order_main  제12조제3항 ======== 
+similarity : 0.60, hop : 1
+text: 금융위원회는 다음 각 호의 어느 하나에 해당하여 증권신고의 효력발생시기를 앞당길 필요가 있는 경우에는 제1항 각 호 및 제2항 각 호에 따른 기간을 단축하여 효력발생시기를 따로 정하여 고시할 수 있다.<개정 2021. 12. 9.>
+1. 해당 증권신고서의 내용이 이미 일반인에게 널리 알려져 있거나 쉽게 이해될 수 있을 것
+2. 해당 증권의 발행인이 영 제119조제1항 각 호의 어느 하나에 해당하는 법률에 따라 직접 설립되었거나 국가ㆍ지방자치단체로부터 업무감독을 받는 자 또는 금융위원회가 정하여 고시하는 국제기구 또는 단체로서 이미 일반인에게 그 공공성을 널리 인정받고 있을 것
+3. 그 밖에 투자자 보호 또는 건전한 거래질서 유지를 위해 증권신고의 효력발생시기를 단축할 필요가 있다고 금융위원회가 정하여 고시하는 경우, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3703
+
+
+
+Top : 7 ====== Clause_01_order_main  제12조제1항 ======== 
+similarity : 0.59, hop : 1
+text: 법 제120조제1항에 따른 증권신고의 효력발생시기는 그 증권신고서가 수리된 날부터 다음 각 호의 기간이 경과한 날로 한다. <개정 2013. 8. 29.>
+1. 채무증권의 모집 또는 매출인 경우에는 7일. 다만, 다음 각 목의 어느 하나에 해당하는 채무증권인 경우에는 5일
+가. 「담보부사채신탁법」에 따라 발행되는 담보부사채
+나. 영 제362조제8항에 따른 보증사채권
+다. 「자산유동화에 관한 법률」 제3조에 따른 자산유동화계획에 따라 발행되는 사채권
+라. 법 제119조제2항에 따른 일괄신고서에 의하여 모집 또는 매출되는 채무증권
+2. 지분증권의 모집 또는 매출인 경우에는 15일. 다만, 주권상장법인[법 제9조제18항제2호에 따른 투자회사(이하 "투자회사"라 한다)는 제외한다]의 주식의 모집 또는 매출인 경우에는 10일, 주주 또는 제3자에게 배정하는 방식의 주식(투자회사의 주식은 제외한다)의 모집 또는 매출인 경우에는 7일
+3. 증권시장에 상장된 법 제230조제1항에 따른 환매금지형집합투자기구(이하 "환매금지형집합투자기구"라 한다)의 집합투자증권의 모집 또는 매출인 경우에는 10일, 주주 등 출자자 또는 수익자에게 배정하는 방식의 환매금지형집합투자기구의 집합투자증권의 모집 또는 매출인 경우에는 7일
+4. 제1호부터 제3호까지에 해당하는 증권의 모집 또는 매출 외의 경우에는 15일, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3701
+
+
+
+Top : 8 ====== Clause_01_law_main  제120조제1항 ======== 
+similarity : 0.58, hop : 1
+text: 제119조제1항 및 제2항에 따른 증권의 신고(이하 "증권신고"라 한다)는 그 증권신고서가 금융위원회에 제출되어 수리된 날부터 증권의 종류 또는 거래의 특성 등을 고려하여 총리령으로 정하는 기간이 경과한 날에 그 효력이 발생한다. <개정 2008. 2. 29.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2226
+
+
+
+Top : 9 ====== Clause_01_law_main  제122조제1항 ======== 
+similarity : 0.58, hop : 1
+text: 금융위원회는 증권신고서의 형식을 제대로 갖추지 아니한 경우 또는 그 증권신고서 중 중요사항에 관하여 거짓의 기재 또는 표시가 있거나 중요사항이 기재 또는 표시되지 아니한 경우와 중요사항의 기재나 표시내용이 불분명하여 투자자의 합리적인 투자판단을 저해하거나 투자자에게 중대한 오해를 일으킬 수 있는 경우에는 그 증권신고서에 기재된 증권의 취득 또는 매수의 청약일 전일까지 그 이유를 제시하고 그 증권신고서의 기재내용을 정정한 신고서(이하 이 장에서 "정정신고서"라 한다)의 제출을 요구할 수 있다. <개정 2008. 2. 29., 2009. 2. 3.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2232
+
+
+
+Top : 10 ====== Clause_01_order_main  제12조제2항 ======== 
+similarity : 0.54, hop : 2
+text: 다음 각 호의 어느 하나에 해당하는 경우에는 제1항 각 호에도 불구하고 각각 다음 각 호에서 정하는 날에 해당 증권신고의 효력이 발생한다. 다만, 다음 각 호에서 정하는 날이 제1항 각 호에서 정하는 날 이전인 경우에는 제1항 각 호에 따른다.<개정 2019. 10. 21.>
+1. 모집가액, 매출가액, 발행이자율 및 이와 관련된 사항의 변경으로 인하여 정정신고서를 제출하는 경우에는 그 정정신고서가 수리된 날부터 3일이 지난 날
+2. 법 제182조제1항에 따라 등록된 사항을 변경하기 위하여 정정신고서를 제출하는 경우에는 그 정정신고서가 수리된 다음 날(집합투자기구만 해당한다), node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3702
+
+
+
+Top : 11 ====== Clause_01_law_main  제119조제1항 ======== 
+similarity : 0.52, hop : 2
+text: 증권의 모집 또는 매출(대통령령으로 정하는 방법에 따라 산정한 모집가액 또는 매출가액 각각의 총액이 대통령령으로 정하는 금액 이상인 경우에 한한다)은 발행인이 그 모집 또는 매출에 관한 신고서를 금융위원회에 제출하여 수리되지 아니하면 이를 할 수 없다. <개정 2008. 2. 29.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2216
+
+
+
+Top : 12 ====== Clause_01_law_main  제120조제2항 ======== 
+similarity : 0.44, hop : 2
+text: 금융위원회는 증권신고서의 형식을 제대로 갖추지 아니한 경우 또는 그 증권신고서 중 중요사항에 관하여 거짓의 기재 또는 표시가 있거나 중요사항이 기재 또는 표시되지 아니한 경우를 제외하고는 그 수리를 거부하여서는 아니 된다.<개정 2008. 2. 29.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2227
+
+
+
+Top : 13 ====== Clause_01_enforcement_main  제362조제8항 ======== 
+similarity : 0.37, hop : 2
+text: 제5항제2호에서 "보증사채권"이란 다음 각 호의 어느 하나에 해당하는 금융기관 등이 원리금의 지급을 보증한 사채권을 말한다.<개정 2016. 5. 31.>
+1. 은행
+2. 「한국산업은행법」에 따른 한국산업은행
+3. 「중소기업은행법」에 따른 중소기업은행
+4. 보험회사
+5. 투자매매업자
+6. 증권금융회사
+7. 종합금융회사
+8. 「신용보증기금법」에 따른 신용보증기금(신용보증기금이 지급을 보증한 보증사채권에는 「사회기반시설에 대한 민간투자법」에 따라 산업기반신용보증기금의 부담으로 보증한 것을 포함한다)
+9. 「기술보증기금법」에 따른 기술보증기금, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1580
+
+
+
+Top : 14 ====== Clause_01_law_main  제230조제1항 ======== 
+similarity : 0.36, hop : 2
+text: 투자신탁ㆍ투자유한회사ㆍ투자합자회사ㆍ투자유한책임회사ㆍ투자합자조합 및 투자익명조합을 설정ㆍ설립하고자 하는 집합투자업자 또는 투자회사의 발기인(이하 이 절에서 "집합투자업자등"이라 한다)은 제235조제1항에 불구하고 존속기간을 정한 집합투자기구에 대하여만 집합투자증권의 환매를 청구할 수 없는 집합투자기구(이하 이 조에서 "환매금지형집합투자기구"라 한다)를 설정ㆍ설립할 수 있다. <개정 2013. 5. 28.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2706
+
+
+
+Top : 15 ====== Clause_01_enforcement_main  제362조제5항 ======== 
+similarity : 0.39, hop : 3
+text: 거래소는 다음 각 호의 어느 하나에 해당하는 방법으로 공동기금을 운용하여야 한다.
+1. 국채증권ㆍ지방채증권 또는 「한국은행법」 제69조에 따른 한국은행통화안정증권의 매수
+2. 보증사채권의 매수
+3. 증권금융회사에의 대여ㆍ예탁 또는 증권금융회사가 발행한 사채의 매수
+4. 은행에의 예치, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1577
+
+
+
+Top : 16 ====== Clause_01_law_main  제182조제1항 ======== 
+similarity : 0.35, hop : 3
+text: 투자신탁이나 투자익명조합의 집합투자업자 또는 투자회사ㆍ투자유한회사ㆍ투자합자회사ㆍ투자유한책임회사 및 투자합자조합(이하 이 편에서 "투자회사등"이라 한다)은 집합투자기구가 설정ㆍ설립된 경우 그 집합투자기구를 금융위원회에 등록하여야 한다. <개정 2008. 2. 29., 2013. 5. 28.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2480
+
+
+
+Top : 17 ====== Clause_01_law_main  제235조제1항 ======== 
+similarity : 0.31, hop : 3
+text: 투자자는 언제든지 집합투자증권의 환매를 청구할 수 있다., node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2724
+
+
+

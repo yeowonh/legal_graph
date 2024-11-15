@@ -1,0 +1,215 @@
+## client loaded ##
+## config file loaded ##
+## 서버와의 연결이 성공적으로 확인되었습니다.
+## config file loaded ##
+###### Query #####
+정정신고서를 부실기재했을 경우 과징금은?
+###### System Prompt #####
+금융에 관련된 법 조항에 대한 [사용자 질문]이 주어집니다.
+당신은 금융 관련된 법 전문가 입니다. 
+
+
+[사용자 질문]
+input:
+###### Answer #####
+금융 관련 법률에 따라 정정신고서를 부실하게 기재한 경우, 과징금이 부과될 수 있습니다. 구체적인 과징금 액수와 기준은 관련 법령, 예를 들어 자본시장법 및 금융감독원의 세부 규정 등에 따라 결정됩니다. 일반적으로 부실기재의 정도, 고의성 여부, 발생한 손해의 규모 등에 따라 과징금의 액수가 달라질 수 있습니다. 정확한 액수와 기준을 확인하시려면 해당 법률 조항이나 금융 감독당국의 최신 지침을 참고하셔야 합니다. 또한, 관련 변호사나 전문가의 상담을 받는 것도 도움이 될 수 있습니다.
+Keywords: 3
+['keyword:\n정정신고서', '부실기재', '과징금']
+########### hop: 0 ##########
+labels: Clause_01_law_main, index : 제429조제2항, similarity : 0.6572462517987165, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3593
+labels: Clause_01_law_main, index : 제429조제1항, similarity : 0.6510440493810717, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3592
+labels: Clause_01_law_main, index : 제429조제4항, similarity : 0.6187353135904685, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3595
+labels: Clause_01_law_main, index : 제349조제2항, similarity : 0.617908183528273, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3321
+labels: Clause_01_law_main, index : 제428조제1항, similarity : 0.608961636149069, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3588
+all_neighbors for hop 0: 5
+
+
+########### hop: 1 ##########
+
+Clause_01_law_main 제429조제2항 공시위반에 대한 과징금, similarity : 0.6572462517987165, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3593
+text : 금융위원회는 제142조제1항 각 호의 어느 하나에 해당하는 자가 다음 각 호의 어느 하나에 해당하는 경우에는 공개매수신고서에 기재된 공개매수예정총액의 100분의 3(20억원을 초과하는 경우에는 20억원)을 초과하지 아니하는 범위에서 과징금을 부과할 수 있다. 이 경우 공개매수예정총액은 공개매수할 주식등의 수량을 공개매수가격으로 곱하여 산정한 금액으로 한다.<개정 2008. 2. 29.>
+1. 제134조, 제136조 또는 제137조에 따른 신고서ㆍ설명서, 그 밖의 제출서류 또는 공고 중 중요사항에 관하여 거짓의 기재 또는 표시를 하거나 중요사항을 기재 또는 표시하지 아니한 때
+2. 제134조, 제136조 또는 제137조에 따른 신고서ㆍ설명서, 그 밖의 제출서류를 제출하지 아니하거나 공고하여야 할 사항을 공고하지 아니한 때
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3593
+제429조제2항's Number of neighbors: 15
+ O Append :  Clause_01_law_main 제134조제1항 공개매수공고 및 공개매수신고서의 제출
+ O Append :  Clause_01_law_main 제134조제2항 공개매수공고 및 공개매수신고서의 제출
+ O Append :  Clause_01_law_main 제134조제3항 공개매수공고 및 공개매수신고서의 제출
+ O Append :  Clause_01_law_main 제134조제4항 공개매수공고 및 공개매수신고서의 제출
+ O Append :  Clause_01_law_main 제134조제5항 공개매수공고 및 공개매수신고서의 제출
+ O Append :  Clause_01_law_main 제136조제1항 정정신고ㆍ공고 등
+ O Append :  Clause_01_law_main 제136조제2항 정정신고ㆍ공고 등
+ O Append :  Clause_01_law_main 제136조제3항 정정신고ㆍ공고 등
+ O Append :  Clause_01_law_main 제136조제4항 정정신고ㆍ공고 등
+ O Append :  Clause_01_law_main 제136조제5항 정정신고ㆍ공고 등
+ O Append :  Clause_01_law_main 제136조제6항 정정신고ㆍ공고 등
+ O Append :  Clause_01_law_main 제137조제1항 공개매수설명서의 작성ㆍ공시
+ O Append :  Clause_01_law_main 제137조제2항 공개매수설명서의 작성ㆍ공시
+ O Append :  Clause_01_law_main 제137조제3항 공개매수설명서의 작성ㆍ공시
+ O Append :  Clause_01_law_main 제142조제1항 공개매수자 등의 배상책임
+to next_hop_nodes
+
+Clause_01_law_main 제429조제1항 공시위반에 대한 과징금, similarity : 0.6510440493810717, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3592
+text : 금융위원회는 제125조제1항 각 호의 어느 하나에 해당하는 자가 다음 각 호의 어느 하나에 해당하는 경우에는 증권신고서상의 모집가액 또는 매출가액의 100분의 3(20억원을 초과하는 경우에는 20억원)을 초과하지 아니하는 범위에서 과징금을 부과할 수 있다. <개정 2008. 2. 29.>
+1. 제119조, 제122조 또는 제123조에 따른 신고서ㆍ설명서, 그 밖의 제출서류 중 중요사항에 관하여 거짓의 기재 또는 표시를 하거나 중요사항을 기재 또는 표시하지 아니한 때
+2. 제119조, 제122조 또는 제123조에 따른 신고서ㆍ설명서, 그 밖의 제출서류를 제출하지 아니한 때
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3592
+제429조제1항's Number of neighbors: 20
+ O Append :  Clause_01_law_main 제119조제1항 모집 또는 매출의 신고
+ O Append :  Clause_01_law_main 제119조제2항 모집 또는 매출의 신고
+ O Append :  Clause_01_law_main 제119조제3항 모집 또는 매출의 신고
+ O Append :  Clause_01_law_main 제119조제4항 모집 또는 매출의 신고
+ O Append :  Clause_01_law_main 제119조제5항 모집 또는 매출의 신고
+ O Append :  Clause_01_law_main 제119조제6항 모집 또는 매출의 신고
+ O Append :  Clause_01_law_main 제119조제7항 모집 또는 매출의 신고
+ O Append :  Clause_01_law_main 제119조제8항 모집 또는 매출의 신고
+ O Append :  Clause_01_law_main 제119조의2제1항 자료요구권 등
+ O Append :  Clause_01_law_main 제119조의2제2항 자료요구권 등
+ O Append :  Clause_01_law_main 제122조제1항 정정신고서
+ O Append :  Clause_01_law_main 제122조제2항 정정신고서
+ O Append :  Clause_01_law_main 제122조제3항 정정신고서
+ O Append :  Clause_01_law_main 제122조제4항 정정신고서
+ O Append :  Clause_01_law_main 제122조제5항 정정신고서
+ O Append :  Clause_01_law_main 제122조제6항 정정신고서
+ O Append :  Clause_01_law_main 제123조제1항 투자설명서의 작성ㆍ공시
+ O Append :  Clause_01_law_main 제123조제2항 투자설명서의 작성ㆍ공시
+ O Append :  Clause_01_law_main 제123조제3항 투자설명서의 작성ㆍ공시
+ O Append :  Clause_01_law_main 제125조제1항 거짓의 기재 등으로 인한 배상책임
+to next_hop_nodes
+
+Clause_01_law_main 제429조제4항 공시위반에 대한 과징금, similarity : 0.6187353135904685, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3595
+text : 금융위원회는 제147조제1항에 따라 보고를 하여야 할 자가 다음 각 호의 어느 하나에 해당하는 경우에는 같은 항에 따른 주권상장법인이 발행한 주식의 시가총액(대통령령으로 정하는 방법에 따라 산정된 금액으로 한다)의 10만분의 1(5억원을 초과하는 경우에는 5억원)을 초과하지 아니하는 범위에서 과징금을 부과할 수 있다.<개정 2013. 5. 28.>
+1. 제147조제1항ㆍ제3항 또는 제4항을 위반하여 보고를 하지 아니한 경우
+2. 제147조에 따른 보고서류 또는 제151조제2항에 따른 정정보고서 중 대통령령으로 정하는 중요한 사항에 관하여 거짓의 기재 또는 표시를 하거나 중요한 사항을 기재 또는 표시하지 아니한 경우
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3595
+제429조제4항's Number of neighbors: 7
+ O Append :  Clause_01_law_main 제147조제1항 주식등의 대량보유 등의 보고
+ O Append :  Clause_01_law_main 제147조제2항 주식등의 대량보유 등의 보고
+ O Append :  Clause_01_law_main 제147조제3항 주식등의 대량보유 등의 보고
+ O Append :  Clause_01_law_main 제147조제4항 주식등의 대량보유 등의 보고
+ O Append :  Clause_01_law_main 제151조제2항 조사 및 정정요구 등
+ O Append :  Clause_01_law_main 제429조제3항 공시위반에 대한 과징금
+ X Not Append(Already Visited) : Clause_01_law_main 제429조제4항 공시위반에 대한 과징금
+to next_hop_nodes
+
+Clause_01_law_main 제349조제2항 과징금, similarity : 0.617908183528273, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3321
+text : 금융위원회는 종합금융회사가 제347조제1항 또는 제2항을 위반한 경우에는 그 종합금융회사에 대하여 다음 각 호의 구분에 따른 범위에서 과징금을 부과할 수 있다.<신설 2017. 4. 18.>
+1. 제347조제1항을 위반한 경우: 부동산 취득금액의 100분의 30
+2. 제347조제2항을 위반한 경우: 한도를 초과한 업무용 부동산 취득금액의 100분의 30
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3321
+제349조제2항's Number of neighbors: 2
+ O Append :  Clause_01_law_main 제347조제1항 부동산 취득의 제한
+ O Append :  Clause_01_law_main 제347조제2항 부동산 취득의 제한
+to next_hop_nodes
+
+Clause_01_law_main 제428조제1항 금융투자업자에 대한 과징금, similarity : 0.608961636149069, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3588
+text : 금융위원회는 금융투자업자가 제34조제1항제1호ㆍ제2호와 같은 조 제2항 및 제77조의3제9항을 위반한 경우에는 그 금융투자업자에 대하여 다음 각 호의 구분에 따른 위반금액을 초과하지 아니하는 범위에서 과징금을 부과할 수 있다. <개정 2008. 2. 29., 2013. 5. 28., 2017. 4. 18., 2018. 3. 27.>
+1. 제34조제1항제1호를 위반한 경우에는 취득금액
+2. 제34조제1항제2호를 위반한 경우에는 허용비율을 초과하는 취득금액
+3. 제34조제2항을 위반한 경우에는 신용공여액
+4. 삭제<2017. 4. 18.>
+5. 제77조의3제9항을 위반한 경우에는 신용공여액
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3588
+제428조제1항's Number of neighbors: 3
+ O Append :  Clause_01_law_main 제34조제1항 대주주와의 거래 등의 제한
+ O Append :  Clause_01_law_main 제34조제2항 대주주와의 거래 등의 제한
+ O Append :  Clause_01_law_main 제77조의3제9항 종합금융투자사업자에 관한 특례
+to next_hop_nodes
+next_hop_nodes length for hop 1: 46
+visited nodes length: 5
+## reranking the next_hop_nodes based on similarity and selecting top k
+## filtering based on keywords - length :  1
+## next hop nodes
+['Clause_01_law_main 제429조제3항']
+
+
+########### hop: 2 ##########
+
+Clause_01_law_main 제429조제3항 공시위반에 대한 과징금, similarity : 0.5788082663513291, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3594
+text : 금융위원회는 제159조제1항, 제160조 또는 제161조제1항에 따라 사업보고서 제출대상법인이 다음 각 호의 어느 하나에 해당하는 경우에는 직전 사업연도 중에 증권시장(다자간매매체결회사에서의 거래를 포함한다. 이하 이 항에서 같다)에서 형성된 그 법인이 발행한 주식(그 주식과 관련된 증권예탁증권을 포함한다. 이하 이 항에서 같다)의 일일평균거래금액의 100분의 10(20억원을 초과하거나 그 법인이 발행한 주식이 증권시장에서 거래되지 아니한 경우에는 20억원)을 초과하지 아니하는 범위에서 과징금을 부과할 수 있다.<개정 2008. 2. 29., 2009. 2. 3., 2013. 5. 28.>
+1. 제159조제1항, 제160조 또는 제161조제1항에 따른 사업보고서등 중 중요사항에 관하여 거짓의 기재 또는 표시를 하거나 중요사항을 기재 또는 표시하지 아니한 때
+2. 제159조제1항, 제160조 또는 제161조제1항에 따른 사업보고서등을 제출하지 아니한 때
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3594
+제429조제3항's Number of neighbors: 3
+ O Append :  Clause_01_law_main 제159조제1항 사업보고서 등의 제출
+ O Append :  Clause_01_law_main 제160조 반기ㆍ분기보고서의 제출
+ O Append :  Clause_01_law_main 제161조제1항 주요사항보고서의 제출
+to next_hop_nodes
+next_hop_nodes length for hop 2: 3
+visited nodes length: 6
+## reranking the next_hop_nodes based on similarity and selecting top k
+## filtering based on keywords - length :  0
+## next hop nodes
+[]
+
+
+########### hop: 3 ##########
+next_hop_nodes length for hop 3: 0
+visited nodes length: 6
+## reranking the next_hop_nodes based on similarity and selecting top k
+## filtering based on keywords - length :  0
+## next hop nodes
+[]
+
+
+########### hop: 4 ##########
+next_hop_nodes length for hop 4: 0
+visited nodes length: 6
+## reranking the next_hop_nodes based on similarity and selecting top k
+## filtering based on keywords - length :  0
+## next hop nodes
+[]
+
+
+#### final results #### 
+Top : 0 ====== Clause_01_law_main  제429조제2항 ======== 
+similarity : 0.66, hop : 0
+text: 금융위원회는 제142조제1항 각 호의 어느 하나에 해당하는 자가 다음 각 호의 어느 하나에 해당하는 경우에는 공개매수신고서에 기재된 공개매수예정총액의 100분의 3(20억원을 초과하는 경우에는 20억원)을 초과하지 아니하는 범위에서 과징금을 부과할 수 있다. 이 경우 공개매수예정총액은 공개매수할 주식등의 수량을 공개매수가격으로 곱하여 산정한 금액으로 한다.<개정 2008. 2. 29.>
+1. 제134조, 제136조 또는 제137조에 따른 신고서ㆍ설명서, 그 밖의 제출서류 또는 공고 중 중요사항에 관하여 거짓의 기재 또는 표시를 하거나 중요사항을 기재 또는 표시하지 아니한 때
+2. 제134조, 제136조 또는 제137조에 따른 신고서ㆍ설명서, 그 밖의 제출서류를 제출하지 아니하거나 공고하여야 할 사항을 공고하지 아니한 때, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3593
+
+
+
+Top : 1 ====== Clause_01_law_main  제429조제1항 ======== 
+similarity : 0.65, hop : 0
+text: 금융위원회는 제125조제1항 각 호의 어느 하나에 해당하는 자가 다음 각 호의 어느 하나에 해당하는 경우에는 증권신고서상의 모집가액 또는 매출가액의 100분의 3(20억원을 초과하는 경우에는 20억원)을 초과하지 아니하는 범위에서 과징금을 부과할 수 있다. <개정 2008. 2. 29.>
+1. 제119조, 제122조 또는 제123조에 따른 신고서ㆍ설명서, 그 밖의 제출서류 중 중요사항에 관하여 거짓의 기재 또는 표시를 하거나 중요사항을 기재 또는 표시하지 아니한 때
+2. 제119조, 제122조 또는 제123조에 따른 신고서ㆍ설명서, 그 밖의 제출서류를 제출하지 아니한 때, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3592
+
+
+
+Top : 2 ====== Clause_01_law_main  제429조제4항 ======== 
+similarity : 0.62, hop : 0
+text: 금융위원회는 제147조제1항에 따라 보고를 하여야 할 자가 다음 각 호의 어느 하나에 해당하는 경우에는 같은 항에 따른 주권상장법인이 발행한 주식의 시가총액(대통령령으로 정하는 방법에 따라 산정된 금액으로 한다)의 10만분의 1(5억원을 초과하는 경우에는 5억원)을 초과하지 아니하는 범위에서 과징금을 부과할 수 있다.<개정 2013. 5. 28.>
+1. 제147조제1항ㆍ제3항 또는 제4항을 위반하여 보고를 하지 아니한 경우
+2. 제147조에 따른 보고서류 또는 제151조제2항에 따른 정정보고서 중 대통령령으로 정하는 중요한 사항에 관하여 거짓의 기재 또는 표시를 하거나 중요한 사항을 기재 또는 표시하지 아니한 경우, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3595
+
+
+
+Top : 3 ====== Clause_01_law_main  제349조제2항 ======== 
+similarity : 0.62, hop : 0
+text: 금융위원회는 종합금융회사가 제347조제1항 또는 제2항을 위반한 경우에는 그 종합금융회사에 대하여 다음 각 호의 구분에 따른 범위에서 과징금을 부과할 수 있다.<신설 2017. 4. 18.>
+1. 제347조제1항을 위반한 경우: 부동산 취득금액의 100분의 30
+2. 제347조제2항을 위반한 경우: 한도를 초과한 업무용 부동산 취득금액의 100분의 30, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3321
+
+
+
+Top : 4 ====== Clause_01_law_main  제428조제1항 ======== 
+similarity : 0.61, hop : 0
+text: 금융위원회는 금융투자업자가 제34조제1항제1호ㆍ제2호와 같은 조 제2항 및 제77조의3제9항을 위반한 경우에는 그 금융투자업자에 대하여 다음 각 호의 구분에 따른 위반금액을 초과하지 아니하는 범위에서 과징금을 부과할 수 있다. <개정 2008. 2. 29., 2013. 5. 28., 2017. 4. 18., 2018. 3. 27.>
+1. 제34조제1항제1호를 위반한 경우에는 취득금액
+2. 제34조제1항제2호를 위반한 경우에는 허용비율을 초과하는 취득금액
+3. 제34조제2항을 위반한 경우에는 신용공여액
+4. 삭제<2017. 4. 18.>
+5. 제77조의3제9항을 위반한 경우에는 신용공여액, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3588
+
+
+
+Top : 5 ====== Clause_01_law_main  제429조제3항 ======== 
+similarity : 0.58, hop : 1
+text: 금융위원회는 제159조제1항, 제160조 또는 제161조제1항에 따라 사업보고서 제출대상법인이 다음 각 호의 어느 하나에 해당하는 경우에는 직전 사업연도 중에 증권시장(다자간매매체결회사에서의 거래를 포함한다. 이하 이 항에서 같다)에서 형성된 그 법인이 발행한 주식(그 주식과 관련된 증권예탁증권을 포함한다. 이하 이 항에서 같다)의 일일평균거래금액의 100분의 10(20억원을 초과하거나 그 법인이 발행한 주식이 증권시장에서 거래되지 아니한 경우에는 20억원)을 초과하지 아니하는 범위에서 과징금을 부과할 수 있다.<개정 2008. 2. 29., 2009. 2. 3., 2013. 5. 28.>
+1. 제159조제1항, 제160조 또는 제161조제1항에 따른 사업보고서등 중 중요사항에 관하여 거짓의 기재 또는 표시를 하거나 중요사항을 기재 또는 표시하지 아니한 때
+2. 제159조제1항, 제160조 또는 제161조제1항에 따른 사업보고서등을 제출하지 아니한 때, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3594
+
+
+

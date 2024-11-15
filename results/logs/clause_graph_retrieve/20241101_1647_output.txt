@@ -1,0 +1,150 @@
+###### Query #####
+정정신고서를 부실기재했을 경우 과징금은?
+###### Answer #####
+정정신고서를 부실기재했을 경우 과징금은 부실기재의 정도와 내용에 따라 달라질 수 있습니다. 대체로 금융당국은 부실기재에 대해 엄중한 처벌 기준을 마련하고 있으며, 과징금은 최대 수억 원에 이를 수 있습니다. 정확한 과징금 액수는 구체적인 사안과 법적 기준에 따라 다르게 부과됩니다. 관련 법률을 참고하거나 금융감독원 등 해당 기관에 문의하시면 더 정확한 정보를 얻을 수 있습니다.
+Keywords: 1
+['정정신고서 부실기재']
+########### hop: 0 ##########
+labels: Clause_01_law_main, index : None, similarity : 0.6341062234495956, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3593
+labels: Clause_01_law_main, index : None, similarity : 0.615773909851973, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3592
+labels: Clause_01_law_main, index : None, similarity : 0.6091012321267603, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3603
+labels: Clause_01_law_main, index : None, similarity : 0.602724168269485, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3321
+labels: Clause_01_enforcement_main, index : None, similarity : 0.5986363517178473, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1656
+all_neighbors for hop 0: 5
+
+
+########### hop: 1 ##########
+
+Clause_01_law_main 제429조제2항, similarity : 0.6341062234495956, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3593
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3593
+제429조제2항's Number of neighbors: 15
+ - Append :  Clause_01_law_main 제134조제1항
+ - Append :  Clause_01_law_main 제134조제2항
+ - Append :  Clause_01_law_main 제134조제3항
+ - Append :  Clause_01_law_main 제134조제4항
+ - Append :  Clause_01_law_main 제134조제5항
+ - Append :  Clause_01_law_main 제136조제1항
+ - Append :  Clause_01_law_main 제136조제2항
+ - Append :  Clause_01_law_main 제136조제3항
+ - Append :  Clause_01_law_main 제136조제4항
+ - Append :  Clause_01_law_main 제136조제5항
+ - Append :  Clause_01_law_main 제136조제6항
+ - Append :  Clause_01_law_main 제137조제1항
+ - Append :  Clause_01_law_main 제137조제2항
+ - Append :  Clause_01_law_main 제137조제3항
+ - Append :  Clause_01_law_main 제142조제1항
+to next_hop_nodes
+
+Clause_01_law_main 제429조제1항, similarity : 0.615773909851973, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3592
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3592
+제429조제1항's Number of neighbors: 20
+ - Append :  Clause_01_law_main 제119조제1항
+ - Append :  Clause_01_law_main 제119조제2항
+ - Append :  Clause_01_law_main 제119조제3항
+ - Append :  Clause_01_law_main 제119조제4항
+ - Append :  Clause_01_law_main 제119조제5항
+ - Append :  Clause_01_law_main 제119조제6항
+ - Append :  Clause_01_law_main 제119조제7항
+ - Append :  Clause_01_law_main 제119조제8항
+ - Append :  Clause_01_law_main 제119조의2제1항
+ - Append :  Clause_01_law_main 제119조의2제2항
+ - Append :  Clause_01_law_main 제122조제1항
+ - Append :  Clause_01_law_main 제122조제2항
+ - Append :  Clause_01_law_main 제122조제3항
+ - Append :  Clause_01_law_main 제122조제4항
+ - Append :  Clause_01_law_main 제122조제5항
+ - Append :  Clause_01_law_main 제122조제6항
+ - Append :  Clause_01_law_main 제123조제1항
+ - Append :  Clause_01_law_main 제123조제2항
+ - Append :  Clause_01_law_main 제123조제3항
+ - Append :  Clause_01_law_main 제125조제1항
+to next_hop_nodes
+
+Clause_01_law_main 제429조의3제2항, similarity : 0.6091012321267603, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3603
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3603
+제429조의3제2항's Number of neighbors: 1
+ - Append :  Clause_01_law_main 제180조의4
+to next_hop_nodes
+
+Clause_01_law_main 제349조제2항, similarity : 0.602724168269485, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3321
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3321
+제349조제2항's Number of neighbors: 3
+ - Append :  Clause_01_law_main 제347조제1항
+ - Append :  Clause_01_law_main 제347조제2항
+ - Not Append(Already Visited) : Clause_01_law_main 제349조제2항 
+to next_hop_nodes
+
+Clause_01_enforcement_main 제380조제1항, similarity : 0.5986363517178473, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1656
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1656
+제380조제1항's Number of neighbors: 2
+ - Append :  Clause_01_enforcement_main 제376조제1항
+ - Append :  Clause_01_law_main 제429조의2제1항
+to next_hop_nodes
+next_hop_nodes length for hop 1: 40
+## reranking the next_hop_nodes based on similarity and selecting top k
+## next hop nodes
+[]
+
+
+########### hop: 2 ##########
+next_hop_nodes length for hop 2: 0
+## reranking the next_hop_nodes based on similarity and selecting top k
+## next hop nodes
+[]
+
+
+########### hop: 3 ##########
+next_hop_nodes length for hop 3: 0
+## reranking the next_hop_nodes based on similarity and selecting top k
+## next hop nodes
+[]
+
+
+########### hop: 4 ##########
+next_hop_nodes length for hop 4: 0
+## reranking the next_hop_nodes based on similarity and selecting top k
+## next hop nodes
+[]
+
+
+#### final results #### 
+Top : 0 ====== Clause_01_law_main  제429조제2항 ======== 
+similarity : 0.63, hop : 0
+text: 금융위원회는 제142조제1항 각 호의 어느 하나에 해당하는 자가 다음 각 호의 어느 하나에 해당하는 경우에는 공개매수신고서에 기재된 공개매수예정총액의 100분의 3(20억원을 초과하는 경우에는 20억원)을 초과하지 아니하는 범위에서 과징금을 부과할 수 있다. 이 경우 공개매수예정총액은 공개매수할 주식등의 수량을 공개매수가격으로 곱하여 산정한 금액으로 한다.<개정 2008. 2. 29.>
+1. 제134조, 제136조 또는 제137조에 따른 신고서ㆍ설명서, 그 밖의 제출서류 또는 공고 중 중요사항에 관하여 거짓의 기재 또는 표시를 하거나 중요사항을 기재 또는 표시하지 아니한 때
+2. 제134조, 제136조 또는 제137조에 따른 신고서ㆍ설명서, 그 밖의 제출서류를 제출하지 아니하거나 공고하여야 할 사항을 공고하지 아니한 때, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3593
+
+
+
+Top : 1 ====== Clause_01_law_main  제429조제1항 ======== 
+similarity : 0.62, hop : 0
+text: 금융위원회는 제125조제1항 각 호의 어느 하나에 해당하는 자가 다음 각 호의 어느 하나에 해당하는 경우에는 증권신고서상의 모집가액 또는 매출가액의 100분의 3(20억원을 초과하는 경우에는 20억원)을 초과하지 아니하는 범위에서 과징금을 부과할 수 있다. <개정 2008. 2. 29.>
+1. 제119조, 제122조 또는 제123조에 따른 신고서ㆍ설명서, 그 밖의 제출서류 중 중요사항에 관하여 거짓의 기재 또는 표시를 하거나 중요사항을 기재 또는 표시하지 아니한 때
+2. 제119조, 제122조 또는 제123조에 따른 신고서ㆍ설명서, 그 밖의 제출서류를 제출하지 아니한 때, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3592
+
+
+
+Top : 2 ====== Clause_01_law_main  제429조의3제2항 ======== 
+similarity : 0.61, hop : 0
+text: 금융위원회는 제180조의4를 위반한 자에 대하여 5억원 이하의 과징금을 부과할 수 있다. 다만, 그 위반행위와 관련된 거래로 얻은 이익(미실현 이익을 포함한다. 이하 이 항에서 같다) 또는 이로 인하여 회피한 손실액의 1.5배에 해당하는 금액이 5억원을 초과하는 경우에는 그 이익 또는 회피한 손실액의 1.5배에 상당하는 금액 이하의 과징금을 부과할 수 있다., node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3603
+
+
+
+Top : 3 ====== Clause_01_law_main  제349조제2항 ======== 
+similarity : 0.60, hop : 0
+text: 금융위원회는 종합금융회사가 제347조제1항 또는 제2항을 위반한 경우에는 그 종합금융회사에 대하여 다음 각 호의 구분에 따른 범위에서 과징금을 부과할 수 있다.<신설 2017. 4. 18.>
+1. 제347조제1항을 위반한 경우: 부동산 취득금액의 100분의 30
+2. 제347조제2항을 위반한 경우: 한도를 초과한 업무용 부동산 취득금액의 100분의 30, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3321
+
+
+
+Top : 4 ====== Clause_01_enforcement_main  제380조제1항 ======== 
+similarity : 0.60, hop : 0
+text: 금융위원회는 과징금을 부과하는 경우에는 금융위원회가 정하여 고시하는 방법에 따라 그 위반행위의 종별과 해당 과징금의 금액을 명시하여 이를 납부할 것을 서면으로 통지해야 한다. 이 경우 법 제429조의2제1항에 따른 과징금은 다음 각 호의 경우를 제외하고는 검찰총장에게 미공개중요정보 이용행위등에 대한 수사ㆍ처분결과를 확인한 후 통지해야 한다. <개정 2024. 1. 9.>
+1. 금융위원회가 제376조제1항제11호다목에 따라 검찰총장에게 통보한 후 과징금을 부과하는 것으로 협의한 경우
+2. 금융위원회가 제376조제1항제11호다목에 따라 검찰총장에게 통보한 후 1년이 경과하여도 수사ㆍ처분결과를 확인하지 못한 경우. 다만, 다음 각 목의 사유로 검찰총장이 수사ㆍ처분결과를 확인한 후 과징금을 부과할 것을 요청하는 경우는 제외한다.
+가. 기소중지 등 수사ㆍ처분결과 확인이 지연되는 합리적 사유가 있는 경우
+나. 수사ㆍ처분결과를 확인하지 않고 과징금을 부과하는 것이 수사ㆍ처분결과와 배치될 우려가 있는 경우, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1656
+
+
+

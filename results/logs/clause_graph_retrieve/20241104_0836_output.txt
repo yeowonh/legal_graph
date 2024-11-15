@@ -1,0 +1,218 @@
+###### Query #####
+정정신고서를 부실기재했을 경우 과징금은?
+###### Answer #####
+정정신고서를 부실기재했을 경우 부과되는 과징금은 자본시장법에 따라 최대 5억 원까지 부과될 수 있습니다. 다만, 구체적인 과징금 액수는 부실의 정도 및 위반 횟수 등에 따라 달라질 수 있습니다.
+Keywords: 5
+['정정신고서', '부실기재', '과징금', '자본시장법', '5억 원']
+########### hop: 0 ##########
+labels: Clause_01_law_main, index : None, similarity : 0.6746546096983334, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3603
+labels: Clause_01_law_main, index : None, similarity : 0.6562483561374975, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3592
+labels: Clause_01_law_main, index : None, similarity : 0.6552683889952314, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3601
+labels: Clause_01_law_main, index : None, similarity : 0.6503829243581758, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3593
+labels: Clause_01_law_main, index : None, similarity : 0.6201462916981371, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3596
+all_neighbors for hop 0: 5
+
+
+########### hop: 1 ##########
+
+Clause_01_law_main 제429조의3제2항, similarity : 0.6746546096983334, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3603
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3603
+제429조의3제2항's Number of neighbors: 1
+ - Append :  Clause_01_law_main 제180조의4
+to next_hop_nodes
+
+Clause_01_law_main 제429조제1항, similarity : 0.6562483561374975, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3592
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3592
+제429조제1항's Number of neighbors: 20
+ - Append :  Clause_01_law_main 제119조제1항
+ - Append :  Clause_01_law_main 제119조제2항
+ - Append :  Clause_01_law_main 제119조제3항
+ - Append :  Clause_01_law_main 제119조제4항
+ - Append :  Clause_01_law_main 제119조제5항
+ - Append :  Clause_01_law_main 제119조제6항
+ - Append :  Clause_01_law_main 제119조제7항
+ - Append :  Clause_01_law_main 제119조제8항
+ - Append :  Clause_01_law_main 제119조의2제1항
+ - Append :  Clause_01_law_main 제119조의2제2항
+ - Append :  Clause_01_law_main 제122조제1항
+ - Append :  Clause_01_law_main 제122조제2항
+ - Append :  Clause_01_law_main 제122조제3항
+ - Append :  Clause_01_law_main 제122조제4항
+ - Append :  Clause_01_law_main 제122조제5항
+ - Append :  Clause_01_law_main 제122조제6항
+ - Append :  Clause_01_law_main 제123조제1항
+ - Append :  Clause_01_law_main 제123조제2항
+ - Append :  Clause_01_law_main 제123조제3항
+ - Append :  Clause_01_law_main 제125조제1항
+to next_hop_nodes
+
+Clause_01_law_main 제429조의2제4항, similarity : 0.6552683889952314, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3601
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3601
+제429조의2제4항's Number of neighbors: 2
+ - Append :  Clause_01_law_main 제178조의2제1항
+ - Append :  Clause_01_law_main 제178조의2제2항
+to next_hop_nodes
+
+Clause_01_law_main 제429조제2항, similarity : 0.6503829243581758, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3593
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3593
+제429조제2항's Number of neighbors: 15
+ - Append :  Clause_01_law_main 제134조제1항
+ - Append :  Clause_01_law_main 제134조제2항
+ - Append :  Clause_01_law_main 제134조제3항
+ - Append :  Clause_01_law_main 제134조제4항
+ - Append :  Clause_01_law_main 제134조제5항
+ - Append :  Clause_01_law_main 제136조제1항
+ - Append :  Clause_01_law_main 제136조제2항
+ - Append :  Clause_01_law_main 제136조제3항
+ - Append :  Clause_01_law_main 제136조제4항
+ - Append :  Clause_01_law_main 제136조제5항
+ - Append :  Clause_01_law_main 제136조제6항
+ - Append :  Clause_01_law_main 제137조제1항
+ - Append :  Clause_01_law_main 제137조제2항
+ - Append :  Clause_01_law_main 제137조제3항
+ - Append :  Clause_01_law_main 제142조제1항
+to next_hop_nodes
+
+Clause_01_law_main 제429조제5항, similarity : 0.6201462916981371, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3596
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3596
+제429조제5항's Number of neighbors: 6
+ - Append :  Clause_01_law_main 제173조의3제1항
+ - Append :  Clause_01_law_main 제173조의3제2항
+ - Append :  Clause_01_law_main 제173조의3제3항
+ - Append :  Clause_01_law_main 제173조의3제4항
+ - Append :  Clause_01_law_main 제173조의3제5항
+ - Append :  Clause_01_law_main 제173조의3제6항
+to next_hop_nodes
+next_hop_nodes length for hop 1: 44
+## reranking the next_hop_nodes based on similarity and selecting top k
+## next hop nodes
+['Clause_01_law_main 제142조제1항', 'Clause_01_law_main 제122조제1항', 'Clause_01_law_main 제125조제1항', 'Clause_01_law_main 제122조제6항', 'Clause_01_law_main 제136조제1항']
+
+
+########### hop: 2 ##########
+
+Clause_01_law_main 제142조제1항, similarity : 0.4738695381933437, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2287
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2287
+제142조제1항's Number of neighbors: 0
+to next_hop_nodes
+
+Clause_01_law_main 제122조제1항, similarity : 0.45934927428865685, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2232
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2232
+제122조제1항's Number of neighbors: 0
+to next_hop_nodes
+
+Clause_01_law_main 제125조제1항, similarity : 0.4564969785334048, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2245
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2245
+제125조제1항's Number of neighbors: 0
+to next_hop_nodes
+
+Clause_01_law_main 제122조제6항, similarity : 0.4384558270285718, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2237
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2237
+제122조제6항's Number of neighbors: 1
+ - Not Append(Already Visited) : Clause_01_law_main 제122조제1항 
+to next_hop_nodes
+
+Clause_01_law_main 제136조제1항, similarity : 0.41774040103781274, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2269
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2269
+제136조제1항's Number of neighbors: 0
+to next_hop_nodes
+next_hop_nodes length for hop 2: 0
+## reranking the next_hop_nodes based on similarity and selecting top k
+## next hop nodes
+[]
+
+
+########### hop: 3 ##########
+next_hop_nodes length for hop 3: 0
+## reranking the next_hop_nodes based on similarity and selecting top k
+## next hop nodes
+[]
+
+
+########### hop: 4 ##########
+next_hop_nodes length for hop 4: 0
+## reranking the next_hop_nodes based on similarity and selecting top k
+## next hop nodes
+[]
+
+
+#### final results #### 
+Top : 0 ====== Clause_01_law_main  제429조의3제2항 ======== 
+similarity : 0.67, hop : 0
+text: 금융위원회는 제180조의4를 위반한 자에 대하여 5억원 이하의 과징금을 부과할 수 있다. 다만, 그 위반행위와 관련된 거래로 얻은 이익(미실현 이익을 포함한다. 이하 이 항에서 같다) 또는 이로 인하여 회피한 손실액의 1.5배에 해당하는 금액이 5억원을 초과하는 경우에는 그 이익 또는 회피한 손실액의 1.5배에 상당하는 금액 이하의 과징금을 부과할 수 있다., node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3603
+
+
+
+Top : 1 ====== Clause_01_law_main  제429조제1항 ======== 
+similarity : 0.66, hop : 0
+text: 금융위원회는 제125조제1항 각 호의 어느 하나에 해당하는 자가 다음 각 호의 어느 하나에 해당하는 경우에는 증권신고서상의 모집가액 또는 매출가액의 100분의 3(20억원을 초과하는 경우에는 20억원)을 초과하지 아니하는 범위에서 과징금을 부과할 수 있다. <개정 2008. 2. 29.>
+1. 제119조, 제122조 또는 제123조에 따른 신고서ㆍ설명서, 그 밖의 제출서류 중 중요사항에 관하여 거짓의 기재 또는 표시를 하거나 중요사항을 기재 또는 표시하지 아니한 때
+2. 제119조, 제122조 또는 제123조에 따른 신고서ㆍ설명서, 그 밖의 제출서류를 제출하지 아니한 때, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3592
+
+
+
+Top : 2 ====== Clause_01_law_main  제429조의2제4항 ======== 
+similarity : 0.66, hop : 0
+text: 금융위원회는 제178조의2를 위반한 자에 대하여 5억원 이하의 과징금을 부과할 수 있다. 다만, 그 위반행위와 관련된 거래로 얻은 이익 또는 이로 인하여 회피한 손실액의 1.5배에 해당하는 금액이 5억원을 초과하는 경우에는 그 이익 또는 회피한 손실액의 1.5배에 상당하는 금액 이하의 과징금을 부과할 수 있다.
+[전문개정 2023. 7. 18.], node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3601
+
+
+
+Top : 3 ====== Clause_01_law_main  제429조제2항 ======== 
+similarity : 0.65, hop : 0
+text: 금융위원회는 제142조제1항 각 호의 어느 하나에 해당하는 자가 다음 각 호의 어느 하나에 해당하는 경우에는 공개매수신고서에 기재된 공개매수예정총액의 100분의 3(20억원을 초과하는 경우에는 20억원)을 초과하지 아니하는 범위에서 과징금을 부과할 수 있다. 이 경우 공개매수예정총액은 공개매수할 주식등의 수량을 공개매수가격으로 곱하여 산정한 금액으로 한다.<개정 2008. 2. 29.>
+1. 제134조, 제136조 또는 제137조에 따른 신고서ㆍ설명서, 그 밖의 제출서류 또는 공고 중 중요사항에 관하여 거짓의 기재 또는 표시를 하거나 중요사항을 기재 또는 표시하지 아니한 때
+2. 제134조, 제136조 또는 제137조에 따른 신고서ㆍ설명서, 그 밖의 제출서류를 제출하지 아니하거나 공고하여야 할 사항을 공고하지 아니한 때, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3593
+
+
+
+Top : 4 ====== Clause_01_law_main  제429조제5항 ======== 
+similarity : 0.62, hop : 0
+text: 금융위원회는 제173조의3에 따라 거래계획 등을 보고하여야 하는 자가 다음 각 호의 어느 하나에 해당하는 경우에는 같은 조에 따른 주권상장법인이 발행한 주식의 시가총액(대통령령으로 정하는 방법에 따라 산정된 금액으로 한다)의 1만분의 2(20억원을 초과하는 경우에는 20억원)를 초과하지 아니하는 범위에서 과징금을 부과할 수 있다.<신설 2024. 1. 23.>
+1. 거래계획에 대통령령으로 정하는 중요사항을 기재 또는 표시하지 아니하거나 거짓으로 기재 또는 표시한 때
+2. 제173조의3제1항을 위반하여 거래계획을 보고하지 아니하고 특정증권등의 거래등을 한 때
+3. 제173조의3제2항을 위반하여 거래기간의 종료일 이전에 새로운 거래계획을 보고한 때
+4. 제173조의3제3항을 위반하여 거래계획에 따라 특정증권등의 거래등을 하지 아니한 때
+5. 제173조의3제4항을 위반하여 거래계획을 철회한 때, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3596
+
+
+
+Top : 5 ====== Clause_01_law_main  제142조제1항 ======== 
+similarity : 0.47, hop : 1
+text: 공개매수신고서(그 첨부서류를 포함한다. 이하 이 조에서 같다) 및 그 공고, 정정신고서(그 첨부서류를 포함한다. 이하 이 조에서 같다) 및 그 공고 또는 공개매수설명서 중 중요사항에 관하여 거짓의 기재 또는 표시가 있거나 중요사항이 기재 또는 표시되지 아니함으로써 응모주주가 손해를 입은 경우에는 다음 각 호의 자는 그 손해에 관하여 배상의 책임을 진다. 다만, 배상의 책임을 질 자가 상당한 주의를 하였음에도 불구하고 이를 알 수 없었음을 증명하거나 응모주주가 응모를 할 때에 그 사실을 안 경우에는 배상의 책임을 지지 아니한다.
+1. 공개매수신고서 및 그 정정신고서의 신고인(신고인의 특별관계자를 포함하며, 신고인이 법인인 경우 그 이사를 포함한다)과 그 대리인
+2. 공개매수설명서의 작성자와 그 대리인, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2287
+
+
+
+Top : 6 ====== Clause_01_law_main  제122조제1항 ======== 
+similarity : 0.46, hop : 1
+text: 금융위원회는 증권신고서의 형식을 제대로 갖추지 아니한 경우 또는 그 증권신고서 중 중요사항에 관하여 거짓의 기재 또는 표시가 있거나 중요사항이 기재 또는 표시되지 아니한 경우와 중요사항의 기재나 표시내용이 불분명하여 투자자의 합리적인 투자판단을 저해하거나 투자자에게 중대한 오해를 일으킬 수 있는 경우에는 그 증권신고서에 기재된 증권의 취득 또는 매수의 청약일 전일까지 그 이유를 제시하고 그 증권신고서의 기재내용을 정정한 신고서(이하 이 장에서 "정정신고서"라 한다)의 제출을 요구할 수 있다. <개정 2008. 2. 29., 2009. 2. 3.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2232
+
+
+
+Top : 7 ====== Clause_01_law_main  제125조제1항 ======== 
+similarity : 0.46, hop : 1
+text: 증권신고서(정정신고서 및 첨부서류를 포함한다. 이하 이 조에서 같다)와 투자설명서(예비투자설명서 및 간이투자설명서를 포함한다. 이하 이 조에서 같다) 중 중요사항에 관하여 거짓의 기재 또는 표시가 있거나 중요사항이 기재 또는 표시되지 아니함으로써 증권의 취득자가 손해를 입은 경우에는 다음 각 호의 자는 그 손해에 관하여 배상의 책임을 진다. 다만, 배상의 책임을 질 자가 상당한 주의를 하였음에도 불구하고 이를 알 수 없었음을 증명하거나 그 증권의 취득자가 취득의 청약을 할 때에 그 사실을 안 경우에는 배상의 책임을 지지 아니한다. <개정 2009. 2. 3., 2013. 5. 28.>
+1. 그 증권신고서의 신고인과 신고 당시의 발행인의 이사(이사가 없는 경우 이에 준하는 자를 말하며, 법인의 설립 전에 신고된 경우에는 그 발기인을 말한다)
+2. 「상법」 제401조의2제1항 각 호의 어느 하나에 해당하는 자로서 그 증권신고서의 작성을 지시하거나 집행한 자
+3. 그 증권신고서의 기재사항 또는 그 첨부서류가 진실 또는 정확하다고 증명하여 서명한 공인회계사ㆍ감정인 또는 신용평가를 전문으로 하는 자 등(그 소속단체를 포함한다) 대통령령으로 정하는 자
+4. 그 증권신고서의 기재사항 또는 그 첨부서류에 자기의 평가ㆍ분석ㆍ확인 의견이 기재되는 것에 대하여 동의하고 그 기재내용을 확인한 자
+5. 그 증권의 인수인 또는 주선인(인수인 또는 주선인이 2인 이상인 경우에는 대통령령으로 정하는 자를 말한다)
+6. 그 투자설명서를 작성하거나 교부한 자
+7. 매출의 방법에 의한 경우 매출신고 당시의 매출인, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2245
+
+
+
+Top : 8 ====== Clause_01_law_main  제122조제6항 ======== 
+similarity : 0.44, hop : 1
+text: 제1항에 따른 요구를 받은 후 대통령령으로 정하는 기한 이내에 발행인이 정정신고서를 제출하지 아니하는 경우에는 해당 증권신고서를 철회한 것으로 본다.<신설 2013. 5. 28.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2237
+
+
+
+Top : 9 ====== Clause_01_law_main  제136조제1항 ======== 
+similarity : 0.42, hop : 1
+text: 금융위원회는 공개매수신고서의 형식을 제대로 갖추지 아니한 경우 또는 그 공개매수신고서 중 중요사항에 관하여 거짓의 기재 또는 표시가 있거나 중요사항이 기재 또는 표시되지 아니한 경우에는 공개매수기간이 종료하는 날까지 그 이유를 제시하고 그 공개매수신고서의 기재내용을 정정한 신고서(이하 이 절에서 "정정신고서"라 한다)의 제출을 요구할 수 있다. <개정 2008. 2. 29.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:2269
+
+
+

@@ -1,0 +1,135 @@
+###### Query #####
+정정신고서를 부실기재했을 경우 과징금은?
+###### Answer #####
+정정신고서를 부실기재했을 경우 부과되는 과징금은 금융 관련 법규에 따라 달라질 수 있습니다. 한국에서는 주로 금융위원회가 관련 규정을 관할하며, 구체적인 과징금 액수는 부실기재의 정도, 고의성 여부, 위반 횟수 등에 따라 결정됩니다. 정확한 과징금 액수나 규정을 확인하기 위해서는 관련 법령이나 금융위원회 지침을 참조하시거나 금융 전문가에게 문의하는 것이 좋습니다.
+Keywords: 1
+['정정신고서, 부실기재, 과징금']
+########### hop: 0 ##########
+labels: Clause_01_enforcement_main, index : None, similarity : 0.6550272861360517, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1656
+labels: Clause_01_law_main, index : None, similarity : 0.6524223367361193, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3593
+labels: Clause_01_law_main, index : None, similarity : 0.6484032227604346, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3321
+labels: Clause_01_enforcement_main, index : None, similarity : 0.6439771084175105, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1650
+labels: Clause_01_law_main, index : None, similarity : 0.6348504008548622, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3588
+all_neighbors for hop 0: 5
+
+
+########### hop: 1 ##########
+
+Clause_01_enforcement_main 제380조제1항, similarity : 0.6550272861360517, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1656
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1656
+제380조제1항's Number of neighbors: 2
+ - Append :  Clause_01_enforcement_main 제376조제1항
+ - Append :  Clause_01_law_main 제429조의2제1항
+to next_hop_nodes
+
+Clause_01_law_main 제429조제2항, similarity : 0.6524223367361193, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3593
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3593
+제429조제2항's Number of neighbors: 15
+ - Append :  Clause_01_law_main 제134조제1항
+ - Append :  Clause_01_law_main 제134조제2항
+ - Append :  Clause_01_law_main 제134조제3항
+ - Append :  Clause_01_law_main 제134조제4항
+ - Append :  Clause_01_law_main 제134조제5항
+ - Append :  Clause_01_law_main 제136조제1항
+ - Append :  Clause_01_law_main 제136조제2항
+ - Append :  Clause_01_law_main 제136조제3항
+ - Append :  Clause_01_law_main 제136조제4항
+ - Append :  Clause_01_law_main 제136조제5항
+ - Append :  Clause_01_law_main 제136조제6항
+ - Append :  Clause_01_law_main 제137조제1항
+ - Append :  Clause_01_law_main 제137조제2항
+ - Append :  Clause_01_law_main 제137조제3항
+ - Append :  Clause_01_law_main 제142조제1항
+to next_hop_nodes
+
+Clause_01_law_main 제349조제2항, similarity : 0.6484032227604346, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3321
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3321
+제349조제2항's Number of neighbors: 3
+ - Append :  Clause_01_law_main 제347조제1항
+ - Append :  Clause_01_law_main 제347조제2항
+ - Not Append(Already Visited) : Clause_01_law_main 제349조제2항 
+to next_hop_nodes
+
+Clause_01_enforcement_main 제379조제8항, similarity : 0.6439771084175105, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1650
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1650
+제379조제8항's Number of neighbors: 0
+to next_hop_nodes
+
+Clause_01_law_main 제428조제1항, similarity : 0.6348504008548622, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3588
+## get refers_to neighbors for node_id:  4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3588
+제428조제1항's Number of neighbors: 3
+ - Append :  Clause_01_law_main 제34조제1항
+ - Append :  Clause_01_law_main 제34조제2항
+ - Append :  Clause_01_law_main 제77조의3제9항
+to next_hop_nodes
+next_hop_nodes length for hop 1: 22
+## reranking the next_hop_nodes based on similarity and selecting top k
+## next hop nodes
+[]
+
+
+########### hop: 2 ##########
+next_hop_nodes length for hop 2: 0
+## reranking the next_hop_nodes based on similarity and selecting top k
+## next hop nodes
+[]
+
+
+########### hop: 3 ##########
+next_hop_nodes length for hop 3: 0
+## reranking the next_hop_nodes based on similarity and selecting top k
+## next hop nodes
+[]
+
+
+########### hop: 4 ##########
+next_hop_nodes length for hop 4: 0
+## reranking the next_hop_nodes based on similarity and selecting top k
+## next hop nodes
+[]
+
+
+#### final results #### 
+Top : 0 ====== Clause_01_enforcement_main  제380조제1항 ======== 
+similarity : 0.66, hop : 0
+text: 금융위원회는 과징금을 부과하는 경우에는 금융위원회가 정하여 고시하는 방법에 따라 그 위반행위의 종별과 해당 과징금의 금액을 명시하여 이를 납부할 것을 서면으로 통지해야 한다. 이 경우 법 제429조의2제1항에 따른 과징금은 다음 각 호의 경우를 제외하고는 검찰총장에게 미공개중요정보 이용행위등에 대한 수사ㆍ처분결과를 확인한 후 통지해야 한다. <개정 2024. 1. 9.>
+1. 금융위원회가 제376조제1항제11호다목에 따라 검찰총장에게 통보한 후 과징금을 부과하는 것으로 협의한 경우
+2. 금융위원회가 제376조제1항제11호다목에 따라 검찰총장에게 통보한 후 1년이 경과하여도 수사ㆍ처분결과를 확인하지 못한 경우. 다만, 다음 각 목의 사유로 검찰총장이 수사ㆍ처분결과를 확인한 후 과징금을 부과할 것을 요청하는 경우는 제외한다.
+가. 기소중지 등 수사ㆍ처분결과 확인이 지연되는 합리적 사유가 있는 경우
+나. 수사ㆍ처분결과를 확인하지 않고 과징금을 부과하는 것이 수사ㆍ처분결과와 배치될 우려가 있는 경우, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1656
+
+
+
+Top : 1 ====== Clause_01_law_main  제429조제2항 ======== 
+similarity : 0.65, hop : 0
+text: 금융위원회는 제142조제1항 각 호의 어느 하나에 해당하는 자가 다음 각 호의 어느 하나에 해당하는 경우에는 공개매수신고서에 기재된 공개매수예정총액의 100분의 3(20억원을 초과하는 경우에는 20억원)을 초과하지 아니하는 범위에서 과징금을 부과할 수 있다. 이 경우 공개매수예정총액은 공개매수할 주식등의 수량을 공개매수가격으로 곱하여 산정한 금액으로 한다.<개정 2008. 2. 29.>
+1. 제134조, 제136조 또는 제137조에 따른 신고서ㆍ설명서, 그 밖의 제출서류 또는 공고 중 중요사항에 관하여 거짓의 기재 또는 표시를 하거나 중요사항을 기재 또는 표시하지 아니한 때
+2. 제134조, 제136조 또는 제137조에 따른 신고서ㆍ설명서, 그 밖의 제출서류를 제출하지 아니하거나 공고하여야 할 사항을 공고하지 아니한 때, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3593
+
+
+
+Top : 2 ====== Clause_01_law_main  제349조제2항 ======== 
+similarity : 0.65, hop : 0
+text: 금융위원회는 종합금융회사가 제347조제1항 또는 제2항을 위반한 경우에는 그 종합금융회사에 대하여 다음 각 호의 구분에 따른 범위에서 과징금을 부과할 수 있다.<신설 2017. 4. 18.>
+1. 제347조제1항을 위반한 경우: 부동산 취득금액의 100분의 30
+2. 제347조제2항을 위반한 경우: 한도를 초과한 업무용 부동산 취득금액의 100분의 30, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3321
+
+
+
+Top : 3 ====== Clause_01_enforcement_main  제379조제8항 ======== 
+similarity : 0.64, hop : 0
+text: 이 영에 규정한 사항 외에 과징금의 부과 등에 필요한 세부사항은 금융위원회가 정하여 고시한다.<개정 2013. 8. 27., 2017. 10. 17., 2024. 7. 16.>, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:1650
+
+
+
+Top : 4 ====== Clause_01_law_main  제428조제1항 ======== 
+similarity : 0.63, hop : 0
+text: 금융위원회는 금융투자업자가 제34조제1항제1호ㆍ제2호와 같은 조 제2항 및 제77조의3제9항을 위반한 경우에는 그 금융투자업자에 대하여 다음 각 호의 구분에 따른 위반금액을 초과하지 아니하는 범위에서 과징금을 부과할 수 있다. <개정 2008. 2. 29., 2013. 5. 28., 2017. 4. 18., 2018. 3. 27.>
+1. 제34조제1항제1호를 위반한 경우에는 취득금액
+2. 제34조제1항제2호를 위반한 경우에는 허용비율을 초과하는 취득금액
+3. 제34조제2항을 위반한 경우에는 신용공여액
+4. 삭제<2017. 4. 18.>
+5. 제77조의3제9항을 위반한 경우에는 신용공여액, node_id : 4:b49ea1fd-f07a-4a5f-a5bd-d854e245b427:3588
+
+
+
