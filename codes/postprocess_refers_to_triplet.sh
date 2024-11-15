@@ -1,0 +1,5 @@
+python postprocess_refers_to_triplet.py --postprocess_path ../data/graph/clause/edge_triplet/01/01_refers_to_triplets.json --save_path ../data/graph/clause/edge_triplet/01/01_refers_to_triplets_postprocess.json
+python postprocess_refers_to_triplet.py --postprocess_path ../data/graph/clause/edge_triplet/02/02_refers_to_triplets.json --save_path ../data/graph/clause/edge_triplet/02/02_refers_to_triplets_postprocess.json
+python postprocess_refers_to_triplet.py --postprocess_path ../data/graph/clause/edge_triplet/03/03_refers_to_triplets.json --save_path ../data/graph/clause/edge_triplet/03/03_refers_to_triplets_postprocess.json
+python postprocess_refers_to_triplet.py --postprocess_path ../data/graph/clause/edge_triplet/04/04_refers_to_triplets.json --save_path ../data/graph/clause/edge_triplet/04/04_refers_to_triplets_postprocess.json
+python postprocess_refers_to_triplet.py --postprocess_path ../data/graph/clause/edge_triplet/08/08_refers_to_triplets.json --save_path ../data/graph/clause/edge_triplet/08/08_refers_to_triplets_postprocess.json

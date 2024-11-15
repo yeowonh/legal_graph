@@ -1,0 +1,18 @@
+{
+    "model" : "gpt-4o",
+    "embedding_model":"text-embedding-3-large",
+    "chunk_size": 1024,
+    "chunk_overlap": 50,
+    "top_k": 15,
+    "prev_turns" : 5,
+    "hop" : 3,
+    "rag" : "Vector",
+    "database" : "legalgraphrag",
+    "query_classification_prompt_path" : "../codes/GraphDB/prompt/get_query_classification.txt",
+    "keyword_prompt_path" : "../codes/GraphDB/prompt/get_keyword_triplet.txt", 
+    "query_keyword_prompt_path" : "../codes/GraphDB/prompt/get_query_keyword.txt",
+    "query_answer_prompt_path" : "../codes/GraphDB/prompt/get_query_answer.txt",
+    "generation_prompt_path" : "../codes/GraphDB/prompt/generation.txt",
+    "threshold" : 0.4,
+    "max_tokens": 1024
+}
